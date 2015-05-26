@@ -1,0 +1,40 @@
+name: drk0799a.zip
+hash: 5164c0371319678b1ebadc93816c76a4
+year: 1999
+file:
+  CORIN-01.DRK:
+    mimetype: text/plain
+  CRNFX-01.DRK:
+    mimetype: text/plain
+  DARK0799.MEM:
+    mimetype: text/plain
+  DARK0799.NFO:
+    mimetype: text/plain
+  DARKVIEW.DAT:
+    mimetype: application/octet-stream
+  DARKVIEW.DOC:
+    mimetype: text/plain
+  DARKVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DARKVIEW.VOC:
+    mimetype: audio/x-unknown
+  FCADE-01.DRK:
+    mimetype: text/plain
+  FCADE-02.DRK:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KLENX-01.DRK:
+    mimetype: text/plain
+  MULTI-01.DRK:
+    mimetype: text/plain
+  MULTI-02.DRK:
+    mimetype: text/plain
+  OFFSP-01.DRK:
+    mimetype: text/plain
+  OFFSP-02.DRK:
+    mimetype: text/plain
+  OFFSP-03.DRK:
+    mimetype: text/plain
+  ZARKN-01.DRK:
+    mimetype: text/plain

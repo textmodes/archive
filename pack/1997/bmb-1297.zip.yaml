@@ -1,0 +1,72 @@
+name: bmb-1297.zip
+hash: 2908a9426bb260cc2559f7cbcc2a4b2c
+year: 1997
+file:
+  --ANS--:
+    mimetype: text/plain
+  --ASC--:
+    mimetype: text/plain
+  --DIZ--:
+    mimetype: text/plain
+  --NFO--:
+    mimetype: text/plain
+  --VGA--:
+    mimetype: text/plain
+  AXS_BMB2.JPG:
+    mimetype: image/jpeg
+  AXS_WANT.JPG:
+    mimetype: image/jpeg
+  AXS_WIND.JPG:
+    mimetype: image/jpeg
+  BMB-1297.NFO:
+    mimetype: text/plain
+  BMB-1297.NWS:
+    mimetype: text/plain
+  BMB-APP.EXE:
+    mimetype: application/x-msdos-program
+  DKL-JESS.ASC:
+    mimetype: text/plain
+  DSH!KILL.ANS:
+    mimetype: text/plain
+  E5D-NSVG.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NOH-BMB1.ANS:
+    mimetype: text/plain
+  P5-BYE.ANS:
+    mimetype: text/plain
+  P5-LUCID.ANS:
+    mimetype: text/plain
+  P5-MAIN.ANS:
+    mimetype: text/plain
+  P5-SOS.ANS:
+    mimetype: text/plain
+  P5-WH.ANS:
+    mimetype: text/plain
+  PYX-DOM.ANS:
+    mimetype: text/plain
+  PYX-ONEL.ANS:
+    mimetype: text/plain
+  PYX-TDR.ANS:
+    mimetype: text/plain
+  SPD-SIOP.JPG:
+    mimetype: image/jpeg
+  US-CRAP.ASC:
+    mimetype: text/plain
+  US-MUNK.GIF:
+    mimetype: image/gif
+  US-PEN.JPG:
+    mimetype: image/jpeg
+  VRM!SLE2.ASC:
+    mimetype: text/plain
+  VRM-DRAP.JPG:
+    mimetype: image/jpeg
+  VRM-PURG.ASC:
+    mimetype: text/plain
+  VRM-QUIT.ASC:
+    mimetype: text/plain
+  VRM-VEG.JPG:
+    mimetype: image/jpeg
+  VRM-WOOD.JPG:
+    mimetype: image/jpeg

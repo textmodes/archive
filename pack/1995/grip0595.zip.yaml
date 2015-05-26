@@ -1,0 +1,78 @@
+name: grip0595.zip
+hash: 01723a88655541cf168af8646c0ab3c9
+year: 1995
+file:
+  0595MEMB.LST:
+    mimetype: text/plain
+  0595NEWS.NFO:
+    mimetype: text/plain
+  0595SITE.LST:
+    mimetype: text/plain
+  BP-AWCA.GRP:
+    mimetype: text/plain
+  BP-CITY.GRP:
+    mimetype: text/plain
+  BP-FARBE.GRP:
+    mimetype: text/plain
+  BP-PS.GRP:
+    mimetype: text/plain
+  BT-GRIP.ASC:
+    mimetype: text/plain
+  BT-GRIP.GRP:
+    mimetype: text/plain
+  BT-NSE.GRP:
+    mimetype: text/plain
+  BT-TBR.GRP:
+    mimetype: text/plain
+  BT-UG.GRP:
+    mimetype: text/plain
+  CH-FAIL.RIP:
+    mimetype: image/x-rip
+  DM-MOO1.ASC:
+    mimetype: text/plain
+  DM-OBV2.GRP:
+    mimetype: text/plain
+  DM-PODC.GRP:
+    mimetype: text/plain
+  DS-BLACK.S3M:
+    mimetype: audio/x-mod
+  DS-FELIS.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FS-NAD.GRP:
+    mimetype: text/plain
+  FS-NL.GRP:
+    mimetype: text/plain
+  GRIPAPP1.ZIP:
+    mimetype: application/zip
+  GRIPVIEW.EXE:
+    mimetype: application/x-msdos-program
+  GW-BLS.EXE:
+    mimetype: application/x-msdos-program
+  HR-LAMB.PCX:
+    mimetype: image/pcx
+  HR-MH1.PCX:
+    mimetype: image/pcx
+  ND-BX.ASC:
+    mimetype: text/plain
+  ND-CORE.ASC:
+    mimetype: text/plain
+  ND-KTS.ASC:
+    mimetype: text/plain
+  ND-QUESO.ASC:
+    mimetype: text/plain
+  ND-TCH.ASC:
+    mimetype: text/plain
+  SB-STATS.GRP:
+    mimetype: text/plain
+  TNP-COP.ASC:
+    mimetype: text/plain
+  ZK-GR1.GRP:
+    mimetype: text/plain
+  ZK-GR2.GRP:
+    mimetype: text/plain
+  ZK-GR3.GRP:
+    mimetype: text/plain
+  ZOR-YAH.GRP:
+    mimetype: text/plain

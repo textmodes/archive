@@ -1,0 +1,84 @@
+name: cri-0394.zip
+hash: 139f8d38c88ba6a6e19873fe8a3b4d1a
+year: 1994
+file:
+  CRI-APP.EXE:
+    mimetype: application/x-msdos-program
+  CRI-INFO.CRI:
+    mimetype: text/plain
+  CRI-MEM.CRI:
+    mimetype: text/plain
+  CRI-PACK.CRI:
+    mimetype: text/plain
+  CRISISVU.NFO:
+    mimetype: text/plain
+  CV-G1.DAT:
+    mimetype: text/plain
+  CV.EXE:
+    mimetype: application/x-msdos-program
+  DL-ULTRA.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HB-CH.CRI:
+    mimetype: text/plain
+  HB-CRI.RIP:
+    mimetype: image/x-rip
+  HB-CRI6.EXE:
+    mimetype: application/x-msdos-program
+  HB-SOH.CRI:
+    mimetype: text/plain
+  HB-STATS.CRI:
+    mimetype: text/plain
+  HB-THG.CRI:
+    mimetype: text/plain
+  HB-TNL.CRI:
+    mimetype: text/plain
+  HB-WICK2.CRI:
+    mimetype: text/plain
+  LP-NIRVA.MOD:
+    mimetype: audio/x-mod
+  LP-PCCRI.MOD:
+    mimetype: audio/x-mod
+  LP-REMIX.MOD:
+    mimetype: audio/x-mod
+  LP-TTRIP.MOD:
+    mimetype: audio/x-mod
+  MX-MAIN.CRI:
+    mimetype: text/plain
+  MX-TTZ.CRI:
+    mimetype: text/plain
+  MX-WM.CRI:
+    mimetype: text/plain
+  NV-CRISI.RIP:
+    mimetype: image/x-rip
+  NV-FACE.CRI:
+    mimetype: text/plain
+  SL-CELL.MOD:
+    mimetype: audio/x-mod
+  SL-CRISI.GIF:
+    mimetype: image/gif
+  SL-CRISI.RIP:
+    mimetype: image/x-rip
+  SL-DOA.CRI:
+    mimetype: text/plain
+  SL-DOA.RIP:
+    mimetype: image/x-rip
+  SL-INTEN.MOD:
+    mimetype: audio/x-mod
+  SL-PSYCH.CRI:
+    mimetype: text/plain
+  SL-RELIC.CRI:
+    mimetype: text/plain
+  SL-SPANK.MOD:
+    mimetype: audio/x-mod
+  SL-TRCRI.MOD:
+    mimetype: audio/x-mod
+  SL-WICK.RIP:
+    mimetype: image/x-rip
+  TD-MIND.MOD:
+    mimetype: audio/x-mod
+  WELCOME.1:
+    mimetype: text/plain

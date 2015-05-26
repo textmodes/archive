@@ -1,0 +1,20 @@
+name: lupus003.zip
+hash: bbecff3994d5ad429c77c5e4e87563a6
+year: 1993
+file:
+  AE-LUPS1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LUP-0194.MEM:
+    mimetype: text/plain
+  LUP-0194.NWS:
+    mimetype: text/plain
+  LUPUS.NFO:
+    mimetype: text/plain
+  LUPUSAPP.EXE:
+    mimetype: application/x-msdos-program
+  PC-LUPUS.ANS:
+    mimetype: text/plain

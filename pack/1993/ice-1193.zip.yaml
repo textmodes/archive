@@ -1,0 +1,96 @@
+name: ice-1193.zip
+hash: 6d5477b77b09ae22b17fcb68dd0d8716
+year: 1993
+file:
+  "───VGA──.───":
+    mimetype: text/plain
+  AM-GORE.ZIP:
+    mimetype: application/zip
+  AM-SGORE.ZIP:
+    mimetype: application/zip
+  AM-TSI.ICE:
+    mimetype: text/plain
+  AV.EXE:
+    mimetype: application/x-msdos-program
+  COLOR13.ZIP:
+    mimetype: application/zip
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  CT-TAS1.ICE:
+    mimetype: text/plain
+  DZ-TDU2.PCX:
+    mimetype: image/pcx
+  ED-INF5A.GIF:
+    mimetype: image/gif
+  ED-INF5B.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEN-EVOL.ICE:
+    mimetype: text/plain
+  GEN-EXE1.ICE:
+    mimetype: text/plain
+  GEN-SOH.ICE:
+    mimetype: text/plain
+  ICE-1193.MEM:
+    mimetype: text/plain
+  ICE-1193.NFO:
+    mimetype: text/plain
+  ICE-1193.SIT:
+    mimetype: text/plain
+  ICE-1193.STS:
+    mimetype: text/plain
+  ICEAPP.EXE:
+    mimetype: application/x-msdos-program
+  JK-PL2.ICE:
+    mimetype: text/plain
+  KV.DOC:
+    mimetype: text/plain
+  KV.EXE:
+    mimetype: application/x-msdos-program
+  LIT.ZIP:
+    mimetype: application/zip
+  LOGO.ZIP:
+    mimetype: application/zip
+  MH-GRAY1.ICE:
+    mimetype: text/plain
+  MH-MM.ICE:
+    mimetype: text/plain
+  MH-PRT2.ICE:
+    mimetype: text/plain
+  MH-SERP.ICE:
+    mimetype: text/plain
+  MM-TFH.ICE:
+    mimetype: text/plain
+  MODS.ZIP:
+    mimetype: application/zip
+  MS-MELT1.ZIP:
+    mimetype: application/zip
+  RT-NSEC.ICE:
+    mimetype: text/plain
+  RX-EVOL.ICE:
+    mimetype: text/plain
+  RX-ICE.LBM:
+    mimetype: application/octet-stream
+  SCAN.EXE:
+    mimetype: application/x-msdos-program
+  SD-GODS.ICE:
+    mimetype: text/plain
+  SD-RISC2.ICE:
+    mimetype: text/plain
+  SE-BITCH.ICE:
+    mimetype: text/plain
+  SE-DAMAG.ICE:
+    mimetype: text/plain
+  SE-DRAG.ICE:
+    mimetype: text/plain
+  SE-SHIT.ICE:
+    mimetype: text/plain
+  SN-TMR1.EXE:
+    mimetype: application/x-msdos-program
+  TRW-TEC1.ICE:
+    mimetype: text/plain
+  VI-HL1.GIF:
+    mimetype: image/gif
+  WIZ-BUD4.ICE:
+    mimetype: text/plain

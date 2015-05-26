@@ -1,0 +1,30 @@
+name: dkb_pra8.lha
+hash: 0ba9b2052dfd648091c8410c901ebb88
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  kuchen.dok:
+    mimetype: text/plain
+  pos.txt:
+    mimetype: text/plain
+  prag84.jpg:
+    mimetype: image/jpeg
+  prag85.jpg:
+    mimetype: image/jpeg
+  prag86.jpg:
+    mimetype: image/jpeg
+  prag87.jpg:
+    mimetype: image/jpeg
+  prag88.jpg:
+    mimetype: image/jpeg
+  prag89.jpg:
+    mimetype: image/jpeg
+  prag90.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  x2!.doc:
+    mimetype: text/plain

@@ -1,0 +1,68 @@
+name: lqd-9403.zip
+hash: 4c21d734be1c0e66ba4397559e16d724
+year: 1994
+file:
+  APPLIK.EXE:
+    mimetype: application/x-msdos-program
+  BNY-1ST6.MOD:
+    mimetype: audio/x-mod
+  BNY-MOVE.MOD:
+    mimetype: audio/x-mod
+  EXTUTILS.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LQD-AV.EXE:
+    mimetype: application/x-msdos-program
+  MEMBERS.NFO:
+    mimetype: text/plain
+  MS-GLOBE.FLC:
+    mimetype: video/x-flc
+  MS-LORD!.FLC:
+    mimetype: video/x-flc
+  MS-LQD-1.FLC:
+    mimetype: video/x-flc
+  MS-LQD-2.FLC:
+    mimetype: video/x-flc
+  MU-BOARD.LQD:
+    mimetype: text/plain
+  MU-BONDS.LQD:
+    mimetype: text/plain
+  MU-FRFI.LQD:
+    mimetype: text/plain
+  MU-MIX01.MTM:
+    mimetype: application/octet-stream
+  MU-SPOCK.LQD:
+    mimetype: text/plain
+  MU-WINGR.LQD:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  NETWORK.NFO:
+    mimetype: text/plain
+  SR-BOARD.GIF:
+    mimetype: image/gif
+  SR-CTCMB.LQD:
+    mimetype: text/plain
+  SR-EYE.LQD:
+    mimetype: text/plain
+  SR-HARDW.LQD:
+    mimetype: text/plain
+  SR-LQD-1.LQD:
+    mimetype: text/plain
+  SR-LQD-2.LQD:
+    mimetype: text/plain
+  SR-LQD-3.LQD:
+    mimetype: text/plain
+  SR-LQD-4.LQD:
+    mimetype: text/plain
+  SR-LQD-5.LQD:
+    mimetype: text/plain
+  SR-RGSTS.LQD:
+    mimetype: text/plain
+  SR-SCCRY.LQD:
+    mimetype: text/plain
+  VDO-LOGO.GIF:
+    mimetype: image/gif
+  VDO-LQD1.GIF:
+    mimetype: image/gif

@@ -1,0 +1,116 @@
+name: rave-02.zip
+hash: 54c1bf7178219862bdd9197ecc10b56e
+year: 1994
+file:
+  APOC_AD.ANS:
+    mimetype: text/plain
+  BF-STAT.ANS:
+    mimetype: text/plain
+  CT-RAVE1.ANS:
+    mimetype: text/plain
+  CT-TSN.ANS:
+    mimetype: text/plain
+  DASHSET.ZIP:
+    mimetype: application/zip
+  DG-DD2.ANS:
+    mimetype: text/plain
+  DG-RAVE.ANS:
+    mimetype: text/plain
+  DMP.EXE:
+    mimetype: application/x-msdos-program
+  DSH-IMM1.ANS:
+    mimetype: text/plain
+  DSH-IMOR.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-CYBER.ANS:
+    mimetype: text/plain
+  FL-TSN.LIT:
+    mimetype: text/plain
+  FL-UGA.ANS:
+    mimetype: text/plain
+  HLAND.S3M:
+    mimetype: audio/x-mod
+  IC-ANEX.ANS:
+    mimetype: text/plain
+  IC-BSMT.ANS:
+    mimetype: text/plain
+  IC-TOI.ANS:
+    mimetype: text/plain
+  IC-UWRLD.ANS:
+    mimetype: text/plain
+  KKATS.S3M:
+    mimetype: audio/x-mod
+  KT-RAVE.GIF:
+    mimetype: image/gif
+  LE-CS.ANS:
+    mimetype: text/plain
+  LE-CS3.ANS:
+    mimetype: text/plain
+  LE-CWS1.ANS:
+    mimetype: text/plain
+  LE-CWS2.ANS:
+    mimetype: text/plain
+  LE-GAT.ANS:
+    mimetype: text/plain
+  LE-ROT0.ANS:
+    mimetype: text/plain
+  LE-ROT1.ANS:
+    mimetype: text/plain
+  LE-TUC.ANS:
+    mimetype: text/plain
+  LS-CROPS.LIT:
+    mimetype: text/plain
+  LS-MOON.LIT:
+    mimetype: text/plain
+  PAUL.S3M:
+    mimetype: audio/x-mod
+  PSYCHO.S3M:
+    mimetype: audio/x-mod
+  RAVE-02.MEM:
+    mimetype: text/plain
+  RAVE-02.NWS:
+    mimetype: text/plain
+  RAVE-02.SIT:
+    mimetype: text/plain
+  RAVEAPP.ZIP:
+    mimetype: application/zip
+  RAVEVIEW.ZIP:
+    mimetype: application/zip
+  RIDER.S3M:
+    mimetype: audio/x-mod
+  RUNME.BAT:
+    mimetype: application/x-msdos-program
+  RV-BOOB.ANS:
+    mimetype: text/plain
+  RV-RAVE.ANS:
+    mimetype: text/plain
+  RV-SPITT.ANS:
+    mimetype: text/plain
+  RV-THEAD.ANS:
+    mimetype: text/plain
+  SM-DSM1.ANS:
+    mimetype: text/plain
+  SM-RAVE5.ANS:
+    mimetype: text/plain
+  SM-SG2.ANS:
+    mimetype: text/plain
+  SM-STATS.ANS:
+    mimetype: text/plain
+  SM-TIC.ANS:
+    mimetype: text/plain
+  SM-TSN.ANS:
+    mimetype: text/plain
+  ST-RAVE.GIF:
+    mimetype: image/gif
+  STELLAR.GIF:
+    mimetype: image/gif
+  STEP.S3M:
+    mimetype: audio/x-mod
+  STRONG.S3M:
+    mimetype: audio/x-mod
+  WV-RAVE1.ANS:
+    mimetype: text/plain
+  WV-TR1.ANS:
+    mimetype: text/plain

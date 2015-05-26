@@ -1,0 +1,74 @@
+name: moz9604a.zip
+hash: 2ea372444ad0c21309e1549ad901decc
+year: 1996
+file:
+  CAPTAIN.COM:
+    mimetype: application/x-msdos-program
+  DRB-9604.ANS:
+    mimetype: text/plain
+  EOD.DOX:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GREETINX.MOZ:
+    mimetype: application/octet-stream
+  HISTORY.MOZ:
+    mimetype: application/octet-stream
+  MGD-DRAH.GIF:
+    mimetype: image/gif
+  MGD-DRAL.GIF:
+    mimetype: image/gif
+  MGD-SF.GIF:
+    mimetype: image/gif
+  MOZ9604A.DIZ:
+    mimetype: text/plain
+  MOZICART.ANS:
+    mimetype: text/plain
+  MOZICART.ASC:
+    mimetype: text/plain
+  MOZICART.NFO:
+    mimetype: text/plain
+  MTE-HAZA.JPG:
+    mimetype: image/jpeg
+  MTE-SCHA.JPG:
+    mimetype: image/jpeg
+  MTE-SPT3.JPG:
+    mimetype: image/jpeg
+  MTE-SPTV.JPG:
+    mimetype: image/jpeg
+  RBK-9604.LIT:
+    mimetype: text/plain
+  RELEASES.MOZ:
+    mimetype: application/octet-stream
+  SHD-9604.ANS:
+    mimetype: text/plain
+  SHD-SOFT.ANS:
+    mimetype: text/plain
+  SHD-STBN.ANS:
+    mimetype: text/plain
+  SHD-SU1.ANS:
+    mimetype: text/plain
+  SMA-MKA.ANS:
+    mimetype: text/plain
+  SNT. SU:
+    mimetype: text/plain
+  SNT.NFO:
+    mimetype: text/plain
+  TOE-9604.ASC:
+    mimetype: text/plain
+  TOE-MAIN.ANS:
+    mimetype: text/plain
+  TOE-STBN.ANS:
+    mimetype: text/plain
+  WAV-9604.ASC:
+    mimetype: text/plain
+  WAV-NEUT.JPG:
+    mimetype: image/jpeg
+  XXX-MOZ.APP:
+    mimetype: text/plain
+  XXX-MOZ.REQ:
+    mimetype: text/plain
+  ZOZ-SURR.JPG:
+    mimetype: image/jpeg
+  ZOZICONS.ZIP:
+    mimetype: application/zip

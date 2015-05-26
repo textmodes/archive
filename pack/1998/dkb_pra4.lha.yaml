@@ -1,0 +1,40 @@
+name: dkb_pra4.lha
+hash: 9768f60b8acad6bdcbca5762425562ee
+year: 1998
+file:
+  cdrom.dok:
+    mimetype: text/plain
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  prag38.jpg:
+    mimetype: image/jpeg
+  prag39.jpg:
+    mimetype: image/jpeg
+  prag40.jpg:
+    mimetype: image/jpeg
+  prag41.jpg:
+    mimetype: image/jpeg
+  prag42.jpg:
+    mimetype: image/jpeg
+  prag43.jpg:
+    mimetype: image/jpeg
+  prag44.jpg:
+    mimetype: image/jpeg
+  prag45.jpg:
+    mimetype: image/jpeg
+  prag46.jpg:
+    mimetype: image/jpeg
+  prag47.jpg:
+    mimetype: image/jpeg
+  prag48.jpg:
+    mimetype: image/jpeg
+  prag49.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  tj.bbs:
+    mimetype: text/plain
+  unix.txt:
+    mimetype: text/plain

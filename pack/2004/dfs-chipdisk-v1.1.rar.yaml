@@ -1,0 +1,12 @@
+name: dfs-chipdisk-v1.1.rar
+hash: 9c02d9e08a0b05725e82e1d21bb78ec9
+year: 2004
+file:
+  dfs-chipdisk-v1.1/bass.dll:
+    mimetype: application/x-dosexec
+  dfs-chipdisk-v1.1/blitzbass.dll:
+    mimetype: application/x-dosexec
+  dfs-chipdisk-v1.1/dfs-chip-v1.1.exe:
+    mimetype: application/x-msdos-program
+  dfs-chipdisk-v1.1/ik-dfsk.txt:
+    mimetype: text/plain

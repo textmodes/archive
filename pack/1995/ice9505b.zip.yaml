@@ -1,0 +1,30 @@
+name: ice9505b.zip
+hash: 7fad05190f4e031e35ed675d23a8cb6a
+year: 1995
+file:
+  "─CONT'D─.───":
+    mimetype: text/plain
+  BZ-TDF.EXE:
+    mimetype: application/x-msdos-program
+  BZ-THS.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEAVEN.ANS:
+    mimetype: text/plain
+  JM-DARE.JPG:
+    mimetype: image/jpeg
+  LANDSCAP.DTA:
+    mimetype: application/octet-stream
+  LO-PANTH.JPG:
+    mimetype: image/jpeg
+  NF-LAND.EXE:
+    mimetype: application/x-msdos-program
+  SQ-MAYO.GIF:
+    mimetype: image/gif
+  SW-CYCL2.GIF:
+    mimetype: image/gif
+  TD-TRM1.JPG:
+    mimetype: image/jpeg
+  XT-GENO.JPG:
+    mimetype: image/jpeg

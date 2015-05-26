@@ -1,0 +1,16 @@
+name: mirage04.zip
+hash: 10f500407ebb831ab83fecb6a0261388
+year: 1992
+file:
+  MB-METAL.EXE:
+    mimetype: application/x-msdos-program
+  MB-SPASM.EXE:
+    mimetype: application/x-msdos-program
+  MIRAGE04.NFO:
+    mimetype: text/plain
+  MX-MAR.EXE:
+    mimetype: application/x-msdos-program
+  MX-SUB.EXE:
+    mimetype: application/x-msdos-program
+  PN-TZU.EXE:
+    mimetype: application/x-msdos-program

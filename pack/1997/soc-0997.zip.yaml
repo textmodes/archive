@@ -1,0 +1,138 @@
+name: soc-0997.zip
+hash: 4d2d7cedcb9ff89ff58785a184c57b4c
+year: 1997
+file:
+  02SOCMEM.ANS:
+    mimetype: text/plain
+  02SOCNFO.ANS:
+    mimetype: text/plain
+  AA-AREA.ANS:
+    mimetype: text/plain
+  AA-AWE.ANS:
+    mimetype: text/plain
+  ASPHDR.ASC:
+    mimetype: text/plain
+  ASPHSF.ASC:
+    mimetype: text/plain
+  BIO-SOC.ASC:
+    mimetype: text/plain
+  BZR-MENT.ANS:
+    mimetype: text/plain
+  DFUSE-I.ANS:
+    mimetype: text/plain
+  DM!FISH.ANS:
+    mimetype: text/plain
+  DM!OCT.ANS:
+    mimetype: text/plain
+  E0-NEWS.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FPT-SOC.RIP:
+    mimetype: image/x-rip
+  FT-SOC.ANS:
+    mimetype: text/plain
+  H4-E.ASC:
+    mimetype: text/plain
+  H4-PEST.ASC:
+    mimetype: text/plain
+  HB-POD1.ANS:
+    mimetype: text/plain
+  JD-TMS1.ANS:
+    mimetype: text/plain
+  M0-ILL.ANS:
+    mimetype: text/plain
+  M0-SOCI.ANS:
+    mimetype: text/plain
+  MC-DAWG.RIP:
+    mimetype: image/x-rip
+  MC-EUPH.RIP:
+    mimetype: image/x-rip
+  MC-MNT.RIP:
+    mimetype: image/x-rip
+  MC-SPLAT.RIP:
+    mimetype: image/x-rip
+  MC-WAR25.RIP:
+    mimetype: image/x-rip
+  MDSTUCK.ANS:
+    mimetype: text/plain
+  MI-SOC.ANS:
+    mimetype: text/plain
+  MNT!VIEW.EXE:
+    mimetype: application/x-msdos-program
+  MR-SOCI.ANS:
+    mimetype: text/plain
+  PS!0997C.ANS:
+    mimetype: text/plain
+  PYX-LUNA.ANS:
+    mimetype: text/plain
+  QT-BLK1.ASC:
+    mimetype: text/plain
+  QT-GSTS.ASC:
+    mimetype: text/plain
+  QT-MSD2.ASC:
+    mimetype: text/plain
+  QT-PRG.ASC:
+    mimetype: text/plain
+  RA-ACID4.ANS:
+    mimetype: text/plain
+  REP!B_D.ASC:
+    mimetype: text/plain
+  REP!P^T2.ASC:
+    mimetype: text/plain
+  SI!SOC1.ANS:
+    mimetype: text/plain
+  SOC-APP.EXE:
+    mimetype: application/x-msdos-program
+  SOC-REQ.EXE:
+    mimetype: application/x-msdos-program
+  SON-ASC.ASC:
+    mimetype: text/plain
+  ST!-FR.ANS:
+    mimetype: text/plain
+  ST!-IFSP.ANS:
+    mimetype: text/plain
+  ST!-MAIN.ANS:
+    mimetype: text/plain
+  ST!-SKL6.ANS:
+    mimetype: text/plain
+  ST!-WOLV.ANS:
+    mimetype: text/plain
+  TD-DEV.ASC:
+    mimetype: text/plain
+  TD-POLT.ASC:
+    mimetype: text/plain
+  TD-TRE.ASC:
+    mimetype: text/plain
+  TSK-AGE1.ASC:
+    mimetype: text/plain
+  US-AA.ANS:
+    mimetype: text/plain
+  US-ATO.ANS:
+    mimetype: text/plain
+  US-C02.ANS:
+    mimetype: text/plain
+  US-DIZ.ASC:
+    mimetype: text/plain
+  US-DREAM.ASC:
+    mimetype: text/plain
+  US-EDGE.ANS:
+    mimetype: text/plain
+  US-GLUE9.ANS:
+    mimetype: text/plain
+  US-JUSTA.ASC:
+    mimetype: text/plain
+  US-PTM.ANS:
+    mimetype: text/plain
+  US-SOC.ANS:
+    mimetype: text/plain
+  US-SOC.RIP:
+    mimetype: image/x-rip
+  US-SOC1.ANS:
+    mimetype: text/plain
+  US-SOC1.ASC:
+    mimetype: text/plain
+  WE-LOST1.ASC:
+    mimetype: text/plain
+  WH!COL.ASC:
+    mimetype: text/plain

@@ -1,0 +1,12 @@
+name: dkb_n1.lzh
+hash: ef271c2dbe9f552a5a8ca7af9e6fe5b3
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  nest.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain

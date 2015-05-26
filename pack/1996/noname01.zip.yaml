@@ -1,0 +1,74 @@
+name: noname01.zip
+hash: a6c3db5ee6b349f9667ddf01d7d0bd79
+year: 1996
+file:
+  ^CN-CAP1.TXT:
+    mimetype: text/plain
+  BM-HIP.ASC:
+    mimetype: text/plain
+  CN-ACID1.ASC:
+    mimetype: text/plain
+  CN-ETD1.ASC:
+    mimetype: text/plain
+  CN-ETD2.ASC:
+    mimetype: text/plain
+  CN-IOM.ASC:
+    mimetype: text/plain
+  CN-IOM2.ASC:
+    mimetype: text/plain
+  CN-NON1.ASC:
+    mimetype: text/plain
+  DY-ALL5.ASC:
+    mimetype: text/plain
+  DY-CIA6.ASC:
+    mimetype: text/plain
+  DY-COMA1.ASC:
+    mimetype: text/plain
+  DY-CROW.ASC:
+    mimetype: text/plain
+  DY-IOM1.ASC:
+    mimetype: text/plain
+  DY-NON1.ASC:
+    mimetype: text/plain
+  DY-PCM.ASC:
+    mimetype: text/plain
+  DY-TFS1.ASC:
+    mimetype: text/plain
+  F!-GFUNK.ASC:
+    mimetype: text/plain
+  F!-ICITY.ASC:
+    mimetype: text/plain
+  F!-NONME.ASC:
+    mimetype: text/plain
+  F!-OATH.ASC:
+    mimetype: text/plain
+  F!-UNFLD.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NNMAPP1B.ZIP:
+    mimetype: application/zip
+  NONAME01.MEM:
+    mimetype: text/plain
+  NONAME01.NFO:
+    mimetype: text/plain
+  PIKZEICN.EXE:
+    mimetype: application/x-msdos-program
+  PIKZEICN.NFO:
+    mimetype: text/plain
+  PIKZEICN.TXT:
+    mimetype: text/plain
+  SD-MATRX.ASC:
+    mimetype: text/plain
+  SD-NON01.ASC:
+    mimetype: text/plain
+  TSH2TOP.EXE:
+    mimetype: application/x-msdos-program
+  US-FUDGE.ASC:
+    mimetype: text/plain
+  US-TFS01.ASC:
+    mimetype: text/plain
+  US-TTH.ASC:
+    mimetype: text/plain
+  WAXMESOF.TLY:
+    mimetype: text/plain

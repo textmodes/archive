@@ -1,0 +1,30 @@
+name: dkb_deca.lha
+hash: b45c9db1f9495dd2f11c9a36e72f0930
+year: 1998
+file:
+  Quarkteilchen.readme:
+    mimetype: text/plain
+  Schneeloch:
+    mimetype: text/plain
+  dEE-cHARACTa01.jpg:
+    mimetype: image/jpeg
+  dEE-cHARACTa02.jpg:
+    mimetype: image/jpeg
+  dEE-cHARACTa03.jpg:
+    mimetype: image/jpeg
+  dEE-cHARACTa04.jpg:
+    mimetype: image/jpeg
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  friendsonly.exe:
+    mimetype: application/x-msdos-program
+  onlyfriends.exe:
+    mimetype: application/x-msdos-program
+  phreakin.dok:
+    mimetype: text/plain
+  tj.doc:
+    mimetype: text/plain
+  x2!.doc:
+    mimetype: text/plain

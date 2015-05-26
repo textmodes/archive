@@ -1,0 +1,46 @@
+name: moz9601c.zip
+hash: 077115f57c478f1559872883e1ebf189
+year: 1996
+file:
+  19371099.EXE:
+    mimetype: application/x-msdos-program
+  FASTMOVE.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LRY-WAW.S3M:
+    mimetype: audio/x-mod
+  MOULDY.NFO:
+    mimetype: text/plain
+  MOZ9601C.DIZ:
+    mimetype: text/plain
+  MOZICART.ANS:
+    mimetype: text/plain
+  MOZICART.ASC:
+    mimetype: text/plain
+  MOZICART.NFO:
+    mimetype: text/plain
+  MST-BIZZ.S3M:
+    mimetype: audio/x-mod
+  OMG-DIGI.S3M:
+    mimetype: audio/x-mod
+  OMG-NOGD.S3M:
+    mimetype: audio/x-mod
+  OMG-SMRN.S3M:
+    mimetype: audio/x-mod
+  REDBULL.COM:
+    mimetype: application/x-msdos-program
+  RELEASES.MOZ:
+    mimetype: application/octet-stream
+  TRANCENT.RAL:
+    mimetype: text/plain
+  ULTRAMAX.NFO:
+    mimetype: text/plain
+  XTC.EXE:
+    mimetype: application/x-msdos-program
+  XXX-MOZ.APP:
+    mimetype: text/plain
+  XXX-MOZ.REQ:
+    mimetype: text/plain

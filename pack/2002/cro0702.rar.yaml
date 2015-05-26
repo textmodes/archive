@@ -1,0 +1,14 @@
+name: cro0702.rar
+hash: 4c02c0478197cb6c016da778c8a4ebd0
+year: 2002
+file:
+  BASS.DLL:
+    mimetype: application/x-dosexec
+  CRO0702.RAR:
+    mimetype: application/rar
+  FMOD.DLL:
+    mimetype: application/x-dosexec
+  SETUP.EXE:
+    mimetype: application/x-msdos-program
+  UNRAR.DLL:
+    mimetype: application/x-dosexec

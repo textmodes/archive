@@ -1,0 +1,38 @@
+name: dkb_dee1.lha
+hash: de5c55d25aed0aed0041b7fbc095b6ca
+year: 1998
+file:
+  Quarkteilchen.readme:
+    mimetype: text/plain
+  Schneeloch:
+    mimetype: text/plain
+  dEEONE06.jpg:
+    mimetype: image/jpeg
+  dEEONe01.jpg:
+    mimetype: image/jpeg
+  dEEONe02.jpg:
+    mimetype: image/jpeg
+  dEEONe03.jpg:
+    mimetype: image/jpeg
+  dEEONe04.jpg:
+    mimetype: image/jpeg
+  dEEONe05.jpg:
+    mimetype: image/jpeg
+  dEEONe07.jpg:
+    mimetype: image/jpeg
+  dEEONe08.jpg:
+    mimetype: image/jpeg
+  die.dok:
+    mimetype: text/plain
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  friendsonly.exe:
+    mimetype: application/x-msdos-program
+  nintendo.txt:
+    mimetype: text/plain
+  onlyfriends.exe:
+    mimetype: application/x-msdos-program
+  shelter!.doc:
+    mimetype: text/plain

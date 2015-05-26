@@ -1,0 +1,66 @@
+name: fat-0894.zip
+hash: bf53315d40067841eb75820970498ab4
+year: 1994
+file:
+  BB-EOD1.FAT:
+    mimetype: text/plain
+  BB-FAT1.FAT:
+    mimetype: text/plain
+  BB-FAT2.FAT:
+    mimetype: text/plain
+  BB-FAT3.FAT:
+    mimetype: text/plain
+  BB-IS1.FAT:
+    mimetype: text/plain
+  BB-SYN2.FAT:
+    mimetype: text/plain
+  BBB-MH.S3M:
+    mimetype: audio/x-mod
+  BBB-VIO.S3M:
+    mimetype: audio/x-mod
+  CD-STO69.FAT:
+    mimetype: text/plain
+  DP-TST.FAT:
+    mimetype: text/plain
+  ESO-LGO.FAT:
+    mimetype: text/plain
+  ESO_INT.FAT:
+    mimetype: text/plain
+  FAT-0894.NFO:
+    mimetype: text/plain
+  FAT-APP.EXE:
+    mimetype: application/x-msdos-program
+  FAT-NEWS.NFO:
+    mimetype: text/plain
+  FAT.COM:
+    mimetype: application/x-msdos-program
+  FATBITS.ZIP:
+    mimetype: application/zip
+  FATLOGO3.ZIP:
+    mimetype: application/zip
+  FATVIEW.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GW-HELL.LIT:
+    mimetype: text/plain
+  GW-LAUM.LIT:
+    mimetype: text/plain
+  GW-MOOD.LIT:
+    mimetype: text/plain
+  GW-STAPL.LIT:
+    mimetype: text/plain
+  GW-TIM.LIT:
+    mimetype: text/plain
+  GW-WIND.LIT:
+    mimetype: text/plain
+  MR-END.S3M:
+    mimetype: audio/x-mod
+  MS-FAT.LIT:
+    mimetype: text/plain
+  MS-MAG.FAT:
+    mimetype: text/plain
+  MS-VIO.FAT:
+    mimetype: text/plain
+  PHLEGM.NFO:
+    mimetype: text/plain

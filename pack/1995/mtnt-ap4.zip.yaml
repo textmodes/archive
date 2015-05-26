@@ -1,0 +1,38 @@
+name: mtnt-ap4.zip
+hash: 190a92f866f57d0eda8cdcb5b2dbcea1
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MTL-ASYL.ANS:
+    mimetype: text/plain
+  MTL-ASYL.ASC:
+    mimetype: text/plain
+  MTL-MTN2.JPG:
+    mimetype: image/jpeg
+  MTL-MTNT.JPG:
+    mimetype: image/jpeg
+  MTL-MYS2.ANS:
+    mimetype: text/plain
+  MTL-MYS2.ASC:
+    mimetype: text/plain
+  MTL-MYST.ANS:
+    mimetype: text/plain
+  MTL-MYST.ASC:
+    mimetype: text/plain
+  MTL-RVN.ASC:
+    mimetype: text/plain
+  MTL-SYS.ANS:
+    mimetype: text/plain
+  MTL-SYS.ASC:
+    mimetype: text/plain
+  MTNTVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MTNTVIEW.TXT:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SPO-PL.ANS:
+    mimetype: text/plain
+  SPO-PL2.ANS:
+    mimetype: text/plain

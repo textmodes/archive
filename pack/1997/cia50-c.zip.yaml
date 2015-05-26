@@ -1,0 +1,18 @@
+name: cia50-c.zip
+hash: 8e6c3c96fba8027ec3f5273af70824bf
+year: 1997
+file:
+  '#50-DISK.NFO':
+    mimetype: text/plain
+  '#50-INFO.CIA':
+    mimetype: text/plain
+  ┌── CIA.──┐:
+    mimetype: text/plain
+  └── #50.──┘:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  TETRA.DOC:
+    mimetype: text/plain
+  TETRA.EXE:
+    mimetype: application/x-msdos-program

@@ -1,0 +1,76 @@
+name: ice-0793.zip
+hash: 9f2c96fe0334ec08f2762fa67aad7c67
+year: 1993
+file:
+  AV.EXE:
+    mimetype: application/x-msdos-program
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  CT-CINTX.ICE:
+    mimetype: text/plain
+  CT-SV.ICE:
+    mimetype: text/plain
+  CT-TSL.ICE:
+    mimetype: text/plain
+  DZ-LE2.ICE:
+    mimetype: text/plain
+  ED-DSTAR.ICE:
+    mimetype: text/plain
+  ED-HARD.ICE:
+    mimetype: text/plain
+  FI-BE.ICE:
+    mimetype: text/plain
+  FI-SV.ICE:
+    mimetype: text/plain
+  FI-TEC.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-793.MEM:
+    mimetype: text/plain
+  ICE-793.NFO:
+    mimetype: text/plain
+  ICE-793.SIT:
+    mimetype: text/plain
+  ICE-793.STS:
+    mimetype: text/plain
+  LIT.ZIP:
+    mimetype: application/zip
+  LOGO.ZIP:
+    mimetype: application/zip
+  MH-PG.ICE:
+    mimetype: text/plain
+  MH-WALL.ICE:
+    mimetype: text/plain
+  MODS.ZIP:
+    mimetype: application/zip
+  MV.EXE:
+    mimetype: application/x-msdos-program
+  RA-HARM.ICE:
+    mimetype: text/plain
+  RM-HARM.ICE:
+    mimetype: text/plain
+  RM-MAIN.ICE:
+    mimetype: text/plain
+  RM-VORT.ICE:
+    mimetype: text/plain
+  RV-SV.ICE:
+    mimetype: text/plain
+  S8-EMH.ICE:
+    mimetype: text/plain
+  SQ-FK.ICE:
+    mimetype: text/plain
+  SQ-UCA.ICE:
+    mimetype: text/plain
+  SWAT.NFO:
+    mimetype: text/plain
+  SZ-LOON2.ICE:
+    mimetype: text/plain
+  TMT-FACE.ICE:
+    mimetype: text/plain
+  TRW-TBE.ICE:
+    mimetype: text/plain
+  TRWTT-EX.ICE:
+    mimetype: text/plain
+  VU-US2.ICE:
+    mimetype: text/plain

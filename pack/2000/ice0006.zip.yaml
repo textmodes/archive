@@ -1,0 +1,42 @@
+name: ice0006.zip
+hash: bc28cc4ab53d7c91873fb0e926070fff
+year: 2000
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-0006.DSC:
+    mimetype: text/plain
+  ICE-0006.MEM:
+    mimetype: text/plain
+  ICE-0006.NFO:
+    mimetype: text/plain
+  ICE-0006.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ID-GLASS.JPG:
+    mimetype: image/jpeg
+  JA-ORLOK.JPG:
+    mimetype: image/jpeg
+  JA-WOLF.JPG:
+    mimetype: image/jpeg
+  JM-CNCPT.JPG:
+    mimetype: image/jpeg
+  SQ2-ECLE.JPG:
+    mimetype: image/jpeg
+  SQ2-TEC.JPG:
+    mimetype: image/jpeg
+  SQ2-TROL.JPG:
+    mimetype: image/jpeg
+  TE-66602.JPG:
+    mimetype: image/jpeg
+  TE-FALLN.JPG:
+    mimetype: image/jpeg
+  TE-FIREH.JPG:
+    mimetype: image/jpeg
+  TE-GRVLD.JPG:
+    mimetype: image/jpeg

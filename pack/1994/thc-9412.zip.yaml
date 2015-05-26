@@ -1,0 +1,54 @@
+name: thc-9412.zip
+hash: d4c716f373b5b7e88353f12a04455f66
+year: 1994
+file:
+  DEFIANCE.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  INF-9412.THC:
+    mimetype: text/plain
+  JD-MUNE.LIT:
+    mimetype: text/plain
+  JOY.S3M:
+    mimetype: audio/x-mod
+  MEM-9412.THC:
+    mimetype: text/plain
+  NM-TRAIN.LIT:
+    mimetype: text/plain
+  O_CANADA.S3M:
+    mimetype: audio/x-mod
+  OLDATARI.S3M:
+    mimetype: audio/x-mod
+  OT-THC1.THC:
+    mimetype: text/plain
+  OT-VOODO.THC:
+    mimetype: text/plain
+  PREDATOR.NFO:
+    mimetype: text/plain
+  SPIRAL.NFO:
+    mimetype: text/plain
+  SSN.COM:
+    mimetype: application/x-msdos-program
+  TE-AP.THC:
+    mimetype: text/plain
+  TE-DREAD.THC:
+    mimetype: text/plain
+  TE-SERO.THC:
+    mimetype: text/plain
+  TE-SERO2.THC:
+    mimetype: text/plain
+  THC.S3M:
+    mimetype: audio/x-mod
+  THCAPP.EXE:
+    mimetype: application/x-msdos-program
+  TRB.S3M:
+    mimetype: audio/x-mod
+  V_DRUG.S3M:
+    mimetype: audio/x-mod
+  WA-TRB2.THC:
+    mimetype: text/plain
+  WY-CRCO1.THC:
+    mimetype: text/plain
+  WY-DLAIR.THC:
+    mimetype: text/plain

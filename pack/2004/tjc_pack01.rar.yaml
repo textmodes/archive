@@ -1,0 +1,42 @@
+name: tjc_pack01.rar
+hash: 0623cf142abe6d361bd5abaf9d40b2aa
+year: 2004
+file:
+  chipdisk/data/alg&jal_-_satans_weihnachtsmann.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/algar-bock.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/algar-grod.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/algar-gumma.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/algar-hiv.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/algar-hydda.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/algar-jimalg.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/algar-xmas1.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/pikzel-frontline.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/pikzel-rysk.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/pikzel-testdrive.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/pikzel-vain.xm:
+    mimetype: audio/x-mod
+  chipdisk/data/pxl&jal_-_on_the_way.xm:
+    mimetype: audio/x-mod
+  chipdisk/fmod.dll:
+    mimetype: text/plain
+  chipdisk/tjc_cd1.exe:
+    mimetype: application/x-msdos-program
+  gfx/tjc.jpg:
+    mimetype: image/jpeg
+  info.txt:
+    mimetype: text/plain
+  intro/sfx/algar_intro.xm:
+    mimetype: audio/x-mod
+  intro/tjc_intro1.exe:
+    mimetype: application/x-msdos-program

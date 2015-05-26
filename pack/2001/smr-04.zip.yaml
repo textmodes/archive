@@ -1,0 +1,74 @@
+name: smr-04.zip
+hash: ae1270c1b341812e8184da9c679961b9
+year: 2001
+file:
+  AS-ATMO.ANS:
+    mimetype: text/plain
+  AS-DIZ.ASC:
+    mimetype: text/plain
+  AS-DSB1.ASC:
+    mimetype: text/plain
+  AS-JAZZY.TXT:
+    mimetype: text/plain
+  AS-LAST.ASC:
+    mimetype: text/plain
+  AS-PILOT.ANS:
+    mimetype: text/plain
+  AS-RMRS.BIN:
+    mimetype: text/x-binary
+  AS-SCLR.ASC:
+    mimetype: text/plain
+  AS-UIC.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRD-7LRD.ANS:
+    mimetype: text/plain
+  FRD-LMD.ANS:
+    mimetype: text/plain
+  FRD-MSB.ANS:
+    mimetype: text/plain
+  HG-DIZ.ASC:
+    mimetype: text/plain
+  HG_HEART.ASC:
+    mimetype: text/plain
+  JAH-CITY.ASC:
+    mimetype: text/plain
+  JAH-DB.ASC:
+    mimetype: text/plain
+  JAH-MAIN.ASC:
+    mimetype: text/plain
+  JAH-MIM.ASC:
+    mimetype: text/plain
+  JAH-ROFT.ASC:
+    mimetype: text/plain
+  JAH-RSN.ASC:
+    mimetype: text/plain
+  JAH-SIMH.ASC:
+    mimetype: text/plain
+  JAH-TEMA.ASC:
+    mimetype: text/plain
+  JAH-WELC.ASC:
+    mimetype: text/plain
+  RMK-AH.ANS:
+    mimetype: text/plain
+  RMK-AH4.ANS:
+    mimetype: text/plain
+  RMK-BBS.ANS:
+    mimetype: text/plain
+  RMK-FID.ASC:
+    mimetype: text/plain
+  RMK-SMR1.ANS:
+    mimetype: text/plain
+  SMR-04.NFO:
+    mimetype: text/plain
+  SMR.APP:
+    mimetype: application/octet-stream
+  SMR.NFO:
+    mimetype: text/plain
+  XR-BLD.ASC:
+    mimetype: text/plain
+  XR-E.ASC:
+    mimetype: text/plain
+  XR-RGD01.ASC:
+    mimetype: text/plain

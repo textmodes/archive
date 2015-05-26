@@ -1,0 +1,52 @@
+name: kbsart02.zip
+hash: 67870c890ac7711bccbafef97dae9c09
+year: 1999
+file:
+  '#ANS_P1.LOG':
+    mimetype: application/octet-stream
+  CLS-DIST.ANS:
+    mimetype: text/plain
+  CLS-TO99.ANS:
+    mimetype: text/plain
+  CP-KKCHI.ANS:
+    mimetype: text/plain
+  DS-COLLY.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GOATBOY.LOG:
+    mimetype: application/octet-stream
+  INC-JLTM.ANS:
+    mimetype: text/plain
+  INC-LOST.ANS:
+    mimetype: text/plain
+  INC-MOSA.ANS:
+    mimetype: text/plain
+  INC-PURE.ANS:
+    mimetype: text/plain
+  KBSART02.MEM:
+    mimetype: text/plain
+  KBSART02.NFO:
+    mimetype: text/plain
+  KBSNFO.EXE:
+    mimetype: application/x-msdos-program
+  RG!BHC.ANS:
+    mimetype: text/plain
+  US-DARK.ANS:
+    mimetype: text/plain
+  US-EB.ANS:
+    mimetype: text/plain
+  US-FD.ANS:
+    mimetype: text/plain
+  US-GLUE.ANS:
+    mimetype: text/plain
+  US-HULK.ANS:
+    mimetype: text/plain
+  US-SHAMP.ANS:
+    mimetype: text/plain
+  US-SMELL.ANS:
+    mimetype: text/plain
+  US-TO99.ANS:
+    mimetype: text/plain
+  US-WORLD.ANS:
+    mimetype: text/plain

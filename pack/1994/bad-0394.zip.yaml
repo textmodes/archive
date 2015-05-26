@@ -1,0 +1,42 @@
+name: bad-0394.zip
+hash: 79ec3538bdfcceca0c46d7b624853310
+year: 1994
+file:
+  BAD-0394.MEM:
+    mimetype: text/plain
+  BAD-0394.NFO:
+    mimetype: text/plain
+  BAD-0394.SIT:
+    mimetype: text/plain
+  BADAPPS.EXE:
+    mimetype: application/x-msdos-program
+  BK-ELEUT.BAD:
+    mimetype: text/plain
+  BK-HIGHR.BAD:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HR-LOGO.BAD:
+    mimetype: text/plain
+  HR-STA.BAD:
+    mimetype: text/plain
+  HR-SYN2.BAD:
+    mimetype: text/plain
+  HR-SYNER.BAD:
+    mimetype: text/plain
+  LD-DATA.BAD:
+    mimetype: text/plain
+  LD-NUCL.BAD:
+    mimetype: text/plain
+  NC-PRAD1.BAD:
+    mimetype: text/plain
+  SS-MORBD.BAD:
+    mimetype: text/plain
+  SS-MSTAT.BAD:
+    mimetype: text/plain
+  SS-PC.BAD:
+    mimetype: text/plain
+  SS-TWIST.BAD:
+    mimetype: text/plain

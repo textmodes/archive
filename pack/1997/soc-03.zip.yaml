@@ -1,0 +1,66 @@
+name: soc-03.zip
+hash: 357dc48c5fb128dd05325124ebd16836
+year: 1997
+file:
+  03SOCDST.ANS:
+    mimetype: text/plain
+  03SOCMEM.ANS:
+    mimetype: text/plain
+  03SOCNFO.ANS:
+    mimetype: text/plain
+  E0-BIRTH.ANS:
+    mimetype: text/plain
+  E0-SOC#1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FPT-SOC3.RIP:
+    mimetype: image/x-rip
+  HAW-GS8.ANS:
+    mimetype: text/plain
+  HAW-GS15.ANS:
+    mimetype: text/plain
+  HAW-GS16.ANS:
+    mimetype: text/plain
+  IX-SOC.DIZ:
+    mimetype: text/plain
+  MAY-VM.ANS:
+    mimetype: text/plain
+  MC-FREE.RIP:
+    mimetype: image/x-rip
+  MC-FUNK4.RIP:
+    mimetype: image/x-rip
+  MC-GRAF.RIP:
+    mimetype: image/x-rip
+  PLZ-SOC.ANS:
+    mimetype: text/plain
+  R1COLLY2.ANS:
+    mimetype: text/plain
+  RZ-AFRO!.ANS:
+    mimetype: text/plain
+  S7!-COTW.ANS:
+    mimetype: text/plain
+  S7!-ONE.ANS:
+    mimetype: text/plain
+  S7!-SKL7.ANS:
+    mimetype: text/plain
+  S7!-SS.ANS:
+    mimetype: text/plain
+  S7!-TMA.ANS:
+    mimetype: text/plain
+  S7!-WIF.ANS:
+    mimetype: text/plain
+  SM!LOGOS.ANS:
+    mimetype: text/plain
+  SOC-APP.EXE:
+    mimetype: application/x-msdos-program
+  SOC-REQ.EXE:
+    mimetype: application/x-msdos-program
+  US-CO2.ANS:
+    mimetype: text/plain
+  US-SL.ANS:
+    mimetype: text/plain
+  US-SOC01.ANS:
+    mimetype: text/plain
+  US-SOC3.ANS:
+    mimetype: text/plain

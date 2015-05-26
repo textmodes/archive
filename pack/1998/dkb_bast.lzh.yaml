@@ -1,0 +1,22 @@
+name: dkb_bast.lzh
+hash: 179fe0ab69fdbdf8ed74de275da1afe7
+year: 1998
+file:
+  bast.jpg:
+    mimetype: image/jpeg
+  bastSK.jpg:
+    mimetype: image/jpeg
+  bastSK2.jpg:
+    mimetype: image/jpeg
+  bastSK3.jpg:
+    mimetype: image/jpeg
+  bastso.jpg:
+    mimetype: image/jpeg
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hotgraff.txt:
+    mimetype: text/plain
+  releases.lst:
+    mimetype: text/plain

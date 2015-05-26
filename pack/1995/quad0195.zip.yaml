@@ -1,0 +1,230 @@
+name: quad0195.zip
+hash: d2ad4edb63af7e14606a2d9705e70777
+year: 1995
+file:
+  0195-BBS.ANS:
+    mimetype: text/plain
+  0195-GRT.ANS:
+    mimetype: text/plain
+  0195-MEM.ANS:
+    mimetype: text/plain
+  0195-NFO.ANS:
+    mimetype: text/plain
+  AP-MYWAY.LIT:
+    mimetype: text/plain
+  AP-OOPS.LIT:
+    mimetype: text/plain
+  AP-WF.LIT:
+    mimetype: text/plain
+  BA-AEONF.JPG:
+    mimetype: image/jpeg
+  BA-CANN.JPG:
+    mimetype: image/jpeg
+  BA-FIRE.JPG:
+    mimetype: image/jpeg
+  BA-GNAT.GIF:
+    mimetype: image/gif
+  BA-GRENS.JPG:
+    mimetype: image/jpeg
+  BA-PLASM.JPG:
+    mimetype: image/jpeg
+  BA-WARPS.JPG:
+    mimetype: image/jpeg
+  CD-QUAD.ANS:
+    mimetype: text/plain
+  DP-AGHST.LIT:
+    mimetype: text/plain
+  DP-CMPLS.LIT:
+    mimetype: text/plain
+  DP-ONLY1.LIT:
+    mimetype: text/plain
+  DP-PRFCT.LIT:
+    mimetype: text/plain
+  EB-MLND1.ANS:
+    mimetype: text/plain
+  EB-MRLT1.ANS:
+    mimetype: text/plain
+  EB-QP1.ASC:
+    mimetype: text/plain
+  EB-QP1.DIZ:
+    mimetype: text/plain
+  EB-QP3.ANS:
+    mimetype: text/plain
+  EL-CONF.ANS:
+    mimetype: text/plain
+  EL-FILE.ANS:
+    mimetype: text/plain
+  EL-GANJA.ANS:
+    mimetype: text/plain
+  EL-MAIN.ANS:
+    mimetype: text/plain
+  EL-MORGE.ANS:
+    mimetype: text/plain
+  EL-QP1.DIZ:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-2ND.LIT:
+    mimetype: text/plain
+  HP-ASCEN.LIT:
+    mimetype: text/plain
+  HP-LETGO.LIT:
+    mimetype: text/plain
+  HP-MLD1.ANS:
+    mimetype: text/plain
+  HP-OWE.LIT:
+    mimetype: text/plain
+  HP-QP1.ANS:
+    mimetype: text/plain
+  HP-QP1.DIZ:
+    mimetype: text/plain
+  HP-QP2.DIZ:
+    mimetype: text/plain
+  HP-QP3.DIZ:
+    mimetype: text/plain
+  HP-SBBS1.ZIP:
+    mimetype: application/zip
+  HP-STBL.LIT:
+    mimetype: text/plain
+  HP-TC1.ANS:
+    mimetype: text/plain
+  HP-TONE.LIT:
+    mimetype: text/plain
+  HP-TRAUM.LIT:
+    mimetype: text/plain
+  HP-TRIAL.LIT:
+    mimetype: text/plain
+  HP-WTDEP.LIT:
+    mimetype: text/plain
+  LC-HEAVN.ANS:
+    mimetype: text/plain
+  LC-MAN.ANS:
+    mimetype: text/plain
+  LC-ORB.ANS:
+    mimetype: text/plain
+  ML-MC1.ASC:
+    mimetype: text/plain
+  ML-MIR.LIT:
+    mimetype: text/plain
+  ML-ML1.ANS:
+    mimetype: text/plain
+  ML-ML1.TIF:
+    mimetype: image/tiff
+  ML-NKOTB.LIT:
+    mimetype: text/plain
+  ML-NTHNG.LIT:
+    mimetype: text/plain
+  ML-QP.ASC:
+    mimetype: text/plain
+  ML-SENS.LIT:
+    mimetype: text/plain
+  ML-SIG.ANS:
+    mimetype: text/plain
+  ML-SSSS.ANS:
+    mimetype: text/plain
+  ML-TEC1.ASC:
+    mimetype: text/plain
+  ML-UF1.ANS:
+    mimetype: text/plain
+  MM-HAMMR.GIF:
+    mimetype: image/gif
+  MM-KSLY1.ANS:
+    mimetype: text/plain
+  MM-KSLY2.ANS:
+    mimetype: text/plain
+  MM-VISI.ANS:
+    mimetype: text/plain
+  MN-DEVC.LIT:
+    mimetype: text/plain
+  MN-JEN.LIT:
+    mimetype: text/plain
+  MN-KO.LIT:
+    mimetype: text/plain
+  MN-THROB.LIT:
+    mimetype: text/plain
+  MN-TODM.LIT:
+    mimetype: text/plain
+  MN-W2YN.LIT:
+    mimetype: text/plain
+  MR-CROW.ANS:
+    mimetype: text/plain
+  MR-KDMEN.ZIP:
+    mimetype: application/zip
+  MR-KNIGH.ANS:
+    mimetype: text/plain
+  MS-MLAND.ASC:
+    mimetype: text/plain
+  MS-MLND2.ASC:
+    mimetype: text/plain
+  MS-QUAD2.ASC:
+    mimetype: text/plain
+  MS-QUADP.ASC:
+    mimetype: text/plain
+  MS-SKAVD.ASC:
+    mimetype: text/plain
+  MS-TEC.ASC:
+    mimetype: text/plain
+  MS-TEC2.ASC:
+    mimetype: text/plain
+  MS-TEC3.ASC:
+    mimetype: text/plain
+  NT-ANTI.ANS:
+    mimetype: text/plain
+  NT-QUADP.ANS:
+    mimetype: text/plain
+  NT-TECH.ANS:
+    mimetype: text/plain
+  QUAD-P.HIS:
+    mimetype: text/plain
+  QUADAPP.EXE:
+    mimetype: application/x-msdos-program
+  RL-AD.ANS:
+    mimetype: text/plain
+  RL-QP1.DIZ:
+    mimetype: text/plain
+  SK-COAP.S3M:
+    mimetype: audio/x-mod
+  SK-LOST.S3M:
+    mimetype: audio/x-mod
+  SK-SNFU.S3M:
+    mimetype: audio/x-mod
+  SS-ARCAN.ANS:
+    mimetype: text/plain
+  SS-CYBER.ANS:
+    mimetype: text/plain
+  SS-DOOM.LIT:
+    mimetype: text/plain
+  SS-FALLE.LIT:
+    mimetype: text/plain
+  SS-FLUID.ANS:
+    mimetype: text/plain
+  SS-MELT.ANS:
+    mimetype: text/plain
+  SS-OBVC.ANS:
+    mimetype: text/plain
+  SS-OBVM.ANS:
+    mimetype: text/plain
+  SS-ONEL.ANS:
+    mimetype: text/plain
+  SS-PURG.ANS:
+    mimetype: text/plain
+  SS-REV.ANS:
+    mimetype: text/plain
+  SS-SOE.ANS:
+    mimetype: text/plain
+  TR-QUADP.ZIP:
+    mimetype: application/zip
+  WS-GLD.ANS:
+    mimetype: text/plain
+  WS-GLD3.ANS:
+    mimetype: text/plain
+  WS-KEG2.ANS:
+    mimetype: text/plain
+  WS-LAND1.ANS:
+    mimetype: text/plain
+  WS-LAND1.RIP:
+    mimetype: image/x-rip
+  WS-LAND2.RIP:
+    mimetype: image/x-rip
+  ZC-PLAYG.ASC:
+    mimetype: text/plain

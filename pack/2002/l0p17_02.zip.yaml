@@ -1,0 +1,190 @@
+name: l0p17_02.zip
+hash: c2a3cff5044fb288c6de5c9b47140aed
+year: 2002
+file:
+  A-VIEW.COM:
+    mimetype: application/x-msdos-program
+  A-VIEW.PIF:
+    mimetype: application/x-dosexec
+  AMIGA.FNT:
+    mimetype: application/octet-stream
+  BHD_CYBU.ASC:
+    mimetype: text/plain
+  BHD_SUBV.TXT:
+    mimetype: text/plain
+  CHZ-ALT.TXT:
+    mimetype: text/plain
+  CW-POOT.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  KM!BLAH.TXT:
+    mimetype: text/plain
+  KM!COREC.TXT:
+    mimetype: text/plain
+  KM!EDIT.TXT:
+    mimetype: text/plain
+  KM!INFO.TXT:
+    mimetype: text/plain
+  KM!MADW2.TXT:
+    mimetype: text/plain
+  KM!MAWI2.TXT:
+    mimetype: text/plain
+  KM!MAWI3.TXT:
+    mimetype: text/plain
+  KM!MAWI4.TXT:
+    mimetype: text/plain
+  KM!MELEX.TXT:
+    mimetype: text/plain
+  KM!MIMIC.TXT:
+    mimetype: text/plain
+  KM!MONK2.TXT:
+    mimetype: text/plain
+  KM!NEGAT.TXT:
+    mimetype: text/plain
+  KM!NEWS.TXT:
+    mimetype: text/plain
+  KM!NG!.TXT:
+    mimetype: text/plain
+  KM!SWAP.TXT:
+    mimetype: text/plain
+  KM!ZITO.TXT:
+    mimetype: text/plain
+  LQ-PIR3.ANS:
+    mimetype: text/plain
+  MEMBERS.ANS:
+    mimetype: text/plain
+  PC.FNT:
+    mimetype: application/octet-stream
+  PK!RODNT.RIP:
+    mimetype: image/x-rip
+  RS-KIB.ANS:
+    mimetype: text/plain
+  SK!B_HOL.ASC:
+    mimetype: text/plain
+  SK!BHOLE.TXT:
+    mimetype: text/plain
+  SK!BLACK.ASC:
+    mimetype: text/plain
+  SK!BOJKA.ASC:
+    mimetype: text/plain
+  SK!BS1.ASC:
+    mimetype: text/plain
+  SK!CH_DI.TXT:
+    mimetype: text/plain
+  SK!CHIPS.TXT:
+    mimetype: text/plain
+  SK!ESM.TXT:
+    mimetype: text/plain
+  SK!ESM2.ASC:
+    mimetype: text/plain
+  SK!FRATE.TXT:
+    mimetype: text/plain
+  SK!HUGI.TXT:
+    mimetype: text/plain
+  SK!ICE.ANS:
+    mimetype: text/plain
+  SK!JASPE.TXT:
+    mimetype: text/plain
+  SK!LF.TXT:
+    mimetype: text/plain
+  SK!LOOPY.ASC:
+    mimetype: text/plain
+  SK!MANSU.ASC:
+    mimetype: text/plain
+  SK!MERCU.TXT:
+    mimetype: text/plain
+  SK!MJD02.ASC:
+    mimetype: text/plain
+  SK!OLDSU.TXT:
+    mimetype: text/plain
+  SK!OXYGE.ASC:
+    mimetype: text/plain
+  SK!OXYGE.TXT:
+    mimetype: text/plain
+  SK!PALMO.TXT:
+    mimetype: text/plain
+  SK!RA_EQ.ASC:
+    mimetype: text/plain
+  SK!RA_PU.ASC:
+    mimetype: text/plain
+  SK!RE_DI.ASC:
+    mimetype: text/plain
+  SK!REACT.ASC:
+    mimetype: text/plain
+  SK!SCHIZ.ASC:
+    mimetype: text/plain
+  SK!SPECI.ASC:
+    mimetype: text/plain
+  SK!TAC.ASC:
+    mimetype: text/plain
+  SK!VBS.ASC:
+    mimetype: text/plain
+  SK!WM.ANS:
+    mimetype: text/plain
+  SK!XMM.ASC:
+    mimetype: text/plain
+  SK!YARX.ANS:
+    mimetype: text/plain
+  THELO0P.TXT:
+    mimetype: text/plain
+  THUGLIFE.ORG:
+    mimetype: text/plain
+  TWR!ABSN.TXT:
+    mimetype: text/plain
+  TWR!ALNE.TXT:
+    mimetype: text/plain
+  TWR!BRWN.TXT:
+    mimetype: text/plain
+  TWR!DVOL.TXT:
+    mimetype: text/plain
+  TWR!DZN1.TXT:
+    mimetype: text/plain
+  TWR!DZN2.TXT:
+    mimetype: text/plain
+  TWR!FRST.TXT:
+    mimetype: text/plain
+  TWR!PATT.TXT:
+    mimetype: text/plain
+  TWR!SPIS.TXT:
+    mimetype: text/plain
+  TZ!BLT.ASC:
+    mimetype: text/plain
+  TZ!MONK.ASC:
+    mimetype: text/plain
+  TZ!RZ52.ASC:
+    mimetype: text/plain
+  TZ!SMTP.ASC:
+    mimetype: text/plain
+  US-CRANI.ANS:
+    mimetype: text/plain
+  US-DEM.ANS:
+    mimetype: text/plain
+  US-GREET.ANS:
+    mimetype: text/plain
+  US-IRQ13.ANS:
+    mimetype: text/plain
+  US-THELO.ANS:
+    mimetype: text/plain
+  Y!AWWT.ANS:
+    mimetype: text/plain
+  Y!BIB4K.TXT:
+    mimetype: text/plain
+  Y!DFLOP.ASC:
+    mimetype: text/plain
+  Y!EOM01.ASC:
+    mimetype: text/plain
+  Y!GNS01.ASC:
+    mimetype: text/plain
+  Y!LFX01.TXT:
+    mimetype: text/plain
+  Y!NGB01.TXT:
+    mimetype: text/plain
+  Y!SNNRC.ASC:
+    mimetype: text/plain
+  Y!STK4C.ANS:
+    mimetype: text/plain
+  Y!VLRTC.ASC:
+    mimetype: text/plain

@@ -1,0 +1,12 @@
+*.bak
+*.diz
+*.htm
+*.html
+*.nfo
+*.sfv
+*.txt
+
+# Very large packs are not allowed by GitHub
+pack/2002/noir1102.zip
+pack/2004/acid-100.zip
+pack/2014/mistyule.zip

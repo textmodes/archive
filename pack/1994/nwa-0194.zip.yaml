@@ -1,0 +1,52 @@
+name: nwa-0194.zip
+hash: 3fe30cf0cffdc71926ea50b25342a2e2
+year: 1994
+file:
+  DF-AC1.NWA:
+    mimetype: text/plain
+  DF-DH1.NWA:
+    mimetype: text/plain
+  DF-NWA1.NWA:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HB-ANGLS.MOD:
+    mimetype: audio/x-mod
+  KR-DL1.GIF:
+    mimetype: image/gif
+  KR-JE1.GIF:
+    mimetype: image/gif
+  KT-MD1.NWA:
+    mimetype: text/plain
+  ME_NEOG.NWA:
+    mimetype: text/plain
+  NWA-0194.MEM:
+    mimetype: text/plain
+  NWA-0194.NFO:
+    mimetype: text/plain
+  NWA-APP1.ZIP:
+    mimetype: application/zip
+  NWA-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  RAT-NEO1.GIF:
+    mimetype: image/gif
+  RAT-NWA1.GIF:
+    mimetype: image/gif
+  RU-DH1.GIF:
+    mimetype: image/gif
+  TN-GREET.ALL:
+    mimetype: text/plain
+  TN-NI1.NWA:
+    mimetype: text/plain
+  TN-STAR.NWA:
+    mimetype: text/plain
+  TT-SO1.NWA:
+    mimetype: text/plain
+  TZ-DH1.NWA:
+    mimetype: text/plain
+  V-AD1.NWA:
+    mimetype: text/plain
+  VQ-NWA1.NWA:
+    mimetype: text/plain
+  VQ-PA1.NWA:
+    mimetype: text/plain

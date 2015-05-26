@@ -1,0 +1,72 @@
+name: bad-0893.zip
+hash: 418fcaa545a32965ddd4bd1c38326e85
+year: 1993
+file:
+  BAD-0893.EXE:
+    mimetype: application/x-msdos-program
+  BAD-0893.MEM:
+    mimetype: text/plain
+  BAD-0893.NFO:
+    mimetype: text/plain
+  BAD-0893.SIT:
+    mimetype: text/plain
+  BAD-0893.TX1:
+    mimetype: text/plain
+  BAD-0893.TX2:
+    mimetype: text/plain
+  BADAPP.EXE:
+    mimetype: application/x-msdos-program
+  BH-TRANS.MOD:
+    mimetype: audio/x-mod
+  BK-UNSTA.BAD:
+    mimetype: text/plain
+  CB-DIST.BAD:
+    mimetype: text/plain
+  CB-LOC.BAD:
+    mimetype: text/plain
+  CB-VIS.BAD:
+    mimetype: text/plain
+  CK-STAT.BAD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  ICE.EXE:
+    mimetype: application/x-msdos-program
+  JM-MATRI.BAD:
+    mimetype: text/plain
+  LQ-BISON.BAD:
+    mimetype: text/plain
+  LQ-SPLAT.BAD:
+    mimetype: text/plain
+  LQ-SPOT.BAD:
+    mimetype: text/plain
+  LQ-TORTU.BAD:
+    mimetype: text/plain
+  NC-V2MEN.ZIP:
+    mimetype: application/zip
+  REQUEST.ZIP:
+    mimetype: application/zip
+  RR-V2SET.ZIP:
+    mimetype: application/zip
+  S8-HARM.BAD:
+    mimetype: text/plain
+  S8-UT.BAD:
+    mimetype: text/plain
+  SQ-DOM.BAD:
+    mimetype: text/plain
+  SS-BISHO.BAD:
+    mimetype: text/plain
+  SS-BODEL.BAD:
+    mimetype: text/plain
+  SS-DRAGO.BAD:
+    mimetype: text/plain
+  SS-HARDW.BAD:
+    mimetype: text/plain
+  SS-IF.BAD:
+    mimetype: text/plain
+  SS-LALA.BAD:
+    mimetype: text/plain
+  SS-LOKI.BAD:
+    mimetype: text/plain

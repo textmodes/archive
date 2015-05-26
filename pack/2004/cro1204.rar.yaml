@@ -1,0 +1,456 @@
+name: cro1204.rar
+hash: c00da930f0ca22f6899e12eb159cdde8
+year: 2004
+file:
+  cro-diskmag1204/bass.dll:
+    mimetype: application/x-dosexec
+  cro-diskmag1204/creaction.org:
+    mimetype: text/plain
+  cro-diskmag1204/discmag.exe:
+    mimetype: application/x-msdos-program
+  cro-diskmag1204/diskmag.ini:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-25er.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-cny.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-cov.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-fpp.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-ga.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-gp.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-mot.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-mpx.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-ns.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-orion.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-space.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-sys.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-td.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-tiger.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-tmd.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/ayl-wanted.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-bruce.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-c4.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-gdc.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-hb.ans:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-mod.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-nbr.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-np.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-rammstein.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-red6.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-srh.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-tfm.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-tss.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-visu.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn-ww.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cpn_cz-spirit.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cr-etn.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cr-pf.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cr-xtc.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/cz-etn-diz.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-8bts.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-cr.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-dlgt.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-gizmo.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-ice.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-inf.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-jah.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-nazi.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-nb.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-os.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-paydiz.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-ras.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-rr.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-sd.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-sx.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-sz.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-tsp.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-uf.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/m0-vs.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/mx-cro041.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/po-cro.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-arn.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-chronos.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-cor.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-cu.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-nb.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-ragnarok.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-rejects.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-rts.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-tpp.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-upe.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-wwe.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/rzh-xxliso.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/s54-bbp.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/s54-tdcte.ans:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/us-cdiz.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii.orig/us-cro.asc:
+    mimetype: text/plain
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-25er.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-cny.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-cov.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-fpp.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-ga.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-gp.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-mot.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-mpx.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-ns.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-orion.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-space.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-sys.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-td.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-tiger.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-tmd.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/aylien/ayl-wanted.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-bruce.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-c4.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-gdc.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-hb.ans.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-mod.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-nbr.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-np.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-rammstein.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-red6.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-srh.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-tfm.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-tss.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-visu.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn-ww.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cpn/cpn_cz-spirit.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/creepah/cr-etn.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/creepah/cr-pf.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/creepah/cr-xtc.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/cz/cz-etn-diz.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/guests/mx-cro041.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/guests/po-cro.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/guests/us-cdiz.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/guests/us-cro.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-8bts.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-cr.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-dlgt.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-gizmo.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-ice.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-inf.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-jah.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-nazi.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-nb.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-os.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-paydiz.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-ras.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-rr.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-sd.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-sx.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-sz.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-tsp.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-uf.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/m0lo-/m0-vs.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-arn.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-chronos.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-cor.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-cu.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-nb.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-ragnarok.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-rejects.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-rts.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-tpp.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-upe.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-wwe.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/orzech/rzh-xxliso.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/shane54/s54-bbp.asc.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Ascii/shane54/s54-tdcte.ans.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Bonus/cRo-Artpack1204.exe:
+    mimetype: application/x-msdos-program
+  cro-diskmag1204/mag/data/Hirez/AdamO/aD-ppx.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-alien.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-bin.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-city.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-cro.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-death.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-dlght.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-mono.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-pet1.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-pet2.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-pump.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-robot.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/aylien/ayl-snowii.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/fStD/fStD-core.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/fStD/fStD-corpse.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/fStD/fStD-cro.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/fStD/fStD-destinytransfer.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/fStD/fStD-eternity.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/fStD/fStD-khzvid.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/fStD/fStD-skull.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/splash.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/data/Hirez/targon/t!-face.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/data/Music/VHI-ICHI.it:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/VHI-ICON.it:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/VHI-IPLE.it:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/VHI-ITRI.it:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/bzl-chs.mod:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/bzl-doar.xm:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/bzl-mmli.xm:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/bzl-strm.xm:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/bzl-vrl6.xm:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/dt_intr2.xm:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/dt_orn8.XM:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/dtbzl_bots.XM:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/minnox_-_lowtech.mp3:
+    mimetype: audio/mpeg
+  cro-diskmag1204/mag/data/Music/mktdt_04.xm:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Music/sbzl-crointro3000.xm:
+    mimetype: audio/x-mod
+  cro-diskmag1204/mag/data/Sys/LCD.ttf:
+    mimetype: application/x-font-ttf
+  cro-diskmag1204/mag/data/Sys/Pixel.ttf:
+    mimetype: application/x-font-ttf
+  cro-diskmag1204/mag/data/Sys/gte437.FON:
+    mimetype: application/x-dosexec
+  cro-diskmag1204/mag/html/Ascii/ascii.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_aylien.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_content.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_cpn.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_creepah.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_cz.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_guests.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_m0lo-.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_orzech.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_select.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Ascii/ascii_shane54.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Bonus/bonus.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Bonus/intro2004.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/html/Hirez/hirez.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Hirez/hirez_AdamO.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Hirez/hirez_aylien.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Hirez/hirez_content.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Hirez/hirez_fStD.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Hirez/hirez_select.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Hirez/hirez_splash.jpg.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Hirez/hirez_targon.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Info/info.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/left_dualtrax.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/html/Music/left_minn0x.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/html/Music/music.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/music_background.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/html/Music/music_background_dualtrax.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/html/Music/music_background_minn0x.jpg:
+    mimetype: image/jpeg
+  cro-diskmag1204/mag/html/Music/music_bzl.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/music_content.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/music_dualtrax.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/music_minnox.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/music_select.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/music_vhiiula.html:
+    mimetype: text/html
+  cro-diskmag1204/mag/html/Music/right_dualtrax.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/html/Music/right_minn0x.gif:
+    mimetype: image/gif
+  cro-diskmag1204/mag/html/style.css:
+    mimetype: text/css

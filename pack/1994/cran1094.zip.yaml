@@ -1,0 +1,40 @@
+name: cran1094.zip
+hash: 472e096cf7ed2d6838ee3af2c0fe7fd2
+year: 1994
+file:
+  CAPP11.ZIP:
+    mimetype: application/zip
+  CC-BMORP.GIF:
+    mimetype: image/gif
+  CC-C5.ANS:
+    mimetype: text/plain
+  CC-COUP.ANS:
+    mimetype: text/plain
+  CC-CRAIN.ANS:
+    mimetype: text/plain
+  CC-DIVA.ANS:
+    mimetype: text/plain
+  CC-GOR1.ANS:
+    mimetype: text/plain
+  CC-GRIFT.ANS:
+    mimetype: text/plain
+  CC-KILGO.ANS:
+    mimetype: text/plain
+  CC-NETW.ANS:
+    mimetype: text/plain
+  CC-PDRAG.GIF:
+    mimetype: image/gif
+  CPACQ.ANS:
+    mimetype: text/plain
+  CPINFO.ANS:
+    mimetype: text/plain
+  CRANIUM.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  XT-CRAIN.GIF:
+    mimetype: image/gif
+  XT-DISK.GIF:
+    mimetype: image/gif
+  XT-TRAIN.GIF:
+    mimetype: image/gif

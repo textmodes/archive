@@ -1,0 +1,54 @@
+name: quad0196.zip
+hash: 4ece0445382ea97670bd7b5d3ef5470d
+year: 1996
+file:
+  EG-CORL1.ANS:
+    mimetype: text/plain
+  EV-ATOM1.ASC:
+    mimetype: text/plain
+  EV-BO3.ANS:
+    mimetype: text/plain
+  EV-GINFO.ANS:
+    mimetype: text/plain
+  EV-GNJA2.ANS:
+    mimetype: text/plain
+  EV-MLND1.ANS:
+    mimetype: text/plain
+  EV-MOGUE.ANS:
+    mimetype: text/plain
+  EV-PARKC.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-CRLN5.ANS:
+    mimetype: text/plain
+  HP-GREN1.ASC:
+    mimetype: text/plain
+  HP-QDP8.ANS:
+    mimetype: text/plain
+  MB-QP1.BIN:
+    mimetype: text/x-binary
+  MR-ACN.ANS:
+    mimetype: text/plain
+  MR-ASC1.ASC:
+    mimetype: text/plain
+  MR-COR1.ANS:
+    mimetype: text/plain
+  MR-DM1.ANS:
+    mimetype: text/plain
+  MR-LOGO6.ANS:
+    mimetype: text/plain
+  QUAD0196.NFO:
+    mimetype: text/plain
+  QUADAPP.EXE:
+    mimetype: application/x-msdos-program
+  RE-O196.ASC:
+    mimetype: text/plain
+  WR-DA_P.LIT:
+    mimetype: text/plain
+  WR-DARK.LIT:
+    mimetype: text/plain
+  WR-DO_I.LIT:
+    mimetype: text/plain
+  WR-TLT.LIT:
+    mimetype: text/plain

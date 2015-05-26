@@ -1,0 +1,30 @@
+name: dkb_rod.lzh
+hash: 9ee5e47766b4ed7b06c9126efbc1aa48
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  dkb.nfo~:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  file_id.diz~:
+    mimetype: text/plain
+  grek.jpg:
+    mimetype: image/jpeg
+  hotgraff.txt:
+    mimetype: text/plain
+  jesa.jpg:
+    mimetype: image/jpeg
+  maso-c.jpg:
+    mimetype: image/jpeg
+  pask4.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  releases.lst~:
+    mimetype: text/plain
+  sane2.jpg:
+    mimetype: image/jpeg
+  sen1.jpg:
+    mimetype: image/jpeg

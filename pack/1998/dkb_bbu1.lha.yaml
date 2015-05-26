@@ -1,0 +1,12 @@
+name: dkb_bbu1.lha
+hash: 5a74c15474fb9ef4a7f0054de39251ea
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  juice.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain

@@ -1,0 +1,44 @@
+name: bad-1293.zip
+hash: 0ee91126a2bc7ac512d92505b79d6412
+year: 1993
+file:
+  BAD-1293.MEM:
+    mimetype: text/plain
+  BAD-1293.NFO:
+    mimetype: text/plain
+  BAD-1293.SIT:
+    mimetype: text/plain
+  BADAPP.EXE:
+    mimetype: application/x-msdos-program
+  BK-AFTER.BAD:
+    mimetype: text/plain
+  BK-PARAD.BAD:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  HR-BAD.BAD:
+    mimetype: text/plain
+  LD-FORCE.BAD:
+    mimetype: text/plain
+  LD-SLVR.BAD:
+    mimetype: text/plain
+  LD-STAT1.BAD:
+    mimetype: text/plain
+  LD-WLOGO.BAD:
+    mimetype: text/plain
+  NC-LADDY.BAD:
+    mimetype: text/plain
+  NC-MATRX.BAD:
+    mimetype: text/plain
+  REQUEST.ZIP:
+    mimetype: application/zip
+  RV-ASYL.BAD:
+    mimetype: text/plain
+  RV-RSUN.BAD:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain

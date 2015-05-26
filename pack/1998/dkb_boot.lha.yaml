@@ -1,0 +1,12 @@
+name: dkb_boot.lha
+hash: 5764b47fe6cf64136a75f75e58a2b31e
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  releases.lst:
+    mimetype: text/plain
+  submarin.jpg:
+    mimetype: image/jpeg

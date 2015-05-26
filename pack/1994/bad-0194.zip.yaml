@@ -1,0 +1,76 @@
+name: bad-0194.zip
+hash: 7bbdc5c660986d09322a1490ab8cd592
+year: 1994
+file:
+  BAD-0194.EXE:
+    mimetype: application/x-msdos-program
+  BAD-0194.MEM:
+    mimetype: text/plain
+  BAD-0194.NFO:
+    mimetype: text/plain
+  BAD-0194.SIT:
+    mimetype: text/plain
+  BADAPPS.EXE:
+    mimetype: application/x-msdos-program
+  BH-COSMC.MOD:
+    mimetype: audio/x-mod
+  BH-DSOTM.MOD:
+    mimetype: audio/x-mod
+  BK-HOUSE.BAD:
+    mimetype: text/plain
+  BK-TSA.BAD:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  GOLDPLAY.OVL:
+    mimetype: application/octet-stream
+  HR-BAD.BAD:
+    mimetype: text/plain
+  HR-HLOGO.BAD:
+    mimetype: text/plain
+  HR-HMENU.BAD:
+    mimetype: text/plain
+  HR-HSTAT.BAD:
+    mimetype: text/plain
+  HR-STAT.BAD:
+    mimetype: text/plain
+  HR-VI.BAD:
+    mimetype: text/plain
+  KG-7HEAV.BAD:
+    mimetype: text/plain
+  KG-CORE.BAD:
+    mimetype: text/plain
+  KG-WHITE.BAD:
+    mimetype: text/plain
+  LD-ANTNC.BAD:
+    mimetype: text/plain
+  LD-SECX.BAD:
+    mimetype: text/plain
+  NC-BAD.BAD:
+    mimetype: text/plain
+  NC-CB.MOD:
+    mimetype: audio/x-mod
+  NC-CHAN0.BAD:
+    mimetype: text/plain
+  NC-DUMDM.MOD:
+    mimetype: audio/x-mod
+  SS-BAD1.BAD:
+    mimetype: text/plain
+  SS-BAD2.BAD:
+    mimetype: text/plain
+  SS-ERNI.BAD:
+    mimetype: text/plain
+  SS-GRAB.BAD:
+    mimetype: text/plain
+  SS-INSAN.BAD:
+    mimetype: text/plain
+  SS-ZOMBI.BAD:
+    mimetype: text/plain
+  WELCOME.1:
+    mimetype: text/plain
+  ZD-BAD.ZIP:
+    mimetype: application/zip

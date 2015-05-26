@@ -1,0 +1,84 @@
+name: ice-1093.zip
+hash: 02ef8ee84d28d0f73b54e7bd1c26a733
+year: 1993
+file:
+  "───VGA──.───":
+    mimetype: text/plain
+  AV.EXE:
+    mimetype: application/x-msdos-program
+  BB-GH.PCX:
+    mimetype: image/pcx
+  COLOR13.ZIP:
+    mimetype: application/zip
+  CONFIG.DAT:
+    mimetype: application/octet-stream
+  DZ-TDU.PCX:
+    mimetype: image/pcx
+  ED-DREAD.GIF:
+    mimetype: image/gif
+  ED-NSEC3.ICE:
+    mimetype: text/plain
+  EL-CR1.ICE:
+    mimetype: text/plain
+  EL-TOC1.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GEN-FAT1.ICE:
+    mimetype: text/plain
+  GL-LITH.ICE:
+    mimetype: text/plain
+  HR-MENT.GIF:
+    mimetype: image/gif
+  ICE-1093.MEM:
+    mimetype: text/plain
+  ICE-1093.NFO:
+    mimetype: text/plain
+  ICE-1093.SIT:
+    mimetype: text/plain
+  ICE-1093.STS:
+    mimetype: text/plain
+  ICEAPP.EXE:
+    mimetype: application/x-msdos-program
+  KV.EXE:
+    mimetype: application/x-msdos-program
+  LI-CRIM1.ICE:
+    mimetype: text/plain
+  LIT.ZIP:
+    mimetype: application/zip
+  MH-HEMIS.ICE:
+    mimetype: text/plain
+  MH-PANTH.ICE:
+    mimetype: text/plain
+  MH-TDU.ICE:
+    mimetype: text/plain
+  MODS.ZIP:
+    mimetype: application/zip
+  MV3.EXE:
+    mimetype: application/x-msdos-program
+  RS-EPID.GIF:
+    mimetype: image/gif
+  RS-EPID2.GIF:
+    mimetype: image/gif
+  RS-EXOD1.GIF:
+    mimetype: image/gif
+  RS-EXOD2.GIF:
+    mimetype: image/gif
+  RS-EXOD3.GIF:
+    mimetype: image/gif
+  RS-EXOD4.GIF:
+    mimetype: image/gif
+  RS-FAIR.GIF:
+    mimetype: image/gif
+  RS-ICE5.GIF:
+    mimetype: image/gif
+  RS-SWAT.GIF:
+    mimetype: image/gif
+  RV-TFG.ICE:
+    mimetype: text/plain
+  SD-RATS.ICE:
+    mimetype: text/plain
+  SD-RISC.ICE:
+    mimetype: text/plain
+  SS-LOGO4.GIF:
+    mimetype: image/gif

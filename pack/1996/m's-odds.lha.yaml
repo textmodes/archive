@@ -1,0 +1,32 @@
+name: m's-odds.lha
+hash: 2c63a36fa8630342a48e9890efd92343
+year: 1996
+file:
+  '[ A n d t h e o d d s ? ].info':
+    mimetype: application/octet-stream
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/amiga.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/confs.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/consoles.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/download.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/graphics.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/menu.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/pc.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ b b s d e s i g n ! ]/upload.ansi':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ t h e f o n t ! ]/mO''sOul.font':
+    mimetype: application/octet-stream
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ t h e f o n t ! ]/mO''sOul.readme':
+    mimetype: text/plain
+  '[ A n d t h e o d d s ? ]/[ b o n u s p a c k ! ]/[ t h e f o n t ! ]/mO''sOul/8':
+    mimetype: application/octet-stream
+  '[ A n d t h e o d d s ? ]/m''s-odds.txt':
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain

@@ -1,0 +1,52 @@
+name: miis0594.zip
+hash: d36d8b907a9499a901ee4a31fae2fa6c
+year: 1994
+file:
+  DR-AMF.GIF:
+    mimetype: image/gif
+  DR-VR.GIF:
+    mimetype: image/gif
+  DR-YSKL.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JH-BALL.ZIP:
+    mimetype: application/zip
+  LA-AOA.ANS:
+    mimetype: text/plain
+  LA-DAMI.ANS:
+    mimetype: text/plain
+  LA-TS.ANS:
+    mimetype: text/plain
+  LA-UF.ANS:
+    mimetype: text/plain
+  MIIS-TEC.NFO:
+    mimetype: text/plain
+  MIIS.NFO:
+    mimetype: text/plain
+  MIISAPP.ZIP:
+    mimetype: application/zip
+  MIISVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MK-MIIS.ANS:
+    mimetype: text/plain
+  MK-MIIS.EXE:
+    mimetype: application/x-msdos-program
+  MK-PL.ANS:
+    mimetype: text/plain
+  MK-SR1.ANS:
+    mimetype: text/plain
+  MK-SR2.ANS:
+    mimetype: text/plain
+  MK-TMP.ANS:
+    mimetype: text/plain
+  PC-THUN.ANS:
+    mimetype: text/plain
+  PCLA-SOL.ANS:
+    mimetype: text/plain
+  SX-G1.PCX:
+    mimetype: image/pcx
+  SX-MIIS.EXE:
+    mimetype: application/x-msdos-program
+  VIEWER.NFO:
+    mimetype: text/plain

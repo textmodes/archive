@@ -1,0 +1,16 @@
+name: dkb_esn1.lzh
+hash: d49cf8093b37e3d4addc295b60861c13
+year: 1998
+file:
+  bem.jpg:
+    mimetype: image/jpeg
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  graffiti.no1:
+    mimetype: text/plain
+  monte.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain

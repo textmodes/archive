@@ -1,0 +1,192 @@
+name: rmrs-03.zip
+hash: 2e7be2699a5c0a7e3c769e41a11b59b8
+year: 1995
+file:
+  AS-BK.ASC:
+    mimetype: text/plain
+  AS-CONF.ASC:
+    mimetype: text/plain
+  AS-CS.ASC:
+    mimetype: text/plain
+  AS-FW.ASC:
+    mimetype: text/plain
+  AS-TDS.ASC:
+    mimetype: text/plain
+  AS-TRN1.ASC:
+    mimetype: text/plain
+  AS-TSN.ASC:
+    mimetype: text/plain
+  CA-ACID.ASC:
+    mimetype: text/plain
+  CA-AVGA.ANS:
+    mimetype: text/plain
+  CA-DH.ANS:
+    mimetype: text/plain
+  CA-EOE.ANS:
+    mimetype: text/plain
+  CA-HIGH1.ANS:
+    mimetype: text/plain
+  CA-RCTN.ANS:
+    mimetype: text/plain
+  CA-SCM1.ANS:
+    mimetype: text/plain
+  CA-SPOH.ANS:
+    mimetype: text/plain
+  CA-TAZM.ASC:
+    mimetype: text/plain
+  DW-BULL.ANS:
+    mimetype: text/plain
+  DW-CHOOS.ANS:
+    mimetype: text/plain
+  DW-CONF.ANS:
+    mimetype: text/plain
+  DW-COOL.ANS:
+    mimetype: text/plain
+  DW-HELP.ANS:
+    mimetype: text/plain
+  DW-JMP2D.ANS:
+    mimetype: text/plain
+  DW-LEECH.ANS:
+    mimetype: text/plain
+  DW-LOCKO.ANS:
+    mimetype: text/plain
+  DW-LOSPD.ANS:
+    mimetype: text/plain
+  DW-NBYTE.ANS:
+    mimetype: text/plain
+  DW-NEWU.ANS:
+    mimetype: text/plain
+  DW-NO1HM.ANS:
+    mimetype: text/plain
+  DW-NSYSO.ANS:
+    mimetype: text/plain
+  DW-PWFAI.ANS:
+    mimetype: text/plain
+  DW-SBTGE.ANS:
+    mimetype: text/plain
+  DW-WRULA.ANS:
+    mimetype: text/plain
+  EC-ULTMA.ASC:
+    mimetype: text/plain
+  EC-VPR.DIZ:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HP-ATCL1.ASC:
+    mimetype: text/plain
+  HP-ATCL2.ASC:
+    mimetype: text/plain
+  HP-BK1.ASC:
+    mimetype: text/plain
+  HP-BSUN1.ASC:
+    mimetype: text/plain
+  HP-HM1.ASC:
+    mimetype: text/plain
+  HP-HS1.ASC:
+    mimetype: text/plain
+  HP-HS2.ASC:
+    mimetype: text/plain
+  HP-ICE1.DIZ:
+    mimetype: text/plain
+  HP-LPT1.ASC:
+    mimetype: text/plain
+  HP-ML7.ASC:
+    mimetype: text/plain
+  HP-MTV81.ASC:
+    mimetype: text/plain
+  HP-NLND1.ASC:
+    mimetype: text/plain
+  HP-POT1.DIZ:
+    mimetype: text/plain
+  HP-QP2.DIZ:
+    mimetype: text/plain
+  HP-RMRS3.DIZ:
+    mimetype: text/plain
+  HP-SER1.ASC:
+    mimetype: text/plain
+  HP-SICK1.DIZ:
+    mimetype: text/plain
+  HP-TEC2.ANS:
+    mimetype: text/plain
+  HP-USF1.ASC:
+    mimetype: text/plain
+  OG-UF.ASC:
+    mimetype: text/plain
+  OM-MAL1.ASC:
+    mimetype: text/plain
+  OM-MDL1.ASC:
+    mimetype: text/plain
+  OM-TDS.ASC:
+    mimetype: text/plain
+  OM-TDS1.ASC:
+    mimetype: text/plain
+  OM-TRN2.ASC:
+    mimetype: text/plain
+  OM-UNSF1.ASC:
+    mimetype: text/plain
+  OT-CT1.ASC:
+    mimetype: text/plain
+  OT-EMP1.ASC:
+    mimetype: text/plain
+  OT-EOD1.ASC:
+    mimetype: text/plain
+  OT-EVIL1.ASC:
+    mimetype: text/plain
+  OT-F.ASC:
+    mimetype: text/plain
+  OT-INT1.ASC:
+    mimetype: text/plain
+  OT-LOG.ASC:
+    mimetype: text/plain
+  OT-OTP1.ASC:
+    mimetype: text/plain
+  OT-SPA1.ASC:
+    mimetype: text/plain
+  REMORSE.NFO:
+    mimetype: text/plain
+  SK-MLFES.ASC:
+    mimetype: text/plain
+  SK-MLTDN.ASC:
+    mimetype: text/plain
+  SK-NAM.ASC:
+    mimetype: text/plain
+  SK-PRSTN.ASC:
+    mimetype: text/plain
+  SK-SOE.ASC:
+    mimetype: text/plain
+  SK-SOK3.ASC:
+    mimetype: text/plain
+  SP-EPIC.ASC:
+    mimetype: text/plain
+  SP-ERE.ASC:
+    mimetype: text/plain
+  SP-MIST.ASC:
+    mimetype: text/plain
+  WD-7C.ASC:
+    mimetype: text/plain
+  WD-D2I.ASC:
+    mimetype: text/plain
+  WD-DIZ.ASC:
+    mimetype: text/plain
+  WD-FZ.ASC:
+    mimetype: text/plain
+  WD-GP.ASC:
+    mimetype: text/plain
+  WD-MD.ANS:
+    mimetype: text/plain
+  WD-ROI.ASC:
+    mimetype: text/plain
+  WD-SBZ.ASC:
+    mimetype: text/plain
+  WD-SPAM.ASC:
+    mimetype: text/plain
+  WD-TD.ASC:
+    mimetype: text/plain
+  WD-TEA.ASC:
+    mimetype: text/plain
+  WD-THS.ASC:
+    mimetype: text/plain
+  mp-bs1.asc:
+    mimetype: text/plain
+  readme.mem:
+    mimetype: text/plain

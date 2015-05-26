@@ -1,0 +1,32 @@
+name: ice0001a.zip
+hash: 40198edb440278ac4b6039b4c3f66d0e
+year: 2000
+file:
+  09-ice2.ice:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  ice-0001.dsc:
+    mimetype: text/plain
+  ice-0001.mem:
+    mimetype: text/plain
+  ice-0001.nfo:
+    mimetype: text/plain
+  ice-0001.sit:
+    mimetype: text/plain
+  iceview.cnf:
+    mimetype: text/plain
+  iceview.doc:
+    mimetype: text/plain
+  iceview.exe:
+    mimetype: application/x-msdos-program
+  tna-001.ice:
+    mimetype: text/plain
+  tna-002.ice:
+    mimetype: text/plain
+  tna-003.ice:
+    mimetype: text/plain
+  us-bleu.ice:
+    mimetype: text/plain
+  us-soar.rip:
+    mimetype: image/x-rip

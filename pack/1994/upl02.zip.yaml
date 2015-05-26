@@ -1,0 +1,24 @@
+name: upl02.zip
+hash: 1e305cdb68f9f8c35ed93c43a95289cf
+year: 1994
+file:
+  "∅• E≈MC².•∅":
+    mimetype: text/plain
+  CTL3DV2.DLL:
+    mimetype: application/x-dosexec
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GM_DRUMS.UPL:
+    mimetype: text/plain
+  INSTALL.TXT:
+    mimetype: text/plain
+  NEWYEARS.MID:
+    mimetype: audio/midi
+  NEWYEARS.UPL:
+    mimetype: text/plain
+  READ-IT.TXT:
+    mimetype: text/plain
+  UPL.EXE:
+    mimetype: application/x-msdos-program
+  UPL.HLP:
+    mimetype: application/octet-stream

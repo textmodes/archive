@@ -1,0 +1,34 @@
+name: ice9911.zip
+hash: c1367784491e40d77390e2020520f24d
+year: 1999
+file:
+  09-ansis.bin:
+    mimetype: text/x-binary
+  dv-elite.jpg:
+    mimetype: image/jpeg
+  fb-knf.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  ice-9911.dsc:
+    mimetype: application/octet-stream
+  ice-9911.mem:
+    mimetype: text/plain
+  ice-9911.nfo:
+    mimetype: text/plain
+  ice-9911.sit:
+    mimetype: text/plain
+  iceview.cnf:
+    mimetype: text/plain
+  iceview.doc:
+    mimetype: text/plain
+  iceview.exe:
+    mimetype: application/x-msdos-program
+  id-artst.jpg:
+    mimetype: image/jpeg
+  pn-mary1.jpg:
+    mimetype: image/jpeg
+  rl-fathd.jpg:
+    mimetype: image/jpeg
+  rl-tblmp.jpg:
+    mimetype: image/jpeg

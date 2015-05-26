@@ -1,0 +1,94 @@
+name: quad0495.zip
+hash: 0ea4c9825b299966eac09767eb7c43ed
+year: 1995
+file:
+  0495-BBS.ANS:
+    mimetype: text/plain
+  0495-GRT.ANS:
+    mimetype: text/plain
+  0495-MEM.ANS:
+    mimetype: text/plain
+  0495-NFO.ANS:
+    mimetype: text/plain
+  CR-ML2.GIF:
+    mimetype: image/gif
+  CR-MLAND.EXE:
+    mimetype: application/x-msdos-program
+  CRISIS.TXT:
+    mimetype: text/plain
+  DL-SPECT.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FU-POINT.S3M:
+    mimetype: audio/x-mod
+  HP-XTC2.ANS:
+    mimetype: text/plain
+  IL-DAMN.ANS:
+    mimetype: text/plain
+  IL-SIG.ANS:
+    mimetype: text/plain
+  IL-TURM.ANS:
+    mimetype: text/plain
+  JV-QUADP.ANS:
+    mimetype: text/plain
+  ML-BYTCH.JPG:
+    mimetype: image/jpeg
+  ML-MCML.GIF:
+    mimetype: image/gif
+  ML-ML1.JPG:
+    mimetype: image/jpeg
+  ML-ML01.GIF:
+    mimetype: image/gif
+  ML-ML2.JPG:
+    mimetype: image/jpeg
+  MR-4TH.ASC:
+    mimetype: text/plain
+  MR-H-INC.ANS:
+    mimetype: text/plain
+  MR-HOLE.LIT:
+    mimetype: text/plain
+  MR-HURT.LIT:
+    mimetype: text/plain
+  MR-ML.ANS:
+    mimetype: text/plain
+  MR-MLAND.ASC:
+    mimetype: text/plain
+  MR-MRQP.ANS:
+    mimetype: text/plain
+  MR-MRQP2.ANS:
+    mimetype: text/plain
+  MR-QP2.ANS:
+    mimetype: text/plain
+  MR-XTC.ANS:
+    mimetype: text/plain
+  MR-XTC2.ANS:
+    mimetype: text/plain
+  QUADAPP.EXE:
+    mimetype: application/x-msdos-program
+  RP-AI.ASC:
+    mimetype: text/plain
+  RP-DI.ASC:
+    mimetype: text/plain
+  RP-DR.ASC:
+    mimetype: text/plain
+  RP-GREET.ASC:
+    mimetype: text/plain
+  RP-HM.ASC:
+    mimetype: text/plain
+  RP-LL.ASC:
+    mimetype: text/plain
+  RP-LROC.ASC:
+    mimetype: text/plain
+  RP-SR.ASC:
+    mimetype: text/plain
+  RP-TFP.ASC:
+    mimetype: text/plain
+  TR-QDP3.JPG:
+    mimetype: image/jpeg
+  TR-XTC3.JPG:
+    mimetype: image/jpeg
+  WOS:
+    mimetype: text/plain
+  XTCNET02.ZIP:
+    mimetype: application/zip

@@ -1,0 +1,52 @@
+name: dkb_csa1.lzh
+hash: 724bcf609e7e076e6860e50d94a9e786
+year: 1998
+file:
+  bast.jpg:
+    mimetype: image/jpeg
+  csa.jpg:
+    mimetype: image/jpeg
+  csa1.jpg:
+    mimetype: image/jpeg
+  csa2.jpg:
+    mimetype: image/jpeg
+  csa3.jpg:
+    mimetype: image/jpeg
+  csa4.jpg:
+    mimetype: image/jpeg
+  csa5.jpg:
+    mimetype: image/jpeg
+  csa6.jpg:
+    mimetype: image/jpeg
+  csa7.jpg:
+    mimetype: image/jpeg
+  cskcsa.jpg:
+    mimetype: image/jpeg
+  despsir.jpg:
+    mimetype: image/jpeg
+  dkb.nfo:
+    mimetype: text/plain
+  dkb.nfo~:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hotgraff.txt:
+    mimetype: text/plain
+  releases.lst:
+    mimetype: text/plain
+  sirbus.jpg:
+    mimetype: image/jpeg
+  sirchar.jpg:
+    mimetype: image/jpeg
+  sirco1.jpg:
+    mimetype: image/jpeg
+  sirco2.jpg:
+    mimetype: image/jpeg
+  sirco3.jpg:
+    mimetype: image/jpeg
+  sirco4.jpg:
+    mimetype: image/jpeg
+  sirsndkb.jpg:
+    mimetype: image/jpeg
+  ubksnsi.jpg:
+    mimetype: image/jpeg

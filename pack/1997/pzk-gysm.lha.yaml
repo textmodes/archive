@@ -1,0 +1,24 @@
+name: pzk-gysm.lha
+hash: 77a8dfda32007953711f49f02d046c9e
+year: 1997
+file:
+  file_id.diz:
+    mimetype: text/plain
+  gysmo01.jpg:
+    mimetype: image/jpeg
+  gysmo02.jpg:
+    mimetype: image/jpeg
+  gysmo03.jpg:
+    mimetype: image/jpeg
+  gysmo04.jpg:
+    mimetype: image/jpeg
+  gysmo05.jpg:
+    mimetype: image/jpeg
+  junction.doc:
+    mimetype: text/plain
+  kuchen.dok:
+    mimetype: text/plain
+  pzk-nfo.txt:
+    mimetype: text/plain
+  shelter!.dok:
+    mimetype: text/plain

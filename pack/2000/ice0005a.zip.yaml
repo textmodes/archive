@@ -1,0 +1,26 @@
+name: ice0005a.zip
+hash: f253d1155030a7d97197ec7f5f0fa4ba
+year: 2000
+file:
+  09-FC3.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-0005.DSC:
+    mimetype: text/plain
+  ICE-0005.MEM:
+    mimetype: text/plain
+  ICE-0005.NFO:
+    mimetype: text/plain
+  ICE-0005.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  US-001.ICE:
+    mimetype: text/plain
+  US-PRO.ICE:
+    mimetype: text/plain

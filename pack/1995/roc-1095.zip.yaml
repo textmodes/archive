@@ -1,0 +1,66 @@
+name: roc-1095.zip
+hash: 6d439d4145df05e76321529faecc77da
+year: 1995
+file:
+  BG-BP01.RIP:
+    mimetype: image/x-rip
+  BG-BS1O1.RIP:
+    mimetype: image/x-rip
+  BG-PB02.RIP:
+    mimetype: image/x-rip
+  BP-A1SMX.ANS:
+    mimetype: text/plain
+  BP-ALPHA.ANS:
+    mimetype: text/plain
+  BP-BSTRM.ANS:
+    mimetype: text/plain
+  BP-MP.ANS:
+    mimetype: text/plain
+  BP-PLUND.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L3-PGN.ANS:
+    mimetype: text/plain
+  L3-ROC.ANS:
+    mimetype: text/plain
+  MM-ROC.GIF:
+    mimetype: image/gif
+  ROC-1095.MEM:
+    mimetype: text/plain
+  ROC-1095.NFO:
+    mimetype: text/plain
+  ROC-APP.COM:
+    mimetype: application/x-msdos-program
+  ROC-VOL1.LIT:
+    mimetype: text/plain
+  RZA-BV.ANS:
+    mimetype: text/plain
+  SP-COMBO.ASC:
+    mimetype: text/plain
+  SRAT-COW.ANS:
+    mimetype: text/plain
+  SRAT-ICE.ANS:
+    mimetype: text/plain
+  SRAT-PB1.ANS:
+    mimetype: text/plain
+  TS-HAPPY.S3M:
+    mimetype: audio/x-mod
+  TS-KODER.ASC:
+    mimetype: text/plain
+  TS-OPS.ASC:
+    mimetype: text/plain
+  TS-PAND.ASC:
+    mimetype: text/plain
+  TS-SOL3.ASC:
+    mimetype: text/plain
+  VG-A1S.ANS:
+    mimetype: text/plain
+  VG-ELESC.ANS:
+    mimetype: text/plain
+  VG-M00!!.ANS:
+    mimetype: text/plain
+  VG-PB!.ANS:
+    mimetype: text/plain
+  VG-QREAL.ANS:
+    mimetype: text/plain

@@ -1,0 +1,30 @@
+name: axss-007.rar
+hash: 305c9c797862e101ca6b48312979e313
+year: 1997
+file:
+  '!ART!.EXE':
+    mimetype: application/x-msdos-program
+  $H-4ROW.ANS:
+    mimetype: text/plain
+  $H-APLYR.ANS:
+    mimetype: text/plain
+  $H-BDNET.ANS:
+    mimetype: text/plain
+  $H-CGP01.ANS:
+    mimetype: text/plain
+  $H-GODES.ANS:
+    mimetype: text/plain
+  AXSS-007.MEM:
+    mimetype: text/plain
+  AXSS-007.MSC:
+    mimetype: text/plain
+  AXSS-007.NWS:
+    mimetype: text/plain
+  BURNING.ANS:
+    mimetype: text/plain
+  DESIRE.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  SORRY.NFO:
+    mimetype: text/plain

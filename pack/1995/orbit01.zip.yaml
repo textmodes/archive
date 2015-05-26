@@ -1,0 +1,114 @@
+name: orbit01.zip
+hash: 230628165b655bfa3703f20678f3ed9e
+year: 1995
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  M-INSOM.ANS:
+    mimetype: text/plain
+  M-NC1.ANS:
+    mimetype: text/plain
+  M-NC1.FLI:
+    mimetype: video/fli
+  M-NC1.GIF:
+    mimetype: image/gif
+  M-NC2.ANS:
+    mimetype: text/plain
+  M-ORBIT1.ANS:
+    mimetype: text/plain
+  M-ORBIT1.GIF:
+    mimetype: image/gif
+  M-ORBIT2.ANS:
+    mimetype: text/plain
+  M-ORBIT2.GIF:
+    mimetype: image/gif
+  M-ORBIT3.ANS:
+    mimetype: text/plain
+  M-ORBIT3.GIF:
+    mimetype: image/gif
+  M-ORBIT4.ANS:
+    mimetype: text/plain
+  M-POLY.ANS:
+    mimetype: text/plain
+  M-SWORD.GIF:
+    mimetype: image/gif
+  ML-ADORE.LIT:
+    mimetype: text/plain
+  ML-B2U.LIT:
+    mimetype: text/plain
+  ML-BEACH.LIT:
+    mimetype: text/plain
+  ML-BRETH.LIT:
+    mimetype: text/plain
+  ML-CAP.LIT:
+    mimetype: text/plain
+  ML-EXPOS.LIT:
+    mimetype: text/plain
+  ML-FRUIT.LIT:
+    mimetype: text/plain
+  ML-MAGIC.LIT:
+    mimetype: text/plain
+  ML-NEEDU.LIT:
+    mimetype: text/plain
+  ML-SPOKN.LIT:
+    mimetype: text/plain
+  ML-TRUTH.LIT:
+    mimetype: text/plain
+  OC-ENTR.S3M:
+    mimetype: audio/x-mod
+  ORBIT1.SMC:
+    mimetype: application/octet-stream
+  ORBIT295.ANS:
+    mimetype: text/plain
+  ORBITAPP.DAT:
+    mimetype: audio/x-mod
+  ORBITAPP.EXE:
+    mimetype: application/x-msdos-program
+  ORBITAPP.SND:
+    mimetype: audio/basic
+  ORBTNEWS.ANS:
+    mimetype: text/plain
+  PB-NC1.TGA:
+    mimetype: application/octet-stream
+  PB-POLY1.GIF:
+    mimetype: image/gif
+  TG-NC1.GIF:
+    mimetype: image/gif
+  TG-ORBT1.GIF:
+    mimetype: image/gif
+  TG-ORBT2.GIF:
+    mimetype: image/gif
+  TG-ORBT3.GIF:
+    mimetype: image/gif
+  TS-CRY.ANS:
+    mimetype: text/plain
+  TS-TRT1.ANS:
+    mimetype: text/plain
+  TS-TRT2.ANS:
+    mimetype: text/plain
+  TS-TRT3.ANS:
+    mimetype: text/plain
+  TS-TRT4.ANS:
+    mimetype: text/plain
+  TS-UNDER.ANS:
+    mimetype: text/plain
+  TS-UNDER.MOD:
+    mimetype: audio/x-mod
+  TS-VR.ANS:
+    mimetype: text/plain
+  TS-WALK.ANS:
+    mimetype: text/plain
+  TS-WALK.MOD:
+    mimetype: audio/x-mod
+  VD-CB.ANS:
+    mimetype: text/plain
+  VD-MARV1.ANS:
+    mimetype: text/plain
+  VD-POLY.ANS:
+    mimetype: text/plain
+  VD-RG1.ANS:
+    mimetype: text/plain
+  VD-THEWA.ANS:
+    mimetype: text/plain
+  VD-TWEET.ANS:
+    mimetype: text/plain

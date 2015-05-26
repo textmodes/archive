@@ -1,0 +1,280 @@
+name: dark0597.zip
+hash: a383ad5821d65708e3e67b57e3aaf3ac
+year: 1997
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -ASCII--.---:
+    mimetype: text/plain
+  -INTRO--.---:
+    mimetype: text/plain
+  -LIT----.---:
+    mimetype: text/plain
+  -MUSIC--.---:
+    mimetype: text/plain
+  -UTILS--.---:
+    mimetype: text/plain
+  -VGA----.---:
+    mimetype: text/plain
+  AG-BREAK.LIT:
+    mimetype: text/plain
+  AG-BUSS.LIT:
+    mimetype: text/plain
+  AG-CEIL.LIT:
+    mimetype: text/plain
+  AG-DEB.LIT:
+    mimetype: text/plain
+  AG-DINN.LIT:
+    mimetype: text/plain
+  AG-DISSE.LIT:
+    mimetype: text/plain
+  AG-MIL.LIT:
+    mimetype: text/plain
+  AG-SAP.LIT:
+    mimetype: text/plain
+  AG-SOMET.LIT:
+    mimetype: text/plain
+  ARMGD-04.DRK:
+    mimetype: text/plain
+  ARZCH-02.JPG:
+    mimetype: image/jpeg
+  ASOAP-07.JPG:
+    mimetype: image/jpeg
+  ASOAP-08.JPG:
+    mimetype: image/jpeg
+  BB-GENER.LIT:
+    mimetype: text/plain
+  BB-PLAST.LIT:
+    mimetype: text/plain
+  BB-REVFU.LIT:
+    mimetype: text/plain
+  BB-UNFI.LIT:
+    mimetype: text/plain
+  BS-3NAME.LIT:
+    mimetype: text/plain
+  BS-CLAY.LIT:
+    mimetype: text/plain
+  BS-WATER.LIT:
+    mimetype: text/plain
+  BURNT-04.JPG:
+    mimetype: image/jpeg
+  CK-SYLPH.LIT:
+    mimetype: text/plain
+  CLEE-01.JPG:
+    mimetype: image/jpeg
+  CLEE-02.JPG:
+    mimetype: image/jpeg
+  CLEE-03.JPG:
+    mimetype: image/jpeg
+  CM-DRAGO.ASC:
+    mimetype: text/plain
+  CM-MIST.ASC:
+    mimetype: text/plain
+  CM-SP1.ASC:
+    mimetype: text/plain
+  CORIN-04.DRK:
+    mimetype: text/plain
+  CT-COMMO.LIT:
+    mimetype: text/plain
+  CT-DESTG.LIT:
+    mimetype: text/plain
+  CT-ISOBE.LIT:
+    mimetype: text/plain
+  CT-SET.LIT:
+    mimetype: text/plain
+  CTFOSM-C.LIT:
+    mimetype: text/plain
+  DARK-FAQ.186:
+    mimetype: application/octet-stream
+  DARK0597.MEM:
+    mimetype: text/plain
+  DARK0597.NFO:
+    mimetype: text/plain
+  DARKGEN2.EXE:
+    mimetype: application/x-msdos-program
+  DARKVIEW.DAT:
+    mimetype: audio/x-mod
+  DARKVIEW.DOC:
+    mimetype: text/plain
+  DARKVIEW.EXE:
+    mimetype: application/x-msdos-program
+  DARKVIEW.VOC:
+    mimetype: audio/x-unknown
+  DEACS-02.DRK:
+    mimetype: text/plain
+  DISCO-01.DRK:
+    mimetype: text/plain
+  DISCO-02.DRK:
+    mimetype: text/plain
+  DISCO-03.DRK:
+    mimetype: text/plain
+  DISCO-04.ASC:
+    mimetype: text/plain
+  DS-0597.ASC:
+    mimetype: text/plain
+  DS-CHTH3.ASC:
+    mimetype: text/plain
+  DS-DGR1.DRK:
+    mimetype: text/plain
+  DS-LF1C.ASC:
+    mimetype: text/plain
+  DS-NSP1.DRK:
+    mimetype: text/plain
+  DS-OMLT1.ASC:
+    mimetype: text/plain
+  DS-SF1.DRK:
+    mimetype: text/plain
+  DS-SPF1.ASC:
+    mimetype: text/plain
+  DS-SPFND.ASC:
+    mimetype: text/plain
+  EPITH-04.IT:
+    mimetype: audio/x-mod
+  ESSOB-02.JPG:
+    mimetype: image/jpeg
+  ET-SEXY.DRK:
+    mimetype: text/plain
+  FB-AS.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GE-KLF.ASC:
+    mimetype: text/plain
+  GN!FLUPH.JPG:
+    mimetype: image/jpeg
+  GN!SOUP.JPG:
+    mimetype: image/jpeg
+  HB-TST.DRK:
+    mimetype: text/plain
+  HF-FUZZ.DRK:
+    mimetype: text/plain
+  HF-GLEEP.DRK:
+    mimetype: text/plain
+  HF-NOTME.DRK:
+    mimetype: text/plain
+  HF-PHANT.DRK:
+    mimetype: text/plain
+  HI-OOT.LIT:
+    mimetype: text/plain
+  HI-STORY.LIT:
+    mimetype: text/plain
+  HOLOC-03.ASC:
+    mimetype: text/plain
+  HOLOC-06.ASC:
+    mimetype: text/plain
+  JG-ALC1.DRK:
+    mimetype: text/plain
+  JG-JMENU.DRK:
+    mimetype: text/plain
+  JMILL-01.JPG:
+    mimetype: image/jpeg
+  JMILL-02.JPG:
+    mimetype: image/jpeg
+  JO-REQUI.LIT:
+    mimetype: text/plain
+  KY-ANGEL.JPG:
+    mimetype: image/jpeg
+  LM-SSL.DRK:
+    mimetype: text/plain
+  MASK-01.DRK:
+    mimetype: text/plain
+  MASK-02.DRK:
+    mimetype: text/plain
+  MASK-03.DRK:
+    mimetype: text/plain
+  MASK-04.DRK:
+    mimetype: text/plain
+  MASK-05.DRK:
+    mimetype: text/plain
+  MASK-06.DRK:
+    mimetype: text/plain
+  MASK-07.DRK:
+    mimetype: text/plain
+  MASK-08.DRK:
+    mimetype: text/plain
+  MASK-09.DRK:
+    mimetype: text/plain
+  MASK-10.JPG:
+    mimetype: image/jpeg
+  ME-ODY.XM:
+    mimetype: audio/x-mod
+  MG-STUFF.DRK:
+    mimetype: text/plain
+  MN-IE1.DRK:
+    mimetype: text/plain
+  MOBY-04.S3M:
+    mimetype: audio/x-mod
+  MOBY-05.S3M:
+    mimetype: audio/x-mod
+  MU-ALIEN.ASC:
+    mimetype: text/plain
+  MULTI-07.ASC:
+    mimetype: text/plain
+  NRCSS-01.DRK:
+    mimetype: text/plain
+  PT-0697!.DRK:
+    mimetype: text/plain
+  PT-EXIL1.GIF:
+    mimetype: image/gif
+  PZK-SMOP.ASC:
+    mimetype: text/plain
+  RE-BIRD.LIT:
+    mimetype: text/plain
+  SA-AFA.LIT:
+    mimetype: text/plain
+  SA-DEATM.LIT:
+    mimetype: text/plain
+  SA-LIPS.LIT:
+    mimetype: text/plain
+  SA-LOVE.LIT:
+    mimetype: text/plain
+  SA-QUIET.LIT:
+    mimetype: text/plain
+  SA-SILEN.LIT:
+    mimetype: text/plain
+  SA-SUNSU.LIT:
+    mimetype: text/plain
+  SM-FONTS.DRK:
+    mimetype: text/plain
+  SM-SUPRF.DRK:
+    mimetype: text/plain
+  TGHRN-08.DRK:
+    mimetype: text/plain
+  TH_MNK33.GIF:
+    mimetype: image/gif
+  TH_MOP.GIF:
+    mimetype: image/gif
+  US-LOK.DRK:
+    mimetype: text/plain
+  XM-FRQTG.ZIP:
+    mimetype: application/zip
+  XMTRX-05.DRK:
+    mimetype: text/plain
+  YT-0497.DRK:
+    mimetype: text/plain
+  YT-CIZB1.DRK:
+    mimetype: text/plain
+  YT-DARK.ASC:
+    mimetype: text/plain
+  YT-DARK1.RIP:
+    mimetype: image/x-rip
+  YT-GERO1.DRK:
+    mimetype: text/plain
+  YT-LORE1.DRK:
+    mimetype: text/plain
+  YT-NSP1.RIP:
+    mimetype: image/x-rip
+  YT-SF1.GIF:
+    mimetype: image/gif
+  YT-TT1.RIP:
+    mimetype: image/x-rip
+  ZR-GRASS.LIT:
+    mimetype: text/plain
+  ZY-27MAR.LIT:
+    mimetype: text/plain
+  ZY-INSEC.LIT:
+    mimetype: text/plain
+  ZY-KYOTO.LIT:
+    mimetype: text/plain
+  ZY-ONEGA.LIT:
+    mimetype: text/plain

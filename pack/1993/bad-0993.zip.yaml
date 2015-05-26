@@ -1,0 +1,38 @@
+name: bad-0993.zip
+hash: 6fa86cd8331dc817eee56944f14a428e
+year: 1993
+file:
+  BAD-0993.MEM:
+    mimetype: text/plain
+  BAD-0993.NFO:
+    mimetype: text/plain
+  BAD-0993.SIT:
+    mimetype: text/plain
+  BADAPP.EXE:
+    mimetype: application/x-msdos-program
+  BH-NORTH.MOD:
+    mimetype: audio/x-mod
+  BK-NORTH.BAD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LD-REBEL.BAD:
+    mimetype: text/plain
+  LD-UCA.BAD:
+    mimetype: text/plain
+  LD-WASTE.BAD:
+    mimetype: text/plain
+  LD-WORMS.BAD:
+    mimetype: text/plain
+  NC-VIS2.BAD:
+    mimetype: text/plain
+  PR-UCA.BAD:
+    mimetype: text/plain
+  REQUEST.ZIP:
+    mimetype: application/zip
+  S8-IRIDI.BAD:
+    mimetype: text/plain
+  SQ-IRIDI.BAD:
+    mimetype: text/plain

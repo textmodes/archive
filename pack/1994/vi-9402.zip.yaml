@@ -1,0 +1,72 @@
+name: vi-9402.zip
+hash: fba73a2be2f8d23ff7c2f10468b4f4fa
+year: 1994
+file:
+  2-LD2.ANS:
+    mimetype: text/plain
+  2-TWB2.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JK-VIL01.LGO:
+    mimetype: text/plain
+  JK-VIL02.LGO:
+    mimetype: text/plain
+  LG-AE2.LGO:
+    mimetype: text/plain
+  LG-PWA.LGO:
+    mimetype: text/plain
+  LG-VI1.LGO:
+    mimetype: text/plain
+  NC-FALSE.669:
+    mimetype: audio/x-mod
+  NC-HEAT.669:
+    mimetype: audio/x-mod
+  NC-REL.669:
+    mimetype: audio/x-mod
+  NE-DESP.LIT:
+    mimetype: text/plain
+  NE-REMEM.LIT:
+    mimetype: text/plain
+  PR-VI.LGO:
+    mimetype: text/plain
+  PR-VI2.LGO:
+    mimetype: text/plain
+  PV-AE01.ANS:
+    mimetype: text/plain
+  PV-FN27.LGO:
+    mimetype: text/plain
+  PV-PSY01.LGO:
+    mimetype: text/plain
+  TN-THC01.ANS:
+    mimetype: text/plain
+  TP-AE01.ANS:
+    mimetype: text/plain
+  TP-CS01.ANS:
+    mimetype: text/plain
+  TP-DC01.ASC:
+    mimetype: text/plain
+  TP-DLC01.LGO:
+    mimetype: text/plain
+  TP-FN02.LGO:
+    mimetype: text/plain
+  TP-GC02.LGO:
+    mimetype: text/plain
+  TP-RT01.ANS:
+    mimetype: text/plain
+  TP-TC01.ANS:
+    mimetype: text/plain
+  USL-DECN.LIT:
+    mimetype: text/plain
+  VI-9402.MEM:
+    mimetype: text/plain
+  VI-9402.NFO:
+    mimetype: text/plain
+  VI-9402.SIT:
+    mimetype: text/plain
+  VI-APP.EXE:
+    mimetype: application/x-msdos-program
+  VI-EW.EXE:
+    mimetype: application/x-msdos-program
+  VI-REQST.EXE:
+    mimetype: application/x-msdos-program

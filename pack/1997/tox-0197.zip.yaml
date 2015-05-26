@@ -1,0 +1,116 @@
+name: tox-0197.zip
+hash: 5df9fb20a713e4ed955d95411771a5aa
+year: 1997
+file:
+  '!GH-NOW.EXE':
+    mimetype: application/x-msdos-program
+  -HOP-.COM:
+    mimetype: application/x-msdos-program
+  "•••AC•••.COM":
+    mimetype: application/x-msdos-program
+  AC-LOGOF.ANS:
+    mimetype: text/plain
+  AC-MENU.ANS:
+    mimetype: text/plain
+  BRAINFO!.EXE:
+    mimetype: application/x-msdos-program
+  CANTMISS.IT!:
+    mimetype: text/plain
+  COMEFROM.GH!:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAG-AC.ANS:
+    mimetype: text/plain
+  MAG-CYBE.ANS:
+    mimetype: text/plain
+  MAG-EXPL.ANS:
+    mimetype: text/plain
+  MAG-FILE.ANS:
+    mimetype: text/plain
+  MAG-GANG.ANS:
+    mimetype: text/plain
+  MAG-H!R.ANS:
+    mimetype: text/plain
+  MAG-HAZA.ASC:
+    mimetype: text/plain
+  MAG-HIGH.ANS:
+    mimetype: text/plain
+  MAG-HULK.ANS:
+    mimetype: text/plain
+  MAG-LOCK.ANS:
+    mimetype: text/plain
+  MAG-MIST.ANS:
+    mimetype: text/plain
+  MAG-MOJO.ANS:
+    mimetype: text/plain
+  MAG-OMEG.ANS:
+    mimetype: text/plain
+  MAG-SAUR.ANS:
+    mimetype: text/plain
+  MAG-SB!.ANS:
+    mimetype: text/plain
+  MAG-SKRU.ANS:
+    mimetype: text/plain
+  MAG-SPID.ANS:
+    mimetype: text/plain
+  MAG-ZODI.ANS:
+    mimetype: text/plain
+  NEVAMIND.$@!:
+    mimetype: text/plain
+  PASSED.B4U:
+    mimetype: text/plain
+  PHUCKOFF.@#$:
+    mimetype: text/plain
+  PL-ANGEL.ANS:
+    mimetype: text/plain
+  PL-ASC2S.ASC:
+    mimetype: text/plain
+  PL-AVG.ANS:
+    mimetype: text/plain
+  PL-BART.ANS:
+    mimetype: text/plain
+  PL-BYE.ANS:
+    mimetype: text/plain
+  PL-BYE2.ANS:
+    mimetype: text/plain
+  PL-CHAT.ANS:
+    mimetype: text/plain
+  PL-COMA.ANS:
+    mimetype: text/plain
+  PL-DAHZE.ANS:
+    mimetype: text/plain
+  PL-DEEP.ANS:
+    mimetype: text/plain
+  PL-HELP!.ANS:
+    mimetype: text/plain
+  PL-HIDDN.ANS:
+    mimetype: text/plain
+  PL-HOP.ANS:
+    mimetype: text/plain
+  PL-HOP2.ANS:
+    mimetype: text/plain
+  PL-HRLOG.ANS:
+    mimetype: text/plain
+  PL-LOGIN.ANS:
+    mimetype: text/plain
+  PL-MJ.ANS:
+    mimetype: text/plain
+  PL-REX.ANS:
+    mimetype: text/plain
+  PL-SKULL.ANS:
+    mimetype: text/plain
+  PL-SPACE.ANS:
+    mimetype: text/plain
+  PL-SPBOY.ANS:
+    mimetype: text/plain
+  PL-T-REX.ANS:
+    mimetype: text/plain
+  PL-TOX.ANS:
+    mimetype: text/plain
+  PL-TREX.ANS:
+    mimetype: text/plain
+  PL-TUD.ANS:
+    mimetype: text/plain
+  TOX-INFO.ANS:
+    mimetype: text/plain

@@ -1,0 +1,130 @@
+name: fuel12.zip
+hash: b22cb68842aaf155faeb4bb956f88c90
+year: 1997
+file:
+  1D-SBUNN.ANS:
+    mimetype: text/plain
+  5F-BO.ASC:
+    mimetype: text/plain
+  5F-LG12.ASC:
+    mimetype: text/plain
+  AOH-CHLK.ANS:
+    mimetype: text/plain
+  AOH-LG12.ANS:
+    mimetype: text/plain
+  AOH-LG12.ASC:
+    mimetype: text/plain
+  BF-!A1.ANS:
+    mimetype: text/plain
+  BF-ILB1.ASC:
+    mimetype: text/plain
+  BF-LG12.ANS:
+    mimetype: text/plain
+  BF-LG12.ASC:
+    mimetype: text/plain
+  BS-LG12.ANS:
+    mimetype: text/plain
+  CAV-DPMX.ANS:
+    mimetype: text/plain
+  CAV-FUEL.ANS:
+    mimetype: text/plain
+  CAV-JF.ANS:
+    mimetype: text/plain
+  CAV-LG12.ANS:
+    mimetype: text/plain
+  CAV-RTL.ANS:
+    mimetype: text/plain
+  CC-LG12A.ANS:
+    mimetype: text/plain
+  CC-LG12B.ANS:
+    mimetype: text/plain
+  CC-LG12C.ANS:
+    mimetype: text/plain
+  CG-BU1.ANS:
+    mimetype: text/plain
+  CG-LG12.ANS:
+    mimetype: text/plain
+  CM-VOMIT.ASC:
+    mimetype: text/plain
+  CR-LG12.ANS:
+    mimetype: text/plain
+  DF-FEOS.ASC:
+    mimetype: text/plain
+  DSP-BS.ASC:
+    mimetype: text/plain
+  DSP-LG12.ASC:
+    mimetype: text/plain
+  EL-LG12.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUEL12.MEM:
+    mimetype: text/plain
+  FUEL12.NFO:
+    mimetype: text/plain
+  IZE-LG12.ANS:
+    mimetype: text/plain
+  JZM-LG12.ASC:
+    mimetype: text/plain
+  KH-S2C.ASC:
+    mimetype: text/plain
+  M7M-LG12.ASC:
+    mimetype: text/plain
+  MT-LG12.ASC:
+    mimetype: text/plain
+  NK-FHP01.ANS:
+    mimetype: text/plain
+  RA-ICEBR.ANS:
+    mimetype: text/plain
+  RC-CYBER.ANS:
+    mimetype: text/plain
+  RC-LG12.ANS:
+    mimetype: text/plain
+  RC-THRAS.ANS:
+    mimetype: text/plain
+  SB-MOV96.ANS:
+    mimetype: text/plain
+  SB-SUMM.ANS:
+    mimetype: text/plain
+  SC-NEG1.ANS:
+    mimetype: text/plain
+  SC-NEG2.ANS:
+    mimetype: text/plain
+  SC-NEG3.ANS:
+    mimetype: text/plain
+  SOR-LG12.ANS:
+    mimetype: text/plain
+  SOR-MATX.ANS:
+    mimetype: text/plain
+  SOR-PL.ANS:
+    mimetype: text/plain
+  SOR-SALT.ANS:
+    mimetype: text/plain
+  TK-DISTO.ANS:
+    mimetype: text/plain
+  TK-EDGE.ANS:
+    mimetype: text/plain
+  TK-GLAS.ANS:
+    mimetype: text/plain
+  TK-LG12.ANS:
+    mimetype: text/plain
+  TK-PULSE.ASC:
+    mimetype: text/plain
+  US-ATL.ANS:
+    mimetype: text/plain
+  US-DELTZ.ANS:
+    mimetype: text/plain
+  US-EN.ASC:
+    mimetype: text/plain
+  US-FF.ANS:
+    mimetype: text/plain
+  US-GULP.ANS:
+    mimetype: text/plain
+  US-KAF.ANS:
+    mimetype: text/plain
+  US-MENU.ANS:
+    mimetype: text/plain
+  US-SUCDE.ANS:
+    mimetype: text/plain
+  US-TMA04.ANS:
+    mimetype: text/plain

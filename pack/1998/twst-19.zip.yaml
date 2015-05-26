@@ -1,0 +1,86 @@
+name: twst-19.zip
+hash: 7e9213c4bd1282dcabe81d5914acd661
+year: 1998
+file:
+  2YEARS.ANS:
+    mimetype: text/plain
+  BD-MAV.ASC:
+    mimetype: text/plain
+  CARC-CG.ANS:
+    mimetype: text/plain
+  CARC-DF.ANS:
+    mimetype: text/plain
+  CARC-FF.ANS:
+    mimetype: text/plain
+  CARC-NR.ANS:
+    mimetype: text/plain
+  CARC-TV.ANS:
+    mimetype: text/plain
+  CARC-TW.ANS:
+    mimetype: text/plain
+  DS-CF.ASC:
+    mimetype: text/plain
+  DS-ESCLG.ASC:
+    mimetype: text/plain
+  DS-LIQ.ASC:
+    mimetype: text/plain
+  DS-SE.ASC:
+    mimetype: text/plain
+  ESC-BAD.ASC:
+    mimetype: text/plain
+  ESC-COLL.ASC:
+    mimetype: text/plain
+  ESC-CYB.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IO-CLY2.ANS:
+    mimetype: text/plain
+  IO-CLY4.ANS:
+    mimetype: text/plain
+  IO-CLY6.ANS:
+    mimetype: text/plain
+  IO-CLY8.ANS:
+    mimetype: text/plain
+  IO-DIY.ANS:
+    mimetype: text/plain
+  IO-JRS.ANS:
+    mimetype: text/plain
+  IO-TWST.ANS:
+    mimetype: text/plain
+  JX-ABSTR.JPG:
+    mimetype: image/jpeg
+  KLUSTER.ESC:
+    mimetype: text/plain
+  MAN-XXXS.ASC:
+    mimetype: text/plain
+  NAU-AQRM.JPG:
+    mimetype: image/jpeg
+  NAU-MARS.JPG:
+    mimetype: image/jpeg
+  NAU-SUN.JPG:
+    mimetype: image/jpeg
+  NAU-TEMP.JPG:
+    mimetype: image/jpeg
+  SL-COLLY.COL:
+    mimetype: text/plain
+  SL-FSN.COL:
+    mimetype: text/plain
+  STR-ANNI.ANS:
+    mimetype: text/plain
+  STR-DIY.ANS:
+    mimetype: text/plain
+  TERR0298.GIF:
+    mimetype: image/gif
+  TW-APP.EXE:
+    mimetype: application/x-msdos-program
+  TWST-19.MEM:
+    mimetype: text/plain
+  TWST-19.NFO:
+    mimetype: text/plain
+  TWVIEW.EXE:
+    mimetype: application/x-msdos-program
+  US!TWSTY.ANS:
+    mimetype: text/plain
+  US-DARK.ANS:
+    mimetype: text/plain

@@ -1,0 +1,58 @@
+name: twst-13.zip
+hash: 040d2ddc281a453b5aa6261a1fbdbc23
+year: 1997
+file:
+  '!ANSI.DIV':
+    mimetype: text/plain
+  22-HDRS.ANS:
+    mimetype: text/plain
+  22-KAF.ANS:
+    mimetype: text/plain
+  22-LIFE.LIT:
+    mimetype: text/plain
+  22-SLUT.LIT:
+    mimetype: text/plain
+  22-SPEAK.LIT:
+    mimetype: text/plain
+  22-TWST.ANS:
+    mimetype: text/plain
+  BD-COL1.ASC:
+    mimetype: text/plain
+  CP-MSD.ANS:
+    mimetype: text/plain
+  DF-0597.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IMI-DROP.ANS:
+    mimetype: text/plain
+  MDCOLLY2.ANS:
+    mimetype: text/plain
+  OG-WERK.ANS:
+    mimetype: text/plain
+  PC-24.ANS:
+    mimetype: text/plain
+  PC-C0.ANS:
+    mimetype: text/plain
+  PC-COLLY.ANS:
+    mimetype: text/plain
+  RA-TWST.ANS:
+    mimetype: text/plain
+  RN-COLI1.ANS:
+    mimetype: text/plain
+  RN-HDRS.ANS:
+    mimetype: text/plain
+  T-OHYEAH.ASC:
+    mimetype: text/plain
+  TERR-01.LIT:
+    mimetype: text/plain
+  TWST-13.MEM:
+    mimetype: text/plain
+  TWST-13.NFO:
+    mimetype: text/plain
+  TWVIEW.EXE:
+    mimetype: application/x-msdos-program
+  US-FLUPH.ANS:
+    mimetype: text/plain
+  US-SKATE.ANS:
+    mimetype: text/plain

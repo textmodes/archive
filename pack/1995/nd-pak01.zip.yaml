@@ -1,0 +1,94 @@
+name: nd-pak01.zip
+hash: 3f2ac2078c2f0bc81272932c5b09b38b
+year: 1995
+file:
+  AMI.COM:
+    mimetype: application/x-msdos-program
+  CL-DORIO.ASC:
+    mimetype: text/plain
+  DAPLAYAZ.CLB:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FZ-AKIRA.ANS:
+    mimetype: text/plain
+  FZ-DORIO.ANS:
+    mimetype: text/plain
+  FZ-DYSTO.ASC:
+    mimetype: text/plain
+  FZ-GODR.ANS:
+    mimetype: text/plain
+  FZ-GP.ASC:
+    mimetype: text/plain
+  FZ-MAIN.ANS:
+    mimetype: text/plain
+  FZ-MV.ASC:
+    mimetype: text/plain
+  FZ-OD.ASC:
+    mimetype: text/plain
+  FZ-OFLOW.ANS:
+    mimetype: text/plain
+  FZ-STILE.ASC:
+    mimetype: text/plain
+  FZ-TOD.ASC:
+    mimetype: text/plain
+  FZ-TWZ.ANS:
+    mimetype: text/plain
+  NODORIO.NFO:
+    mimetype: text/plain
+  OM-BOTB.ASC:
+    mimetype: text/plain
+  OM-FLUID.ASC:
+    mimetype: text/plain
+  OM-RUNE.ASC:
+    mimetype: text/plain
+  OM-TDC3.ASC:
+    mimetype: text/plain
+  OM-TPC10.ASC:
+    mimetype: text/plain
+  OM-TPC11.ASC:
+    mimetype: text/plain
+  PAK1.NFO:
+    mimetype: text/plain
+  ST-DORIO.ASC:
+    mimetype: text/plain
+  ST-DYS.ASC:
+    mimetype: text/plain
+  ST-MS1.ASC:
+    mimetype: text/plain
+  ST-SUB0.ASC:
+    mimetype: text/plain
+  ST-SYNC.ASC:
+    mimetype: text/plain
+  ST-SYNC2.ASC:
+    mimetype: text/plain
+  WB-DS2.ANS:
+    mimetype: text/plain
+  WB-DSAC.ASC:
+    mimetype: text/plain
+  WB-EA.ASC:
+    mimetype: text/plain
+  WB-FZ.ANS:
+    mimetype: text/plain
+  WB-OD2.ASC:
+    mimetype: text/plain
+  WB-OFLOW.ASC:
+    mimetype: text/plain
+  WB-ONMEN.ANS:
+    mimetype: text/plain
+  WB-RAZOR.ASC:
+    mimetype: text/plain
+  WB-RISC.ANS:
+    mimetype: text/plain
+  WB-SPLCE.ASC:
+    mimetype: text/plain
+  WB-SUB0.ASC:
+    mimetype: text/plain
+  WB-SYNC.ANS:
+    mimetype: text/plain
+  WB-TDC.ASC:
+    mimetype: text/plain
+  WB-TSS.ASC:
+    mimetype: text/plain
+  WB-WB.ASC:
+    mimetype: text/plain

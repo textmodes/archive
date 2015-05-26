@@ -1,0 +1,42 @@
+name: rem-1293.zip
+hash: a7caac7483d37bbc61da33530671e770
+year: 1993
+file:
+  APPS.ZIP:
+    mimetype: application/zip
+  BZ-REM.FLI:
+    mimetype: video/fli
+  BZ-REM1.GIF:
+    mimetype: image/gif
+  BZ-REM1.MOD:
+    mimetype: audio/x-mod
+  BZ-REM2.GIF:
+    mimetype: image/gif
+  BZ-REM2.MOD:
+    mimetype: audio/x-mod
+  BZ-REM3.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  KX-REM.ANS:
+    mimetype: text/plain
+  MH-VIEW.ZIP:
+    mimetype: application/zip
+  NB-DARK.ANS:
+    mimetype: text/plain
+  NB-NIGHT.GIF:
+    mimetype: image/gif
+  NB-REM1.ANS:
+    mimetype: text/plain
+  NB-REM2.ANS:
+    mimetype: text/plain
+  NB-VIS2.ZIP:
+    mimetype: application/zip
+  REM-1293.ANS:
+    mimetype: text/plain
+  REM-1293.NFO:
+    mimetype: text/plain
+  REMPACK.NFO:
+    mimetype: text/plain

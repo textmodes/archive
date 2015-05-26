@@ -1,0 +1,54 @@
+name: smr-05.zip
+hash: 58e6ba0248b7a0eb86b159fab7c45d13
+year: 2001
+file:
+  AS-DSL.ANS:
+    mimetype: text/plain
+  AS-GOODB.ANS:
+    mimetype: text/plain
+  AS-MAIN.ANS:
+    mimetype: text/plain
+  AS-REK.XB:
+    mimetype: text/x-xbin
+  AS-TS.ANS:
+    mimetype: text/plain
+  AS-USERL.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILES.BBS:
+    mimetype: text/plain
+  JAH-ACC.ANS:
+    mimetype: text/plain
+  JAH-DIZ5.ASC:
+    mimetype: text/plain
+  JAH-MAIN.ANS:
+    mimetype: text/plain
+  JAH-MNU3.ANS:
+    mimetype: text/plain
+  JAH-MNU4.ASC:
+    mimetype: text/plain
+  JAH-P5DZ.ASC:
+    mimetype: text/plain
+  JAH-SMR.ANS:
+    mimetype: text/plain
+  MPH-CLR.ANS:
+    mimetype: text/plain
+  RMK-AMI.ANS:
+    mimetype: text/plain
+  RMK-ANIM.ANS:
+    mimetype: text/plain
+  RMK-COLL.TXT:
+    mimetype: text/plain
+  RMK-DIZ.ASC:
+    mimetype: text/plain
+  RMK-WWW.ASC:
+    mimetype: text/plain
+  SMR.APP:
+    mimetype: application/octet-stream
+  SMR.NFO:
+    mimetype: text/plain
+  US-EYM.ANS:
+    mimetype: text/plain
+  XR-KLBS.ASC:
+    mimetype: text/plain

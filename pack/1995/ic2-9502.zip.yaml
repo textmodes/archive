@@ -1,0 +1,54 @@
+name: ic2-9502.zip
+hash: 6ecf72e31ff313ee78780902cb26c7aa
+year: 1995
+file:
+  CG-TERMT.JPG:
+    mimetype: image/jpeg
+  COLOR13.ZIP:
+    mimetype: application/zip
+  CRCCHECK.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FT-LINES.EXE:
+    mimetype: application/x-msdos-program
+  ICE-9502.DSC:
+    mimetype: text/plain
+  ICE-9502.MEM:
+    mimetype: text/plain
+  ICE-9502.NFO:
+    mimetype: text/plain
+  ICE-9502.SIT:
+    mimetype: text/plain
+  ICE-9502.STS:
+    mimetype: text/plain
+  ICEVIEW.BUG:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-PIF.DVP:
+    mimetype: application/octet-stream
+  IX-ONE.JPG:
+    mimetype: image/jpeg
+  IX-TWO.JPG:
+    mimetype: image/jpeg
+  LO-ICE01.JPG:
+    mimetype: image/jpeg
+  NF-CUBE.EXE:
+    mimetype: application/x-msdos-program
+  NF-LENS.EXE:
+    mimetype: application/x-msdos-program
+  PLASMA.PCX:
+    mimetype: image/pcx
+  TD-FC1.JPG:
+    mimetype: image/jpeg
+  TD-FC2.JPG:
+    mimetype: image/jpeg
+  TD-JOURN.JPG:
+    mimetype: image/jpeg
+  UNIVESA.EXE:
+    mimetype: application/x-msdos-program

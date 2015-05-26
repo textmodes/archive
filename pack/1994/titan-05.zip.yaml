@@ -1,0 +1,48 @@
+name: titan-05.zip
+hash: 70da241b3cd6d613b1c703e94ff75cba
+year: 1994
+file:
+  ∎──────∎.EXE:
+    mimetype: application/x-msdos-program
+  ∎──────∎.LIT:
+    mimetype: text/plain
+  CARTEL.ASC:
+    mimetype: text/plain
+  FG-M&S.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GP-EXO.TIT:
+    mimetype: text/plain
+  GP-PANIC.TIT:
+    mimetype: text/plain
+  GP-TAM.TIT:
+    mimetype: text/plain
+  GP-TSMNU.TIT:
+    mimetype: text/plain
+  GP-UHF.TIT:
+    mimetype: text/plain
+  KX-FB.TIT:
+    mimetype: text/plain
+  MEMBERS.TIT:
+    mimetype: text/plain
+  ST&VL_TA.GIF:
+    mimetype: image/gif
+  ST_FUNKE.GIF:
+    mimetype: image/gif
+  SU-AREA2.GIF:
+    mimetype: image/gif
+  SU-CBAIN.GIF:
+    mimetype: image/gif
+  SU-HCBBS.GIF:
+    mimetype: image/gif
+  SU-RUSH.GIF:
+    mimetype: image/gif
+  SU-TITAN.GIF:
+    mimetype: image/gif
+  TITAPP.EXE:
+    mimetype: application/x-msdos-program
+  TITVIEW.EXE:
+    mimetype: application/x-msdos-program
+  TITVIEW.NFO:
+    mimetype: text/plain

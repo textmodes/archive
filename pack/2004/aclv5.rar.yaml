@@ -1,0 +1,40 @@
+name: aclv5.rar
+hash: a20a048c577918b5906e6c09ac1973c6
+year: 2004
+file:
+  acl v5/ACLV5.txt:
+    mimetype: text/plain
+  acl v5/c - narnia.ASC:
+    mimetype: text/plain
+  acl v5/c - unique.ASC:
+    mimetype: text/plain
+  acl v5/c - uw.ASC:
+    mimetype: text/plain
+  acl v5/c- FS.asc:
+    mimetype: text/plain
+  acl v5/c-msn.ASC:
+    mimetype: text/plain
+  acl v5/c-oms.asc:
+    mimetype: text/plain
+  acl v5/c-reloaded.ASC:
+    mimetype: text/plain
+  acl v5/c-revolution.ASC:
+    mimetype: text/plain
+  acl v5/c-sr.ASC:
+    mimetype: text/plain
+  acl v5/c-xforce.ASC:
+    mimetype: text/plain
+  acl v5/o - 2oo4.asc:
+    mimetype: text/plain
+  acl v5/o - astoria.asc:
+    mimetype: text/plain
+  acl v5/o - chronos.asc:
+    mimetype: text/plain
+  acl v5/o - dl.asc:
+    mimetype: text/plain
+  acl v5/o - nti.asc:
+    mimetype: text/plain
+  acl v5/o - tod.asc:
+    mimetype: text/plain
+  acl v5/o - wwe.asc:
+    mimetype: text/plain

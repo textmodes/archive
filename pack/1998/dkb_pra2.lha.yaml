@@ -1,0 +1,40 @@
+name: dkb_pra2.lha
+hash: f38f6cb577d95bdcc5606e79ad996614
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hanf.dok:
+    mimetype: text/plain
+  prag17.jpg:
+    mimetype: image/jpeg
+  prag18.jpg:
+    mimetype: image/jpeg
+  prag19.jpg:
+    mimetype: image/jpeg
+  prag20.jpg:
+    mimetype: image/jpeg
+  prag21.jpg:
+    mimetype: image/jpeg
+  prag22.jpg:
+    mimetype: image/jpeg
+  prag23.jpg:
+    mimetype: image/jpeg
+  prag24.jpg:
+    mimetype: image/jpeg
+  prag25.jpg:
+    mimetype: image/jpeg
+  prag26.jpg:
+    mimetype: image/jpeg
+  prag27.jpg:
+    mimetype: image/jpeg
+  prag28.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  slt-whq.doc:
+    mimetype: text/plain
+  tj.bbs:
+    mimetype: text/plain

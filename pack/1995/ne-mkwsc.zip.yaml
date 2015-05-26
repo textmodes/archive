@@ -1,0 +1,26 @@
+name: ne-mkwsc.zip
+hash: 0446d1c44ed8042c8348d98c255c257b
+year: 1995
+file:
+  ANSI1.BIN:
+    mimetype: text/x-binary
+  ANSI2.BIN:
+    mimetype: text/x-binary
+  ANSI3.BIN:
+    mimetype: text/x-binary
+  ANSI4.BIN:
+    mimetype: text/x-binary
+  CAB2NC.EXE:
+    mimetype: application/x-msdos-program
+  DATA1.BIN:
+    mimetype: text/x-binary
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NIKE.COM:
+    mimetype: application/x-msdos-program
+  PKLITE.EXE:
+    mimetype: application/x-msdos-program
+  START.BAT:
+    mimetype: application/x-msdos-program

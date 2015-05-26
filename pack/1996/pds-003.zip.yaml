@@ -1,0 +1,76 @@
+name: pds-003.zip
+hash: ed56f87d4ec96503cf0b1d607c7ad7f5
+year: 1996
+file:
+  CO-NUKE.GIF:
+    mimetype: image/gif
+  CO-PARAD.GIF:
+    mimetype: image/gif
+  DN-DD.ANS:
+    mimetype: text/plain
+  DN-NE.ANS:
+    mimetype: text/plain
+  DN-NORD1.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MAGICIAN.ASC:
+    mimetype: text/plain
+  MG-COOL.ANS:
+    mimetype: text/plain
+  MG-DARK1.ANS:
+    mimetype: text/plain
+  MG-DRAGO.ANS:
+    mimetype: text/plain
+  MG-MAGIC.ASC:
+    mimetype: text/plain
+  MG-MAGPI.ANS:
+    mimetype: text/plain
+  MG-PAGE.ANS:
+    mimetype: text/plain
+  MG-PARAD.JPG:
+    mimetype: image/jpeg
+  MG-PRDS.ANS:
+    mimetype: text/plain
+  MG-SKULL.ANS:
+    mimetype: text/plain
+  MG-THANX.ANS:
+    mimetype: text/plain
+  OB-BAD.ANS:
+    mimetype: text/plain
+  OB-DD1.ANS:
+    mimetype: text/plain
+  OB-DD1.ASC:
+    mimetype: text/plain
+  OB-DD2.ANS:
+    mimetype: text/plain
+  OB-J4F.ANS:
+    mimetype: text/plain
+  OB-ND1.ANS:
+    mimetype: text/plain
+  OB-NORD1.ANS:
+    mimetype: text/plain
+  OB-NORD2.ANS:
+    mimetype: text/plain
+  OB-OBALL.GIF:
+    mimetype: image/gif
+  OB-OP1.ANS:
+    mimetype: text/plain
+  OB-PDS1.ANS:
+    mimetype: text/plain
+  OB-PDS1.ASC:
+    mimetype: text/plain
+  OB-PDS1.GIF:
+    mimetype: image/gif
+  OB-PDS2.GIF:
+    mimetype: image/gif
+  OB-PDS3.GIF:
+    mimetype: image/gif
+  OB-PDS4.GIF:
+    mimetype: image/gif
+  OB-STILE.ANS:
+    mimetype: text/plain
+  OB-SZD.ANS:
+    mimetype: text/plain
+  PDS-INFO.EXE:
+    mimetype: application/x-msdos-program

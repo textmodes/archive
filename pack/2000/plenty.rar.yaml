@@ -1,0 +1,360 @@
+name: plenty.rar
+hash: 19d4cb0143b3c0e74b2179f69b834a28
+year: 2000
+file:
+  PLENTY/BL!_AGRA.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_AGRO.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_ASIA.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_BLDE.ANS:
+    mimetype: text/plain
+  PLENTY/BL!_BULL:
+    mimetype: text/plain
+  PLENTY/BL!_CRG.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_CSD.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_EVIL:
+    mimetype: text/plain
+  PLENTY/BL!_FAZI.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_FOCS.ANS:
+    mimetype: text/plain
+  PLENTY/BL!_FORM.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_FTM:
+    mimetype: text/plain
+  PLENTY/BL!_FTM.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_FTM2.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_GARD.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_HAL.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_IPC:
+    mimetype: text/plain
+  PLENTY/BL!_IPC.ANS:
+    mimetype: text/plain
+  PLENTY/BL!_IPC.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_IPC2:
+    mimetype: text/plain
+  PLENTY/BL!_IPC2.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_IPC3.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_JUMP.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_LOOP:
+    mimetype: text/plain
+  PLENTY/BL!_LOOP.ANS:
+    mimetype: text/plain
+  PLENTY/BL!_LOOP.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_MSR:
+    mimetype: text/plain
+  PLENTY/BL!_MSR.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_NAZG.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_NECR.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_NIG.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_OJC:
+    mimetype: text/plain
+  PLENTY/BL!_OJC2:
+    mimetype: text/plain
+  PLENTY/BL!_RAMI.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SC.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SEM.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SEM2.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SEM3.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SEM4.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SK:
+    mimetype: text/plain
+  PLENTY/BL!_SKUT.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SLNT:
+    mimetype: text/plain
+  PLENTY/BL!_SMN:
+    mimetype: text/plain
+  PLENTY/BL!_SQT2.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_SZW:
+    mimetype: text/plain
+  PLENTY/BL!_SZW.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_UZI.ANS:
+    mimetype: text/plain
+  PLENTY/BL!_UZI.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_WHIS:
+    mimetype: text/plain
+  PLENTY/BL!_WODN.ASC:
+    mimetype: text/plain
+  PLENTY/BL!_WOJU.ANS:
+    mimetype: text/plain
+  PLENTY/CRO_ADOK.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_AMBR.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_ANGE.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_ATOM.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_BADN.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_BALO.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_BOX.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_BUDY.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_CL#9.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_CRO.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_DEUS.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_DRG1.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_DRG2.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_DRG3.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_DRG4.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_EMSI.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_FLU.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_FNIX.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_FREY.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_GEN.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_GUMA.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_HUGI.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_LEGE.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_PYRO.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_RAFK.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_SHNE.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_SONR.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_SPKI.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_SUX.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_TMK.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_XCOL.ASC:
+    mimetype: text/plain
+  PLENTY/CRO_XHAL.ASC:
+    mimetype: text/plain
+  PLENTY/DWF_NOCH:
+    mimetype: text/plain
+  PLENTY/DX-100LN.ANS:
+    mimetype: text/plain
+  PLENTY/DX-AKA!:
+    mimetype: text/plain
+  PLENTY/DX-ANL!:
+    mimetype: application/octet-stream
+  PLENTY/DX-AVD!.ANS:
+    mimetype: text/plain
+  PLENTY/DX-BGR!0.ASC:
+    mimetype: text/plain
+  PLENTY/DX-BGR!2:
+    mimetype: text/plain
+  PLENTY/DX-DAL0P.ANS:
+    mimetype: text/plain
+  PLENTY/DX-DEEPE:
+    mimetype: text/plain
+  PLENTY/DX-DEEPE.ANS:
+    mimetype: text/plain
+  PLENTY/DX-DELI2.ASC:
+    mimetype: text/plain
+  PLENTY/DX-DELIR:
+    mimetype: text/plain
+  PLENTY/DX-DJ!:
+    mimetype: text/plain
+  PLENTY/DX-DP!2.ANS:
+    mimetype: text/plain
+  PLENTY/DX-DP.GIF:
+    mimetype: image/gif
+  PLENTY/DX-DPA.ANS:
+    mimetype: text/plain
+  PLENTY/DX-DPS!.ANS:
+    mimetype: text/plain
+  PLENTY/DX-DPS.ASC:
+    mimetype: text/plain
+  PLENTY/DX-GDEVL.ANS:
+    mimetype: text/plain
+  PLENTY/DX-HUGE:
+    mimetype: text/plain
+  PLENTY/DX-HUGE!:
+    mimetype: text/plain
+  PLENTY/DX-INTRO:
+    mimetype: text/plain
+  PLENTY/DX-IPC.ANS:
+    mimetype: text/plain
+  PLENTY/DX-K0RE!:
+    mimetype: text/plain
+  PLENTY/DX-KAAOL:
+    mimetype: text/plain
+  PLENTY/DX-L00P.ANS:
+    mimetype: text/plain
+  PLENTY/DX-LGS!.ANS:
+    mimetype: text/plain
+  PLENTY/DX-LISC.ANS:
+    mimetype: text/plain
+  PLENTY/DX-MATRI:
+    mimetype: text/plain
+  PLENTY/DX-MEAS0.ANS:
+    mimetype: text/plain
+  PLENTY/DX-NOHES:
+    mimetype: text/plain
+  PLENTY/DX-NSK!1.GIF:
+    mimetype: image/gif
+  PLENTY/DX-PIC!0:
+    mimetype: text/plain
+  PLENTY/DX-PLANT.ANS:
+    mimetype: text/plain
+  PLENTY/DX-PYTAJ.ANS:
+    mimetype: text/plain
+  PLENTY/DX-PYTAJ.ASC:
+    mimetype: text/plain
+  PLENTY/DX-SK!:
+    mimetype: text/plain
+  PLENTY/DX-SMOKI.ANS:
+    mimetype: text/plain
+  PLENTY/DX-ULT.ASC:
+    mimetype: text/plain
+  PLENTY/DX-ULTIM:
+    mimetype: text/plain
+  PLENTY/DX-VINC:
+    mimetype: text/plain
+  PLENTY/FILE_ID.DIZ:
+    mimetype: text/plain
+  PLENTY/INS_AMBR.ASC:
+    mimetype: text/plain
+  PLENTY/INS_ANAK.ASC:
+    mimetype: text/plain
+  PLENTY/INS_ARSO.ASC:
+    mimetype: text/plain
+  PLENTY/INS_ATR.ASC:
+    mimetype: text/plain
+  PLENTY/INS_ATR2.ASC:
+    mimetype: text/plain
+  PLENTY/INS_ATR3.ASC:
+    mimetype: text/plain
+  PLENTY/INS_CHAN.ASC:
+    mimetype: text/plain
+  PLENTY/INS_INS.ASC:
+    mimetype: text/plain
+  PLENTY/INS_K!AA.ASC:
+    mimetype: text/plain
+  PLENTY/INS_LETT.ASC:
+    mimetype: text/plain
+  PLENTY/INS_MALF.ANS:
+    mimetype: text/plain
+  PLENTY/INS_MRGE.ASC:
+    mimetype: text/plain
+  PLENTY/INS_NOH.ASC:
+    mimetype: text/plain
+  PLENTY/INS_PHZ.ASC:
+    mimetype: text/plain
+  PLENTY/INS_PLAN.ANS:
+    mimetype: text/plain
+  PLENTY/INS_RIV.ASC:
+    mimetype: text/plain
+  PLENTY/INS_SING.ANS:
+    mimetype: text/plain
+  PLENTY/INS_SPD.ASC:
+    mimetype: text/plain
+  PLENTY/INS_SZUM.ASC:
+    mimetype: text/plain
+  PLENTY/INS_SZW.ASC:
+    mimetype: text/plain
+  PLENTY/INS_VIGG.ASC:
+    mimetype: text/plain
+  PLENTY/K!AA.NFO:
+    mimetype: text/plain
+  PLENTY/NO_(NHS).ASC:
+    mimetype: text/plain
+  PLENTY/NO_CO0KI.ASC:
+    mimetype: text/plain
+  PLENTY/NO_DEUS!.ASC:
+    mimetype: text/plain
+  PLENTY/NO_FLOYD:
+    mimetype: text/plain
+  PLENTY/NO_FORGE:
+    mimetype: text/plain
+  PLENTY/NO_INTR0.ASC:
+    mimetype: text/plain
+  PLENTY/NO_INTRO:
+    mimetype: text/plain
+  PLENTY/NO_LEGEN.ASC:
+    mimetype: text/plain
+  PLENTY/NO_LGND!.ANS:
+    mimetype: text/plain
+  PLENTY/NO_LGND!.ASC:
+    mimetype: text/plain
+  PLENTY/NO_LO0P!:
+    mimetype: text/plain
+  PLENTY/NO_REACT:
+    mimetype: text/plain
+  PLENTY/NO_RIVE!:
+    mimetype: text/plain
+  PLENTY/NO_RIVEN.ASC:
+    mimetype: text/plain
+  PLENTY/NO_SATIV:
+    mimetype: text/plain
+  PLENTY/NO_SIMON.ASC:
+    mimetype: text/plain
+  PLENTY/NO_THUNG.ASC:
+    mimetype: text/plain
+  PLENTY/P0D_AGD.ANS:
+    mimetype: text/plain
+  PLENTY/P0D_CN9.ASC:
+    mimetype: text/plain
+  PLENTY/P0D_DLR.ASC:
+    mimetype: text/plain
+  PLENTY/P0D_FAIN.ASC:
+    mimetype: text/plain
+  PLENTY/P0D_JOY.ASC:
+    mimetype: text/plain
+  PLENTY/P0D_KAA.ASC:
+    mimetype: text/plain
+  PLENTY/P0D_NEP.ASC:
+    mimetype: text/plain
+  PLENTY/PLENTY.INF:
+    mimetype: application/octet-stream
+  PLENTY/SZW_AIDS.ASC:
+    mimetype: text/plain
+  PLENTY/SZW_CPR1.ASC:
+    mimetype: text/plain
+  PLENTY/SZW_CPR2.ASC:
+    mimetype: text/plain
+  PLENTY/SZW_KBI.ASC:
+    mimetype: text/plain
+  PLENTY/SZW_RADM.ASC:
+    mimetype: text/plain
+  PLENTY/SZW_RIVE:
+    mimetype: application/octet-stream

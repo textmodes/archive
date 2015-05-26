@@ -1,0 +1,20 @@
+name: dkb_kvb2.lzh
+hash: 414d7cb0d81a8e050dda6220c54ffbcc
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  graffiti.no1:
+    mimetype: text/plain
+  imkvb2.jpg:
+    mimetype: image/jpeg
+  imkvb3.jpg:
+    mimetype: image/jpeg
+  imkvb4.jpg:
+    mimetype: image/jpeg
+  imkvb5.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain

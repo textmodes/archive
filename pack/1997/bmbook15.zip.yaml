@@ -1,0 +1,108 @@
+name: bmbook15.zip
+hash: f841dac8bb6c23f3c142249febd65730
+year: 1997
+file:
+  '&COVER15.ANS':
+    mimetype: text/plain
+  --ANSI--.---:
+    mimetype: text/plain
+  --ASCII-.---:
+    mimetype: text/plain
+  --BV----.---:
+    mimetype: text/plain
+  --VGA---.---:
+    mimetype: text/plain
+  AVE-BL.ANS:
+    mimetype: text/plain
+  AVE-CL14.ANS:
+    mimetype: text/plain
+  AVE-ELM.ASC:
+    mimetype: text/plain
+  AVE-EVOK.ANS:
+    mimetype: text/plain
+  AVE-FF.ANS:
+    mimetype: text/plain
+  AVE-FS7.ANS:
+    mimetype: text/plain
+  AVE-H92.ANS:
+    mimetype: text/plain
+  AVE-KAF2.ANS:
+    mimetype: text/plain
+  AVE-MS5.ANS:
+    mimetype: text/plain
+  BM-TWANG.TXT:
+    mimetype: text/plain
+  BMBOOK15.MEM:
+    mimetype: text/plain
+  BMBOOK15.NFO:
+    mimetype: text/plain
+  BV.DOC:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  BV.INI:
+    mimetype: text/plain
+  BW_N9M.ANS:
+    mimetype: text/plain
+  BW_N9PS.ANS:
+    mimetype: text/plain
+  CLS-BV.ASC:
+    mimetype: text/plain
+  CLS-SHIT.ASC:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  JNK-BM.LBM:
+    mimetype: application/octet-stream
+  JNK-GIRL.ANS:
+    mimetype: text/plain
+  JNK-SCP.LBM:
+    mimetype: image/lbm
+  JNK-SR.LBM:
+    mimetype: image/lbm
+  JR_BM!.ANS:
+    mimetype: text/plain
+  LO!-BM15.ASC:
+    mimetype: text/plain
+  M-LB8.ANS:
+    mimetype: text/plain
+  M-REMIX.ANS:
+    mimetype: text/plain
+  PND-BLA8.ANS:
+    mimetype: text/plain
+  PND-BX.ANS:
+    mimetype: text/plain
+  PND-FS.ANS:
+    mimetype: text/plain
+  PND-SCHW.ANS:
+    mimetype: text/plain
+  SKY^ELEV.EN:
+    mimetype: text/plain
+  T-ACID.ANS:
+    mimetype: text/plain
+  T-C.ANS:
+    mimetype: text/plain
+  T-HAZ2.ANS:
+    mimetype: text/plain
+  T-POP.ANS:
+    mimetype: text/plain
+  T-SALT.ANS:
+    mimetype: text/plain
+  T-STASIS.ASC:
+    mimetype: text/plain
+  T-TAIR.ANS:
+    mimetype: text/plain
+  US-AWE.ANS:
+    mimetype: text/plain
+  US-BL32.ANS:
+    mimetype: text/plain
+  US-DRSB.ANS:
+    mimetype: text/plain
+  US-LEGO.ANS:
+    mimetype: text/plain
+  US-NEWS.ANS:
+    mimetype: text/plain
+  VOICE97.ZIP:
+    mimetype: application/zip
+  ZZZZZZZZ.ANS:
+    mimetype: text/plain

@@ -1,0 +1,20 @@
+name: dkb_nuj.lzh
+hash: 1856cce58337d9f6b38feab8cf461230
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hotgraff.txt:
+    mimetype: text/plain
+  nask.jpg:
+    mimetype: image/jpeg
+  pasha.jpg:
+    mimetype: image/jpeg
+  poker.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  shove.jpg:
+    mimetype: image/jpeg

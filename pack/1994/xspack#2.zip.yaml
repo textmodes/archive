@@ -1,0 +1,10 @@
+name: xspack#2.zip
+hash: 5f24c2c6dc820345fe479ee8f35368ca
+year: 1994
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LET_ME.EXE:
+    mimetype: application/x-msdos-program
+  XSPACK#2.ASC:
+    mimetype: text/plain

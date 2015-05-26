@@ -1,0 +1,38 @@
+name: xcz-ag10.lha
+hash: 045fb24c99928b9d177729e06ecadd75
+year: 1994
+file:
+  Ascii-Gazette10/Acronym.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Art-Boards.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Art-Join.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Art-Leave.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Art-LeaveScene.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Art-News.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Art-Tags.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/E-Mail.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Groups-Now.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Groups-Times.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/HiJack.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Ranx.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/RedDemon.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Releases.Txt:
+    mimetype: text/plain
+  Ascii-Gazette10/Tango.Txt:
+    mimetype: text/plain
+  AsciiGazette10.Txt:
+    mimetype: text/plain
+  File_Id.Diz:
+    mimetype: text/plain

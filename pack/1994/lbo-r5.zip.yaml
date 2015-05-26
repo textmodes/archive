@@ -1,0 +1,70 @@
+name: lbo-r5.zip
+hash: 6160e99b93d24d57c66c0269d2753042
+year: 1994
+file:
+  '---ASC--.---':
+    mimetype: text/plain
+  ANSIM.EXE:
+    mimetype: application/x-msdos-program
+  BETTER.EXE:
+    mimetype: application/x-msdos-program
+  BL00DY.EXE:
+    mimetype: application/x-msdos-program
+  BS-BONZ.ANS:
+    mimetype: text/plain
+  BS-DARK.ANS:
+    mimetype: text/plain
+  BS-DELIV.ANS:
+    mimetype: text/plain
+  BS-LX.ANS:
+    mimetype: text/plain
+  BS-MATR.ANS:
+    mimetype: text/plain
+  BS-PHUN.ANS:
+    mimetype: text/plain
+  BS-TCP1.ANS:
+    mimetype: text/plain
+  BS-TCP2.ANS:
+    mimetype: text/plain
+  BS-ZX.ANS:
+    mimetype: text/plain
+  DARKWRLD.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GET_IT!.TXT:
+    mimetype: text/plain
+  HOTHOLE.COM:
+    mimetype: application/x-msdos-program
+  LBO-R#5.ANS:
+    mimetype: text/plain
+  WS-DARKS.ANS:
+    mimetype: text/plain
+  WS-DISCL.ANS:
+    mimetype: text/plain
+  WS-HYSTL.ANS:
+    mimetype: text/plain
+  WS-LBOL1.ANS:
+    mimetype: text/plain
+  WS-LBON2.ANS:
+    mimetype: text/plain
+  WS-OTLFX.ANS:
+    mimetype: text/plain
+  WS-REQ1.ANS:
+    mimetype: text/plain
+  WS-REQ2.ANS:
+    mimetype: text/plain
+  WS-THUL1.ANS:
+    mimetype: text/plain
+  WS-THUL2.ANS:
+    mimetype: text/plain
+  WS-THUME.ANS:
+    mimetype: text/plain
+  WS-THUNA.ANS:
+    mimetype: text/plain
+  WS-THUNF.ANS:
+    mimetype: text/plain
+  WS-WWTID.ANS:
+    mimetype: text/plain
+  WS-WWTNF.ANS:
+    mimetype: text/plain

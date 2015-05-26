@@ -1,0 +1,42 @@
+name: shocked.zip
+hash: f4fdf554273a86a5dac6cd62200d9aec
+year: 1994
+file:
+  ARCHANGL.PCX:
+    mimetype: image/pcx
+  BATMAN.PCX:
+    mimetype: image/pcx
+  DING.PCX:
+    mimetype: image/pcx
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  MAXX.PCX:
+    mimetype: image/pcx
+  MEGATON.PCX:
+    mimetype: image/pcx
+  NOWHERE.ANS:
+    mimetype: text/plain
+  PROPHET.PCX:
+    mimetype: image/pcx
+  REAPER.PCX:
+    mimetype: image/pcx
+  SHOCKED.NFO:
+    mimetype: text/plain
+  SPREADPC.PCX:
+    mimetype: image/pcx
+  SW-CERE.EXE:
+    mimetype: application/x-msdos-program
+  SW-CTE.EXE:
+    mimetype: application/x-msdos-program
+  SW-CYC.EXE:
+    mimetype: application/x-msdos-program
+  SW-DB.EXE:
+    mimetype: application/x-msdos-program
+  SW-WHERE.EXE:
+    mimetype: application/x-msdos-program
+  VOODOO.PCX:
+    mimetype: image/pcx
+  WELCOME.1:
+    mimetype: text/plain

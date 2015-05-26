@@ -1,0 +1,22 @@
+name: dkb_egs.lha
+hash: a694124f637eae6611745f7d194516f8
+year: 1997
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  dopest.one:
+    mimetype: text/plain
+  egs01.jpg:
+    mimetype: image/jpeg
+  egs02.jpg:
+    mimetype: image/jpeg
+  egs03.jpg:
+    mimetype: image/jpeg
+  egs04.jpg:
+    mimetype: image/jpeg
+  egs05.jpg:
+    mimetype: image/jpeg
+  egs06.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain

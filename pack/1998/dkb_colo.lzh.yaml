@@ -1,0 +1,18 @@
+name: dkb_colo.lzh
+hash: 5d31f55a65c9e1a6deddbd9194266ed4
+year: 1998
+file:
+  dkb-colo.txt:
+    mimetype: text/plain
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  graffiti.no1:
+    mimetype: text/plain
+  releases.lst:
+    mimetype: text/plain
+  seal.jpg:
+    mimetype: image/jpeg
+  tagz.jpg:
+    mimetype: image/jpeg

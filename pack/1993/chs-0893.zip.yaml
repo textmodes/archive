@@ -1,0 +1,312 @@
+name: chs-0893.zip
+hash: 364e9d3814bb63d810909f72cd630775
+year: 1993
+file:
+  BB-PDX21.CHS:
+    mimetype: text/plain
+  BS-NWO5.CHS:
+    mimetype: text/plain
+  CD-ALTAR.CT:
+    mimetype: text/plain
+  CD-BATTL.CT:
+    mimetype: text/plain
+  CD-BODY.CT:
+    mimetype: text/plain
+  CD-COD01.CT:
+    mimetype: text/plain
+  CD-COD02.CT:
+    mimetype: text/plain
+  CD-COD03.CT:
+    mimetype: text/plain
+  CD-COD04.CT:
+    mimetype: text/plain
+  CD-COD05.CT:
+    mimetype: text/plain
+  CD-COD06.CT:
+    mimetype: text/plain
+  CD-DEATH.CT:
+    mimetype: text/plain
+  CD-DRAGN.CT:
+    mimetype: text/plain
+  CD-DROME.CT:
+    mimetype: text/plain
+  CD-KNOX.CT:
+    mimetype: text/plain
+  CD-PSYCH.CT:
+    mimetype: text/plain
+  CD-SANCT.CT:
+    mimetype: text/plain
+  CD-SCREA.CT:
+    mimetype: text/plain
+  CD-SHADW.CT:
+    mimetype: text/plain
+  CD-TRIAL.CT:
+    mimetype: text/plain
+  CHS-ANSI.NFO:
+    mimetype: text/plain
+  CHS-CODE.NFO:
+    mimetype: text/plain
+  CHS-COUR.NFO:
+    mimetype: text/plain
+  CHS-CT.NFO:
+    mimetype: text/plain
+  CHS-MEM.NFO:
+    mimetype: text/plain
+  CHS-SITE.NFO:
+    mimetype: text/plain
+  CHS-TC2.NFO:
+    mimetype: text/plain
+  CHS-VGA.NFO:
+    mimetype: text/plain
+  CO-DEATH.CT:
+    mimetype: text/plain
+  CO-DEZ.CT:
+    mimetype: text/plain
+  CO-LMAN.CT:
+    mimetype: text/plain
+  CO-MAN.CT:
+    mimetype: text/plain
+  DC-LAT.CT:
+    mimetype: text/plain
+  DN-ALCA1.CT:
+    mimetype: text/plain
+  DN-ALCA2.CT:
+    mimetype: text/plain
+  DN-BIT1.CT:
+    mimetype: text/plain
+  DN-BIT2.CT:
+    mimetype: text/plain
+  DN-CELL.CT:
+    mimetype: text/plain
+  DN-CHASM.CT:
+    mimetype: text/plain
+  DN-DIGI.CT:
+    mimetype: text/plain
+  DN-HUNT.CT:
+    mimetype: text/plain
+  DN-INFI.CT:
+    mimetype: text/plain
+  DN-KNOX.CT:
+    mimetype: text/plain
+  DN-MERCI.CT:
+    mimetype: text/plain
+  DN-NUC.CT:
+    mimetype: text/plain
+  DN-OUT3.CT:
+    mimetype: text/plain
+  DN-PHALA.CT:
+    mimetype: text/plain
+  DN-PSY1.CT:
+    mimetype: text/plain
+  DN-PSY2.CT:
+    mimetype: text/plain
+  DN-QUEST.CT:
+    mimetype: text/plain
+  DN-RAGE.CT:
+    mimetype: text/plain
+  DN-ROB01.CT:
+    mimetype: text/plain
+  DN-ROCK.CT:
+    mimetype: text/plain
+  DN-ROW.CT:
+    mimetype: text/plain
+  DN-SATAN.CT:
+    mimetype: text/plain
+  DN-SIL.CT:
+    mimetype: text/plain
+  DN-TC2.CT:
+    mimetype: text/plain
+  DN-TIA.CT:
+    mimetype: text/plain
+  DN-TUC.CT:
+    mimetype: text/plain
+  DN-WEAP.CT:
+    mimetype: text/plain
+  DO-OUT1.CT:
+    mimetype: text/plain
+  DT-CHS.CHS:
+    mimetype: text/plain
+  DT-EXABY.CHS:
+    mimetype: text/plain
+  DT-LAIR.CHS:
+    mimetype: text/plain
+  DT-LAIR2.CHS:
+    mimetype: text/plain
+  DT-LAIR3.CHS:
+    mimetype: text/plain
+  DT-OREXP.CHS:
+    mimetype: text/plain
+  DT-PLELS.CHS:
+    mimetype: text/plain
+  DT-PWA.CHS:
+    mimetype: text/plain
+  ED-SOUTH.EXE:
+    mimetype: application/x-msdos-program
+  FA-CHAO3.CHS:
+    mimetype: text/plain
+  FA-CHAO4.CHS:
+    mimetype: text/plain
+  FA-HOP.CHS:
+    mimetype: text/plain
+  FA-ID1.CHS:
+    mimetype: text/plain
+  FA-MA1.CHS:
+    mimetype: text/plain
+  FA-OMRTA.CHS:
+    mimetype: text/plain
+  FA-RAM.CHS:
+    mimetype: text/plain
+  FA-SPAWN.EXE:
+    mimetype: application/x-msdos-program
+  FA-TIA2.CHS:
+    mimetype: text/plain
+  FA-TOB2.CHS:
+    mimetype: text/plain
+  FA-TOB3.CHS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GZ-BANE1.CT:
+    mimetype: text/plain
+  GZ-BB3.CHS:
+    mimetype: text/plain
+  GZ-CCI1.CHS:
+    mimetype: text/plain
+  GZ-DO1.CHS:
+    mimetype: text/plain
+  GZ-HIJAK.CHS:
+    mimetype: text/plain
+  GZ-IND1.CHS:
+    mimetype: text/plain
+  GZ-INHC1.CHS:
+    mimetype: text/plain
+  GZ-LEG2.CHS:
+    mimetype: text/plain
+  GZ-MA1.CHS:
+    mimetype: text/plain
+  GZ-OUTBK.CT:
+    mimetype: text/plain
+  GZ-PSY1.CHS:
+    mimetype: text/plain
+  GZ-PSY2.CHS:
+    mimetype: text/plain
+  GZ-PSY3.CHS:
+    mimetype: text/plain
+  GZ-PWA1.CHS:
+    mimetype: text/plain
+  GZ-SMG2.CHS:
+    mimetype: text/plain
+  GZ-TUGO.CT:
+    mimetype: text/plain
+  GZ-VX2.CHS:
+    mimetype: text/plain
+  HI-RES.ZIP:
+    mimetype: application/zip
+  LC-BSBR.EXE:
+    mimetype: application/x-msdos-program
+  LC-TIA.EXE:
+    mimetype: application/x-msdos-program
+  LI-DOOM.CT:
+    mimetype: text/plain
+  LI-SIL.CT:
+    mimetype: text/plain
+  LI-TBE.CT:
+    mimetype: text/plain
+  LN-ABYSS.CHS:
+    mimetype: text/plain
+  LS-HEAVN.CHS:
+    mimetype: text/plain
+  LS-NWO.CHS:
+    mimetype: text/plain
+  LS-TSBD.CHS:
+    mimetype: text/plain
+  LS-WALL.CHS:
+    mimetype: text/plain
+  MI-TIA2.CHS:
+    mimetype: text/plain
+  MO-ALI.CT:
+    mimetype: text/plain
+  MO-BIO.CT:
+    mimetype: text/plain
+  MO-BIO1.CT:
+    mimetype: text/plain
+  MO-CHS.CT:
+    mimetype: text/plain
+  MO-CREW.CT:
+    mimetype: text/plain
+  MO-LOS.CT:
+    mimetype: text/plain
+  MO-WOR.CT:
+    mimetype: text/plain
+  MR-DAMN.CT:
+    mimetype: text/plain
+  MR-OMTA.CT:
+    mimetype: text/plain
+  MT-BITU.CHS:
+    mimetype: text/plain
+  MT-CHS2.CHS:
+    mimetype: text/plain
+  MT-PSYCH.CHS:
+    mimetype: text/plain
+  OS-ALTAR.CT:
+    mimetype: text/plain
+  OS-BIT.CT:
+    mimetype: text/plain
+  OS-CHAOS.CT:
+    mimetype: text/plain
+  OS-DEST.CT:
+    mimetype: text/plain
+  OS-ETERN.CT:
+    mimetype: text/plain
+  OS-FREY.CT:
+    mimetype: text/plain
+  OS-GENO.CT:
+    mimetype: text/plain
+  OS-INFI.CT:
+    mimetype: text/plain
+  OS-INSAN.CT:
+    mimetype: text/plain
+  OS-REAL.CT:
+    mimetype: text/plain
+  OS-REV9.CT:
+    mimetype: text/plain
+  OS-ROSE.CT:
+    mimetype: text/plain
+  OS-SHADO.CT:
+    mimetype: text/plain
+  OS-VLAD.CT:
+    mimetype: text/plain
+  OS-WAR.CT:
+    mimetype: text/plain
+  OSDN-TOB.CT:
+    mimetype: text/plain
+  PM-CYBHL.CHS:
+    mimetype: text/plain
+  PM-PAL.CHS:
+    mimetype: text/plain
+  PM-REV9.CHS:
+    mimetype: text/plain
+  PM-RZR.CHS:
+    mimetype: text/plain
+  PM-THA.CHS:
+    mimetype: text/plain
+  PM-TSG.CHS:
+    mimetype: text/plain
+  RZR.EXE:
+    mimetype: application/x-msdos-program
+  SC-CMA1.CHS:
+    mimetype: text/plain
+  SC-DMG1.CHS:
+    mimetype: text/plain
+  SC-TOTL1.CHS:
+    mimetype: text/plain
+  SO-SIL.CT:
+    mimetype: text/plain
+  ST-DIM.CT:
+    mimetype: text/plain
+  ST-PARA.CT:
+    mimetype: text/plain
+  ST-TWIN.CT:
+    mimetype: text/plain
+  ST-UNTI2.CT:
+    mimetype: text/plain

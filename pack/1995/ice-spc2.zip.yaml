@@ -1,0 +1,24 @@
+name: ice-spc2.zip
+hash: bdb800686ec68d5b947ed7e40a253dc1
+year: 1995
+file:
+  ASCENT.S3M:
+    mimetype: audio/x-mod
+  CANTFAKE.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HEAVEN.ANS:
+    mimetype: text/plain
+  IPDOC.EXE:
+    mimetype: application/x-msdos-program
+  IPLAY.EXE:
+    mimetype: application/x-msdos-program
+  ISETUP.EXE:
+    mimetype: application/x-msdos-program
+  PISSTRO!.EXE:
+    mimetype: application/x-msdos-program
+  PISSTRO!.NFO:
+    mimetype: text/plain
+  SETUP.EXE:
+    mimetype: application/x-msdos-program

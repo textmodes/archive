@@ -1,0 +1,28 @@
+name: dkb_ibm1.lzh
+hash: 73fdb2aab0ae1b2455ae041fadbeb522
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  dkb.nfo~:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hotgraff.txt:
+    mimetype: text/plain
+  ibm1.jpg:
+    mimetype: image/jpeg
+  ibm2.jpg:
+    mimetype: image/jpeg
+  ibm3.jpg:
+    mimetype: image/jpeg
+  ibm4.jpg:
+    mimetype: image/jpeg
+  ibm5.jpg:
+    mimetype: image/jpeg
+  ibm6.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  zank.jpg:
+    mimetype: image/jpeg

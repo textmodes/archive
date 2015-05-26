@@ -1,0 +1,90 @@
+name: root04.zip
+hash: d3137cfbbf3b55d422090f2c7df03f48
+year: 1997
+file:
+  04-INFO.ANS:
+    mimetype: text/plain
+  04-MEMB.ANS:
+    mimetype: text/plain
+  04-MEMB.BIN:
+    mimetype: text/x-binary
+  BO-ASCII.ANS:
+    mimetype: text/plain
+  BO-ROOT5.ANS:
+    mimetype: text/plain
+  CY-SE.EXE:
+    mimetype: application/x-msdos-program
+  DT-BLINK.ANS:
+    mimetype: text/plain
+  DT-FOM4.ANS:
+    mimetype: text/plain
+  DT-OD1.ANS:
+    mimetype: text/plain
+  DT-SKEEM.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FT-RPM1.ANS:
+    mimetype: text/plain
+  FT-TSC1.ANS:
+    mimetype: text/plain
+  FT-TSL1.ANS:
+    mimetype: text/plain
+  GR-ILL1.ANS:
+    mimetype: text/plain
+  GR-SE.ANS:
+    mimetype: text/plain
+  JL-ANSI.ANS:
+    mimetype: text/plain
+  JL-EXULT.IT:
+    mimetype: audio/x-mod
+  JL-ROOT1.JPG:
+    mimetype: image/jpeg
+  JL-STONE.IT:
+    mimetype: audio/x-mod
+  KG-GRND.IT:
+    mimetype: audio/x-mod
+  MD-LOGO2.ANS:
+    mimetype: text/plain
+  MD-TOONS.ANS:
+    mimetype: text/plain
+  MQ-LOGO1.ANS:
+    mimetype: text/plain
+  MQ-MENU1.ANS:
+    mimetype: text/plain
+  MQ-PLAT.ANS:
+    mimetype: text/plain
+  NC-BLANK.ANS:
+    mimetype: text/plain
+  NC-CG.ANS:
+    mimetype: text/plain
+  NC-F.ANS:
+    mimetype: text/plain
+  NC-F2.ANS:
+    mimetype: text/plain
+  NC-PWDR.ANS:
+    mimetype: text/plain
+  NC-SKM.ANS:
+    mimetype: text/plain
+  ROOT.PCX:
+    mimetype: image/pcx
+  SOURCE.ASC:
+    mimetype: text/plain
+  US-CGEN1.ANS:
+    mimetype: text/plain
+  US-DQST.ANS:
+    mimetype: text/plain
+  US-FCS.ANS:
+    mimetype: text/plain
+  US-IE.ANS:
+    mimetype: text/plain
+  US-ROOT2.ANS:
+    mimetype: text/plain
+  US-SPNG1.ANS:
+    mimetype: text/plain
+  ZL-RT1.PCX:
+    mimetype: image/pcx
+  ZL-RT2.PCX:
+    mimetype: image/pcx
+  ZL-SRC1.PCX:
+    mimetype: image/pcx

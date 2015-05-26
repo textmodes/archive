@@ -1,0 +1,192 @@
+name: ciapak16.zip
+hash: 0a3f37091a6fba97626b90286e8ceee4
+year: 1994
+file:
+  "••••••••.•••":
+    mimetype: text/plain
+  "•••ASC••.•••":
+    mimetype: text/plain
+  "•••CIA••.•••":
+    mimetype: text/plain
+  "•••ETC••.•••":
+    mimetype: text/plain
+  "•••LGO••.•••":
+    mimetype: text/plain
+  "•••LIT••.•••":
+    mimetype: text/plain
+  "•••ZIP••.•••":
+    mimetype: text/plain
+  0994CAB1.CAB:
+    mimetype: text/plain
+  0994INFO.CIA:
+    mimetype: text/plain
+  0994MEMB.CIA:
+    mimetype: text/plain
+  0994SITE.CIA:
+    mimetype: text/plain
+  AD-CIP1.LGO:
+    mimetype: text/plain
+  BL-ACID.GIF:
+    mimetype: image/gif
+  BL-FEAR.GIF:
+    mimetype: image/gif
+  BL-KNGHT.GIF:
+    mimetype: image/gif
+  BL-RMK.GIF:
+    mimetype: image/gif
+  BR-TRBUM.LGO:
+    mimetype: text/plain
+  BR-XFILE.CIA:
+    mimetype: text/plain
+  CALV1B.PCX:
+    mimetype: image/pcx
+  CIA-APP.ZIP:
+    mimetype: application/zip
+  CIP-010.ZIP:
+    mimetype: application/zip
+  CN-CIA2.RIP:
+    mimetype: image/x-rip
+  CN-IE1.RIP:
+    mimetype: image/x-rip
+  DD-CATTL.CIA:
+    mimetype: text/plain
+  DD-TOWN.CIA:
+    mimetype: text/plain
+  DM-ESSEN.GIF:
+    mimetype: image/gif
+  FB-ASYLM.LGO:
+    mimetype: text/plain
+  FB-BREED.LGO:
+    mimetype: text/plain
+  FB-CIA2.LGO:
+    mimetype: text/plain
+  FB-RAIN.LGO:
+    mimetype: text/plain
+  FB-SOULR.LIT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FP-AVF!.LGO:
+    mimetype: text/plain
+  FP-TLRH.LGO:
+    mimetype: text/plain
+  IB-2FH02.GIF:
+    mimetype: image/gif
+  IB-CIA.ZIP:
+    mimetype: application/zip
+  IB-CYBER.GIF:
+    mimetype: image/gif
+  IM-AMATH.LGO:
+    mimetype: text/plain
+  IM-DARK1.LGO:
+    mimetype: text/plain
+  IM-HAD1.RIP:
+    mimetype: image/x-rip
+  IM-LOKI.CIA:
+    mimetype: text/plain
+  IM-LOKI1.LGO:
+    mimetype: text/plain
+  IM-LOKI2.LGO:
+    mimetype: text/plain
+  IM-LSTAT.CIA:
+    mimetype: text/plain
+  IM-NOK1.LGO:
+    mimetype: text/plain
+  IM-NOK2.LGO:
+    mimetype: text/plain
+  KS-HSAD2.ASC:
+    mimetype: text/plain
+  LV-ANTHX.LGO:
+    mimetype: text/plain
+  LV-CIA1.LGO:
+    mimetype: text/plain
+  LV-CIA2.LGO:
+    mimetype: text/plain
+  LV-ETERN.CIA:
+    mimetype: text/plain
+  LV-HA.LGO:
+    mimetype: text/plain
+  LV-OBV2.LGO:
+    mimetype: text/plain
+  ME-DEP.ESS:
+    mimetype: text/plain
+  ME-FAL.LIT:
+    mimetype: text/plain
+  ME-UNI.ESS:
+    mimetype: text/plain
+  MN-HELL.GIF:
+    mimetype: image/gif
+  MO-ASYLM.CIA:
+    mimetype: text/plain
+  MO-BLADE.LGO:
+    mimetype: text/plain
+  MO-CHEM.CIA:
+    mimetype: text/plain
+  MO-NEMES.CIA:
+    mimetype: text/plain
+  MO-STATS.CIA:
+    mimetype: text/plain
+  NA-COLDS.CIA:
+    mimetype: text/plain
+  NA-HAD.ASC:
+    mimetype: text/plain
+  NA-ITSE3.LGO:
+    mimetype: text/plain
+  NA-VOODO.LGO:
+    mimetype: text/plain
+  PL-CH3.ASC:
+    mimetype: text/plain
+  PL-CHEMW.ASC:
+    mimetype: text/plain
+  PL-EOD.ASC:
+    mimetype: text/plain
+  PL-HM4.ASC:
+    mimetype: text/plain
+  PL-INS1.ASC:
+    mimetype: text/plain
+  PL-LOGO1.ASC:
+    mimetype: text/plain
+  PL-LOGO2.ASC:
+    mimetype: text/plain
+  PL-PLEAD.ASC:
+    mimetype: text/plain
+  RC-BLKLS.CIA:
+    mimetype: text/plain
+  RC-LOGON.CIA:
+    mimetype: text/plain
+  RC-TSI.LGO:
+    mimetype: text/plain
+  TC-FLASH.LIT:
+    mimetype: text/plain
+  TC-FORTR.LIT:
+    mimetype: text/plain
+  TC-INSAN.LIT:
+    mimetype: text/plain
+  TC-RING.LIT:
+    mimetype: text/plain
+  TC-SILEN.LIT:
+    mimetype: text/plain
+  TC2PIC.GIF:
+    mimetype: image/gif
+  TF-BNW01.LGO:
+    mimetype: text/plain
+  TF-PIPE1.LGO:
+    mimetype: text/plain
+  TF-PIPE4.LGO:
+    mimetype: text/plain
+  TF-UTOP1.LGO:
+    mimetype: text/plain
+  TF-VMB01.LGO:
+    mimetype: text/plain
+  TL-CIASP.GIF:
+    mimetype: image/gif
+  TW-OBV.CIA:
+    mimetype: text/plain
+  VI-APOC.JPG:
+    mimetype: image/jpeg
+  WZ-BLKRV.CIA:
+    mimetype: text/plain
+  WZ-CDMNU.CIA:
+    mimetype: text/plain
+  WZ-CIA1.LGO:
+    mimetype: text/plain

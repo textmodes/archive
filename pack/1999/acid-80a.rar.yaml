@@ -1,0 +1,62 @@
+name: acid-80a.rar
+hash: 2138ba095f95c4fd2d29cb3ebf997f79
+year: 1999
+file:
+  ACID-80.XB:
+    mimetype: text/x-xbin
+  AcidView/AVDialog.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidAnsi.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidText.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.bat:
+    mimetype: application/x-msdos-program
+  AcidView/AcidView.class:
+    mimetype: application/x-java-applet
+  AcidView/AcidView.faq:
+    mimetype: text/plain
+  AcidView/AcidView.files:
+    mimetype: text/plain
+  AcidView/AcidView.fnt:
+    mimetype: application/octet-stream
+  AcidView/AcidView.jpg:
+    mimetype: image/jpeg
+  AcidView/AcidView.nfo:
+    mimetype: text/plain
+  AcidView/AcidXBin.class:
+    mimetype: application/x-java-applet
+  AcidView/AnsiImage.class:
+    mimetype: application/x-java-applet
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  RELEASE.NFO:
+    mimetype: text/plain
+  acidapp.exe:
+    mimetype: application/x-msdos-program
+  ass-coma99.jpg:
+    mimetype: image/jpeg
+  ass-gazmask.jpg:
+    mimetype: image/jpeg
+  cat-bones_escaping.jpg:
+    mimetype: image/jpeg
+  cat-draco_coarsus.jpg:
+    mimetype: image/jpeg
+  cat-motion_sickness.jpg:
+    mimetype: image/jpeg
+  dmd-bear.jpg:
+    mimetype: image/jpeg
+  grm-doriangray.jpg:
+    mimetype: image/jpeg
+  ict-skullthing.jpg:
+    mimetype: image/jpeg
+  jsn-intodimension2.jpg:
+    mimetype: image/jpeg
+  lgv-ring.jpg:
+    mimetype: image/jpeg
+  mx-robot.JPG:
+    mimetype: image/jpeg
+  our-copyright.txt:
+    mimetype: text/plain
+  rem-acid.jpg:
+    mimetype: image/jpeg

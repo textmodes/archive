@@ -1,0 +1,106 @@
+name: fi-1194.zip
+hash: 4bfe3a81cd65f931957859361a424ba1
+year: 1994
+file:
+  CN-ASK.LIT:
+    mimetype: text/plain
+  CN-BONES.LIT:
+    mimetype: text/plain
+  CN-CELIB.LIT:
+    mimetype: text/plain
+  CN-CRIES.LIT:
+    mimetype: text/plain
+  CN-DOWN.LIT:
+    mimetype: text/plain
+  CN-GANG.LIT:
+    mimetype: text/plain
+  CN-GOD.LIT:
+    mimetype: text/plain
+  CN-HANDS.LIT:
+    mimetype: text/plain
+  CN-LIFE.LIT:
+    mimetype: text/plain
+  CN-LIPS.LIT:
+    mimetype: text/plain
+  CN-LOVE.LIT:
+    mimetype: text/plain
+  CN-PAIN.LIT:
+    mimetype: text/plain
+  CN-PREEN.LIT:
+    mimetype: text/plain
+  CN-TELL.LIT:
+    mimetype: text/plain
+  CN-WALL.LIT:
+    mimetype: text/plain
+  EL-GRAY.MOD:
+    mimetype: audio/x-mod
+  EL-WOODY.MOD:
+    mimetype: audio/x-mod
+  FI-FILES.NFO:
+    mimetype: text/plain
+  FI-NEWS.NFO:
+    mimetype: text/plain
+  FI-SITES.NFO:
+    mimetype: text/plain
+  FI-STAFF.NFO:
+    mimetype: text/plain
+  FIDMODS.DAT:
+    mimetype: text/plain
+  FIDVIEW.DAT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FIVIEW07.EXE:
+    mimetype: application/x-msdos-program
+  LC-LESS.LIT:
+    mimetype: text/plain
+  LC-NT1.LIT:
+    mimetype: text/plain
+  LC-NT2.LIT:
+    mimetype: text/plain
+  MM-BASSM.MOD:
+    mimetype: audio/x-mod
+  MM-DFUNK.MOD:
+    mimetype: audio/x-mod
+  MM-FUNKY.MOD:
+    mimetype: audio/x-mod
+  MM-PHUCK.MOD:
+    mimetype: audio/x-mod
+  MM-SPAZM.MOD:
+    mimetype: audio/x-mod
+  MM-TEKNO.MOD:
+    mimetype: audio/x-mod
+  MM-WHY.MOD:
+    mimetype: audio/x-mod
+  NO_WRONG.LYC:
+    mimetype: text/plain
+  NV-ASYLM.ANS:
+    mimetype: text/plain
+  NV-CIRCL.ANS:
+    mimetype: text/plain
+  NV-HELL.ANS:
+    mimetype: text/plain
+  NV-RGNCY.ANS:
+    mimetype: text/plain
+  NV-SUKEN.ANS:
+    mimetype: text/plain
+  NV-UNBRD.ANS:
+    mimetype: text/plain
+  NV-URBAN.ANS:
+    mimetype: text/plain
+  SC-LOGO.ANS:
+    mimetype: text/plain
+  SC-VILP.GIF:
+    mimetype: image/gif
+  TN-SUNKG.GIF:
+    mimetype: image/gif
+  TN-VHELL.GIF:
+    mimetype: image/gif
+  YA-CB4.ANS:
+    mimetype: text/plain
+  YA-FILGO.ANS:
+    mimetype: text/plain
+  YA-FILO2.ANS:
+    mimetype: text/plain
+  YA-RUFF.ANS:
+    mimetype: text/plain

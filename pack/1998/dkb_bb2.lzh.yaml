@@ -1,0 +1,42 @@
+name: dkb_bb2.lzh
+hash: 77c1a7484d1ece0921f9b99aa0eb38cd
+year: 1998
+file:
+  bast.jpg:
+    mimetype: image/jpeg
+  damn.jpg:
+    mimetype: image/jpeg
+  dkb.nfo:
+    mimetype: text/plain
+  dkb.nfo~:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  hotgraff.txt:
+    mimetype: text/plain
+  jask.jpg:
+    mimetype: image/jpeg
+  jask2.jpg:
+    mimetype: image/jpeg
+  mane.jpg:
+    mimetype: image/jpeg
+  mane2.jpg:
+    mimetype: image/jpeg
+  mone187.jpg:
+    mimetype: image/jpeg
+  mone187b.jpg:
+    mimetype: image/jpeg
+  pare.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  sane2.jpg:
+    mimetype: image/jpeg
+  sane2b.jpg:
+    mimetype: image/jpeg
+  sirco.jpg:
+    mimetype: image/jpeg
+  sirco2.jpg:
+    mimetype: image/jpeg
+  soni.jpg:
+    mimetype: image/jpeg

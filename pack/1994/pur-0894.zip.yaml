@@ -1,0 +1,88 @@
+name: pur-0894.zip
+hash: 0ced9b81bb7675b126670b6e4460911b
+year: 1994
+file:
+  AG-BHA.PUR:
+    mimetype: text/plain
+  AG-CUH.MOD:
+    mimetype: audio/x-mod
+  AG-HOB.PUR:
+    mimetype: text/plain
+  AG-MOD.PUR:
+    mimetype: text/plain
+  AG-STAT.PUR:
+    mimetype: text/plain
+  AG-SUIC.PUR:
+    mimetype: text/plain
+  AG-TWIS.PUR:
+    mimetype: text/plain
+  AH-LOGOF.PUR:
+    mimetype: text/plain
+  AH-PURS.PUR:
+    mimetype: text/plain
+  AH-THE.PUR:
+    mimetype: text/plain
+  AR-DESTN.PUR:
+    mimetype: text/plain
+  AR-DIMX3.PUR:
+    mimetype: text/plain
+  AR-LCAL1.PUR:
+    mimetype: text/plain
+  AR-PLAS1.PUR:
+    mimetype: text/plain
+  AR-PURS1.PUR:
+    mimetype: text/plain
+  AR-PURS4.PUR:
+    mimetype: text/plain
+  AR-PURS5.PUR:
+    mimetype: text/plain
+  AR-REVAL.PUR:
+    mimetype: text/plain
+  AR-SUICD.PUR:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GN-CIO2.GIF:
+    mimetype: image/gif
+  GN-CIOA.GIF:
+    mimetype: image/gif
+  GN-DXF2.PUR:
+    mimetype: text/plain
+  GN-UNDI.PUR:
+    mimetype: text/plain
+  GN-WC.PUR:
+    mimetype: text/plain
+  GR-DC.PUR:
+    mimetype: text/plain
+  GR-DIMX1.PUR:
+    mimetype: text/plain
+  GR-DIMX2.PUR:
+    mimetype: text/plain
+  GR-LOST.PUR:
+    mimetype: text/plain
+  GR-LV.PUR:
+    mimetype: text/plain
+  MO-MI.PUR:
+    mimetype: text/plain
+  PS-805.PUR:
+    mimetype: text/plain
+  PS-DMX_1.PUR:
+    mimetype: text/plain
+  PS-DMX_2.PUR:
+    mimetype: text/plain
+  PS-DSTRL.PUR:
+    mimetype: text/plain
+  PS-GRET1.PUR:
+    mimetype: text/plain
+  PS-NF.PUR:
+    mimetype: text/plain
+  PS-PUR.GIF:
+    mimetype: image/gif
+  PS-UI_MT.PUR:
+    mimetype: text/plain
+  PS-UI208.PUR:
+    mimetype: text/plain
+  TA-SYSD.PUR:
+    mimetype: text/plain
+  TC-CRIB.PUR:
+    mimetype: text/plain

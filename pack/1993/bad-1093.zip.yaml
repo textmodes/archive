@@ -1,0 +1,40 @@
+name: bad-1093.zip
+hash: c08e7a90e08019a865b168ce39540984
+year: 1993
+file:
+  BAD-1093.MEM:
+    mimetype: text/plain
+  BAD-1093.NFO:
+    mimetype: text/plain
+  BAD-1093.SIT:
+    mimetype: text/plain
+  BADAPP.EXE:
+    mimetype: application/x-msdos-program
+  BADVIEW.EXE:
+    mimetype: application/x-msdos-program
+  BK-CORRO.BAD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LD-CELMU.ZIP:
+    mimetype: application/zip
+  LD-CHASM.BAD:
+    mimetype: text/plain
+  LD-INNER.BAD:
+    mimetype: text/plain
+  NC-IRIDI.BAD:
+    mimetype: text/plain
+  PR-INTER.BAD:
+    mimetype: text/plain
+  REQUEST.ZIP:
+    mimetype: application/zip
+  S8-ADREN.BAD:
+    mimetype: text/plain
+  SS-BODHA.BAD:
+    mimetype: text/plain
+  SS-DBLOW.BAD:
+    mimetype: text/plain
+  SS-TERMI.BAD:
+    mimetype: text/plain

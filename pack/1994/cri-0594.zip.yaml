@@ -1,0 +1,74 @@
+name: cri-0594.zip
+hash: b850ddf4fd78b9823d87eaa1d9a3a781
+year: 1994
+file:
+  BA-CHILD.GIF:
+    mimetype: image/gif
+  BL-ILLUM.MOD:
+    mimetype: audio/x-mod
+  BL-OBSCU.MOD:
+    mimetype: audio/x-mod
+  CRI-APP.EXE:
+    mimetype: application/x-msdos-program
+  CRI-APP.NFO:
+    mimetype: text/plain
+  CRI-INFO.CRI:
+    mimetype: text/plain
+  CRI-MEM.CRI:
+    mimetype: text/plain
+  CRI-REQ.EXE:
+    mimetype: application/x-msdos-program
+  CRISISVU.CFG:
+    mimetype: text/plain
+  CRISISVU.DAT:
+    mimetype: text/plain
+  CRISISVU.EXE:
+    mimetype: application/x-msdos-program
+  CRISISVU.NFO:
+    mimetype: text/plain
+  CV-CFGDX.CRI:
+    mimetype: text/plain
+  DL-WM.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FS-CRI2.CRI:
+    mimetype: text/plain
+  HB-CRISI.CRI:
+    mimetype: text/plain
+  HB-EI.CRI:
+    mimetype: text/plain
+  HB-INTEG.CRI:
+    mimetype: text/plain
+  HB-SPRT.CRI:
+    mimetype: text/plain
+  HB-UNDER.CRI:
+    mimetype: text/plain
+  LP-MENTA.MOD:
+    mimetype: audio/x-mod
+  LQ-DIME.CRI:
+    mimetype: text/plain
+  LQ-EE.CRI:
+    mimetype: text/plain
+  PB-CYBER.CRI:
+    mimetype: text/plain
+  PB-WICK.CRI:
+    mimetype: text/plain
+  SL-ABOMB.CRI:
+    mimetype: text/plain
+  SL-CRISI.CRI:
+    mimetype: text/plain
+  SL-DREAM.CRI:
+    mimetype: text/plain
+  SL-EROOM.CRI:
+    mimetype: text/plain
+  SL-EVIL.MOD:
+    mimetype: audio/x-mod
+  SL-INSOM.CRI:
+    mimetype: text/plain
+  SL-INTE1.CRI:
+    mimetype: text/plain
+  SL-INTE2.CRI:
+    mimetype: text/plain
+  SL-RED.MOD:
+    mimetype: audio/x-mod

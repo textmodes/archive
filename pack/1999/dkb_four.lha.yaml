@@ -1,0 +1,30 @@
+name: dkb_four.lha
+hash: 4fd633effe4bc50924d973fa23f5cdb9
+year: 1999
+file:
+  atcah.jpg:
+    mimetype: image/jpeg
+  atik.jpg:
+    mimetype: image/jpeg
+  atikah.jpg:
+    mimetype: image/jpeg
+  dkb.nfo:
+    mimetype: text/plain
+  erso.jpg:
+    mimetype: image/jpeg
+  erso2.jpg:
+    mimetype: image/jpeg
+  erso3.jpg:
+    mimetype: image/jpeg
+  erso4.jpg:
+    mimetype: image/jpeg
+  erso5.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  four.jpg:
+    mimetype: image/jpeg
+  funkster.txt:
+    mimetype: text/plain
+  releases.lst:
+    mimetype: text/plain

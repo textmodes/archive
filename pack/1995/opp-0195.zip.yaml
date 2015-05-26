@@ -1,0 +1,58 @@
+name: opp-0195.zip
+hash: 8616fdd1651df2db5f7cae4541dae7dd
+year: 1995
+file:
+  AP-FRAC.ZIP:
+    mimetype: application/zip
+  AS-AE.GIF:
+    mimetype: image/gif
+  AS-AE.OPP:
+    mimetype: text/plain
+  AS-AE2.OPP:
+    mimetype: text/plain
+  AS-AE3.OPP:
+    mimetype: text/plain
+  AS-DEAD.GIF:
+    mimetype: image/gif
+  AS-FF.GIF:
+    mimetype: image/gif
+  AS-OPP1.GIF:
+    mimetype: image/gif
+  AS-OPP2.GIF:
+    mimetype: image/gif
+  AS-OPP3.GIF:
+    mimetype: image/gif
+  AS-OPP4.GIF:
+    mimetype: image/gif
+  AS-OPP5.GIF:
+    mimetype: image/gif
+  AS-OPP6.GIF:
+    mimetype: image/gif
+  AS-OPP7.GIF:
+    mimetype: image/gif
+  AS-UCW.GIF:
+    mimetype: image/gif
+  AS-UCW.OPP:
+    mimetype: text/plain
+  BLAMIT.S3M:
+    mimetype: audio/x-mod
+  FF.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HAMAREAL.MOD:
+    mimetype: audio/x-mod
+  KI-OPPAD.OPP:
+    mimetype: text/plain
+  KI-TRWAD.OPP:
+    mimetype: text/plain
+  OPP-0195.MEM:
+    mimetype: text/plain
+  OPP-APP.EXE:
+    mimetype: application/x-msdos-program
+  OPP-VIEW.DOC:
+    mimetype: text/plain
+  OPP-VIEW.EXE:
+    mimetype: application/x-msdos-program
+  README.DOC:
+    mimetype: text/plain

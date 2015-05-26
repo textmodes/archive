@@ -1,0 +1,14 @@
+name: hang.rar
+hash: 46705d0d2a8f949e0e03bc2eef6076f1
+year: 1999
+file:
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HANG#1.DAT:
+    mimetype: application/octet-stream
+  HANG#1.EXE:
+    mimetype: application/x-msdos-program
+  HBG.NFO:
+    mimetype: text/plain
+  README.1ST:
+    mimetype: text/plain

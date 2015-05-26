@@ -1,0 +1,548 @@
+name: fl-pack7.zip
+hash: 754ad932e617b348dade4599325eb2cd
+year: 1995
+file:
+  -INFO#7-.ANS:
+    mimetype: text/plain
+  "••••••••.•••":
+    mimetype: text/plain
+  "••ANSI••.•••":
+    mimetype: text/plain
+  "••INFO••.•••":
+    mimetype: text/plain
+  "••OTHER•.•••":
+    mimetype: text/plain
+  "••RIP•••.•••":
+    mimetype: text/plain
+  "••SHIV••.•••":
+    mimetype: text/plain
+  "••VGA•••.•••":
+    mimetype: text/plain
+  •XPRESS•.NOW:
+    mimetype: text/plain
+  DB-PI.EXE:
+    mimetype: application/x-msdos-program
+  DEMO.LIB:
+    mimetype: application/octet-stream
+  DFRCE1.ANS:
+    mimetype: text/plain
+  DFRCE2.ANS:
+    mimetype: text/plain
+  DFRCE3.ANS:
+    mimetype: text/plain
+  DFRCE4.ANS:
+    mimetype: text/plain
+  DK-BONES.GIF:
+    mimetype: image/gif
+  DS-DV1.ANS:
+    mimetype: text/plain
+  DW-WKD!.EXE:
+    mimetype: application/x-msdos-program
+  DWZ-DV.GIF:
+    mimetype: image/gif
+  DWZ-EVL.GIF:
+    mimetype: image/gif
+  EC-EPIC.ANS:
+    mimetype: text/plain
+  EC-UNI.ANS:
+    mimetype: text/plain
+  EN-CROW.ANS:
+    mimetype: text/plain
+  EP-BRAND.WKD:
+    mimetype: text/plain
+  EP-DAIN.WKD:
+    mimetype: text/plain
+  EP-DOOM.WKD:
+    mimetype: text/plain
+  EP-IMAG.WKD:
+    mimetype: text/plain
+  EP-PERSU.WKD:
+    mimetype: text/plain
+  EU-MENU.ANS:
+    mimetype: text/plain
+  EU-YOUTH.ANS:
+    mimetype: text/plain
+  EURO.CHR:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILEPATH.LST:
+    mimetype: text/plain
+  FK-MUD.ANS:
+    mimetype: text/plain
+  FK-TDU.ANS:
+    mimetype: text/plain
+  FL-COSMI.EXE:
+    mimetype: application/x-msdos-program
+  FL-VIEW.ANS:
+    mimetype: text/plain
+  FR-LGO2.ANS:
+    mimetype: text/plain
+  FS-DIM.WKD:
+    mimetype: text/plain
+  FS-GAS.WKD:
+    mimetype: text/plain
+  FS-MAYO.WKD:
+    mimetype: text/plain
+  FS-MOR2.WKD:
+    mimetype: text/plain
+  FS-MORT.WKD:
+    mimetype: text/plain
+  FS-PA.WKD:
+    mimetype: text/plain
+  FS-PI.WKD:
+    mimetype: text/plain
+  FS-SACR.S3M:
+    mimetype: audio/x-mod
+  FS-SUC.WKD:
+    mimetype: text/plain
+  FS-WEIRD.S3M:
+    mimetype: audio/x-mod
+  FS-WOS2.WKD:
+    mimetype: text/plain
+  FUEL.APP:
+    mimetype: application/octet-stream
+  FUEL.NFO:
+    mimetype: text/plain
+  FX-ALZ.WKD:
+    mimetype: text/plain
+  FX-AM1.WKD:
+    mimetype: text/plain
+  FX-LITH.WKD:
+    mimetype: text/plain
+  FX-PLAD.WKD:
+    mimetype: text/plain
+  GOTH.CHR:
+    mimetype: application/octet-stream
+  H&K-SG.ANS:
+    mimetype: text/plain
+  HARDCORE.COM:
+    mimetype: application/x-msdos-program
+  HOP1-ASC.ANS:
+    mimetype: text/plain
+  HOP2-ASC.ANS:
+    mimetype: text/plain
+  HQ-CATH.BIN:
+    mimetype: text/x-binary
+  HQ-COLLY.ANS:
+    mimetype: text/plain
+  HQ-HRESY.ANS:
+    mimetype: text/plain
+  HQ-KWEST.ANS:
+    mimetype: text/plain
+  HQ-R101.ANS:
+    mimetype: text/plain
+  HQ-SGATE.ANS:
+    mimetype: text/plain
+  HQ-VOID.ANS:
+    mimetype: text/plain
+  HS-CYBER.ANS:
+    mimetype: text/plain
+  HU-EI.ANS:
+    mimetype: text/plain
+  HU-MUD2.ANS:
+    mimetype: text/plain
+  IM-BROK.ANS:
+    mimetype: text/plain
+  IM-HARM.ANS:
+    mimetype: text/plain
+  IM-LI.ANS:
+    mimetype: text/plain
+  IN-TERM1.ANS:
+    mimetype: text/plain
+  INS-0495.ANS:
+    mimetype: text/plain
+  IR-NEXT.WKD:
+    mimetype: text/plain
+  IZ-CC1.WKD:
+    mimetype: text/plain
+  IZ-ED.WKD:
+    mimetype: text/plain
+  IZ-ES.WKD:
+    mimetype: text/plain
+  IZ-SOI.WKD:
+    mimetype: text/plain
+  JU-DYS1.ANS:
+    mimetype: text/plain
+  KR-RMS3.ANS:
+    mimetype: text/plain
+  KR-SALEM.ANS:
+    mimetype: text/plain
+  KRL-AV6.ANS:
+    mimetype: text/plain
+  KRL-BNET.ASC:
+    mimetype: text/plain
+  KRL-DP1.ANS:
+    mimetype: text/plain
+  KRL-EUPH.ANS:
+    mimetype: text/plain
+  KRL-FLTR.ASC:
+    mimetype: text/plain
+  KRL-KAB2.ANS:
+    mimetype: text/plain
+  KRL-MAD.ANS:
+    mimetype: text/plain
+  KRL-MUF.ANS:
+    mimetype: text/plain
+  KRL-NEWS.ANS:
+    mimetype: text/plain
+  KRL-PARA.ANS:
+    mimetype: text/plain
+  KRL-PZ.ANS:
+    mimetype: text/plain
+  KRL-RM10.ANS:
+    mimetype: text/plain
+  KRL-SG1.ANS:
+    mimetype: text/plain
+  KRL-SG2.ANS:
+    mimetype: text/plain
+  KRL-SNPY.ANS:
+    mimetype: text/plain
+  KRL-WV.ANS:
+    mimetype: text/plain
+  KS-POO01.ANS:
+    mimetype: text/plain
+  KS-PRAY1.ANS:
+    mimetype: text/plain
+  KS-TTG01.ANS:
+    mimetype: text/plain
+  KY-LOGO4.ANS:
+    mimetype: text/plain
+  LA-DL.WKD:
+    mimetype: text/plain
+  LA-OBIT.WKD:
+    mimetype: text/plain
+  LA-SU.WKD:
+    mimetype: text/plain
+  LA-TP.WKD:
+    mimetype: text/plain
+  LCOM.CHR:
+    mimetype: application/octet-stream
+  LHS-GLOC.WKD:
+    mimetype: text/plain
+  LHS-STAR.WKD:
+    mimetype: text/plain
+  LHS-TLD.WKD:
+    mimetype: text/plain
+  LICENCE.COM:
+    mimetype: application/x-msdos-program
+  LITT.CHR:
+    mimetype: application/octet-stream
+  LOGO.ANS:
+    mimetype: text/plain
+  LP-DKHNT.S3M:
+    mimetype: audio/x-mod
+  LS_DEMON.WKD:
+    mimetype: text/plain
+  LS_WKD.WKD:
+    mimetype: text/plain
+  MADNESS.1ST:
+    mimetype: text/plain
+  MADNESS.006:
+    mimetype: text/plain
+  MADNESS.APP:
+    mimetype: text/plain
+  MADNESS.HIS:
+    mimetype: text/plain
+  MADNESS.NFO:
+    mimetype: text/plain
+  MCL-FREN.WKD:
+    mimetype: text/plain
+  MD-DYST1.ANS:
+    mimetype: text/plain
+  MEM-0495.ANS:
+    mimetype: text/plain
+  MEM-0995.ANS:
+    mimetype: text/plain
+  MG-PR.ANS:
+    mimetype: text/plain
+  MT-ECL.WKD:
+    mimetype: text/plain
+  MT-FIRE.WKD:
+    mimetype: text/plain
+  MT-GZER0.ANS:
+    mimetype: text/plain
+  MT-P0O2.ANS:
+    mimetype: text/plain
+  NA-BPI.ANS:
+    mimetype: text/plain
+  NA-RDAWN.ANS:
+    mimetype: text/plain
+  NA-UX.ANS:
+    mimetype: text/plain
+  NC-CHA1.ANS:
+    mimetype: text/plain
+  NC-DZ1.ANS:
+    mimetype: text/plain
+  NC-PI.ANS:
+    mimetype: text/plain
+  NC-UNION.ANS:
+    mimetype: text/plain
+  NF-DBRON.ANS:
+    mimetype: text/plain
+  NF-ELF.ANS:
+    mimetype: text/plain
+  NF-FACE2.ANS:
+    mimetype: text/plain
+  NF-HAND.ANS:
+    mimetype: text/plain
+  NF-HULK.ANS:
+    mimetype: text/plain
+  NF-LOBO.ANS:
+    mimetype: text/plain
+  NF-SAC_G.ANS:
+    mimetype: text/plain
+  NF-TANCE.ANS:
+    mimetype: text/plain
+  NF-WOLBR.ANS:
+    mimetype: text/plain
+  NF-XMAS.ANS:
+    mimetype: text/plain
+  NFO-0495.ANS:
+    mimetype: text/plain
+  NFO-0995.ANS:
+    mimetype: text/plain
+  NZ-INS1.ANS:
+    mimetype: text/plain
+  NZ-PR3.ANS:
+    mimetype: text/plain
+  NZ-TT1.ANS:
+    mimetype: text/plain
+  NZ-TZ1.ANS:
+    mimetype: text/plain
+  OD-HELLX.WKD:
+    mimetype: text/plain
+  OD-PA.WKD:
+    mimetype: text/plain
+  PB-RAVNT.ANS:
+    mimetype: text/plain
+  PH-COMPS.ANS:
+    mimetype: text/plain
+  PR-LGO1.ANS:
+    mimetype: text/plain
+  PRM-COMB.ANS:
+    mimetype: text/plain
+  PRM-PAND.RIP:
+    mimetype: image/x-rip
+  PS.EXE:
+    mimetype: application/x-msdos-program
+  PS.OVR:
+    mimetype: application/octet-stream
+  PX-HUMA.RIP:
+    mimetype: image/x-rip
+  PX-LQDRM.ANS:
+    mimetype: text/plain
+  PX-TERM.ANS:
+    mimetype: text/plain
+  QS-COLL.GIF:
+    mimetype: image/gif
+  QS-UNI2.GIF:
+    mimetype: image/gif
+  QS-UNION.GIF:
+    mimetype: image/gif
+  README.TXT:
+    mimetype: text/plain
+  RELEASES.TXT:
+    mimetype: text/plain
+  RM-DISSO.WKD:
+    mimetype: text/plain
+  RM-MULET.WKD:
+    mimetype: text/plain
+  RM-SPYVS.WKD:
+    mimetype: text/plain
+  RW_END.PCX:
+    mimetype: image/pcx
+  SANS.CHR:
+    mimetype: application/octet-stream
+  SB-CATCR.ANS:
+    mimetype: text/plain
+  SB-DISEM.ANS:
+    mimetype: text/plain
+  SB-FAI09.ANS:
+    mimetype: text/plain
+  SB-FAI10.ANS:
+    mimetype: text/plain
+  SB-KERMA.ANS:
+    mimetype: text/plain
+  SB-SECRE.ANS:
+    mimetype: text/plain
+  SB-SUCC1.ANS:
+    mimetype: text/plain
+  SB-SUCC3.ANS:
+    mimetype: text/plain
+  SB-SYST1.ANS:
+    mimetype: text/plain
+  SC-DAM.GIF:
+    mimetype: image/gif
+  SCRI.CHR:
+    mimetype: application/octet-stream
+  SE-DND.ANS:
+    mimetype: text/plain
+  SE-UNION.ANS:
+    mimetype: text/plain
+  SIMP.CHR:
+    mimetype: application/octet-stream
+  SL-DIST.ANS:
+    mimetype: text/plain
+  SL-PNION.ANS:
+    mimetype: text/plain
+  SL-ROI1.ANS:
+    mimetype: text/plain
+  SP-ALCH.ANS:
+    mimetype: text/plain
+  SP-MIST1.BIN:
+    mimetype: text/x-binary
+  SP-RIP!.RIP:
+    mimetype: image/x-rip
+  SP-TFS1.ANS:
+    mimetype: text/plain
+  SR-EA1.ANS:
+    mimetype: text/plain
+  SR-OS1.ANS:
+    mimetype: text/plain
+  SR-WKD.WKD:
+    mimetype: text/plain
+  ST-AC.WKD:
+    mimetype: text/plain
+  ST-COLLE.ANS:
+    mimetype: text/plain
+  ST-PO.WKD:
+    mimetype: text/plain
+  ST-WSW.WKD:
+    mimetype: text/plain
+  START.COM:
+    mimetype: application/x-msdos-program
+  SW-BECHH.WKD:
+    mimetype: text/plain
+  SW-HATRD.WKD:
+    mimetype: text/plain
+  SW-TM.WKD:
+    mimetype: text/plain
+  SW-TMS.WKD:
+    mimetype: text/plain
+  TANK.EXE:
+    mimetype: application/x-msdos-program
+  TDU.COM:
+    mimetype: application/x-msdos-program
+  TE-EATP.ANS:
+    mimetype: text/plain
+  TH-ADV.ANS:
+    mimetype: text/plain
+  TH-BIOH.ANS:
+    mimetype: text/plain
+  TH-GLORY.ANS:
+    mimetype: text/plain
+  TH-HIGH.ANS:
+    mimetype: text/plain
+  TH-PL.ANS:
+    mimetype: text/plain
+  TK-CLADY.ANS:
+    mimetype: text/plain
+  TK-COLLE.ANS:
+    mimetype: text/plain
+  TK-FLOGO.ANS:
+    mimetype: text/plain
+  TK-OFFLI.ANS:
+    mimetype: text/plain
+  TK-SANCT.ANS:
+    mimetype: text/plain
+  TK-TERMI.ANS:
+    mimetype: text/plain
+  TRIP.CHR:
+    mimetype: application/octet-stream
+  TSCR.CHR:
+    mimetype: application/octet-stream
+  TST-0195.ANS:
+    mimetype: text/plain
+  TST-APP.EXE:
+    mimetype: application/x-msdos-program
+  TST.NFO:
+    mimetype: text/plain
+  TST_BEST.EXE:
+    mimetype: application/x-msdos-program
+  TST_COOL.EXE:
+    mimetype: application/x-msdos-program
+  TT!-OVL.WKD:
+    mimetype: text/plain
+  TT!-TND8.WKD:
+    mimetype: text/plain
+  TT!-TNDD.WKD:
+    mimetype: text/plain
+  TT!-TSD.WKD:
+    mimetype: text/plain
+  TT!-UP2.WKD:
+    mimetype: text/plain
+  UC-WKD.EXE:
+    mimetype: application/x-msdos-program
+  UG-HAQS1.ANS:
+    mimetype: text/plain
+  UG-HSA01.ANS:
+    mimetype: text/plain
+  UG-NEO1.ANS:
+    mimetype: text/plain
+  UG-P54.ANS:
+    mimetype: text/plain
+  UG-SANC1.ANS:
+    mimetype: text/plain
+  US-IOM.ANS:
+    mimetype: text/plain
+  US-RED.ANS:
+    mimetype: text/plain
+  VC-DMSEL.BRT:
+    mimetype: text/plain
+  VG-AD.WKD:
+    mimetype: text/plain
+  VG-STH.WKD:
+    mimetype: text/plain
+  VG-VM.WKD:
+    mimetype: text/plain
+  VI-CNV1.ANS:
+    mimetype: text/plain
+  VI-HARM1.ANS:
+    mimetype: text/plain
+  VOICES.TXT:
+    mimetype: text/plain
+  WA-FNT1.ANS:
+    mimetype: text/plain
+  WA-SK1.ANS:
+    mimetype: text/plain
+  WB-CONSP.MOD:
+    mimetype: audio/x-mod
+  WB-DWKD1.MOD:
+    mimetype: audio/x-mod
+  WD-FUEL.ANS:
+    mimetype: text/plain
+  WD-LA1.ANS:
+    mimetype: text/plain
+  WD-RUHL.ANS:
+    mimetype: text/plain
+  WD-STATS.ANS:
+    mimetype: text/plain
+  WKD-0695.NFO:
+    mimetype: text/plain
+  WKD-LOGO.WKD:
+    mimetype: text/plain
+  WKDAPP.EXE:
+    mimetype: application/x-msdos-program
+  WKDNFO.EXE:
+    mimetype: application/x-msdos-program
+  WKDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  X.EXE:
+    mimetype: application/x-msdos-program
+  YT-ECP.RIP:
+    mimetype: image/x-rip
+  YT-FINP.GIF:
+    mimetype: image/gif
+  ZX-LGOAC.ASC:
+    mimetype: text/plain
+  ZX-LGOAN.ANS:
+    mimetype: text/plain
+  ZX-PEN3.WKD:
+    mimetype: text/plain
+  ZX-PLOP1.ANS:
+    mimetype: text/plain
+  ZX-PLOP2.ANS:
+    mimetype: text/plain
+  ZX-SEX.WKD:
+    mimetype: text/plain

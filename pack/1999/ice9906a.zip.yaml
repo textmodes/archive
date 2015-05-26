@@ -1,0 +1,42 @@
+name: ice9906a.zip
+hash: c141c74779126f767f41730a1ab0b65b
+year: 1999
+file:
+  -ANSI---.---:
+    mimetype: text/plain
+  -STAT---.---:
+    mimetype: text/plain
+  09-SAE1.ICE:
+    mimetype: text/plain
+  DG-GASM.RIP:
+    mimetype: image/x-rip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9906.DSC:
+    mimetype: text/plain
+  ICE-9906.MEM:
+    mimetype: text/plain
+  ICE-9906.NFO:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  IV-TEA.ICE:
+    mimetype: text/plain
+  KT-BLEND.RIP:
+    mimetype: image/x-rip
+  KT-SHAMU.RIP:
+    mimetype: image/x-rip
+  NG-TGG.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  TI-PSS1.ICE:
+    mimetype: text/plain
+  TI-PSS2.ICE:
+    mimetype: text/plain
+  US-PBS99.ICE:
+    mimetype: text/plain

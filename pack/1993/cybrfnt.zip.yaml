@@ -1,0 +1,10 @@
+name: cybrfnt.zip
+hash: 213de01568662ee31ba07330c8ae2118
+year: 1993
+file:
+  CYBRFONT.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program

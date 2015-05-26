@@ -1,0 +1,90 @@
+name: cri-0494.zip
+hash: b2567aa4c2a56fb88b284fd9db3e2d64
+year: 1994
+file:
+  BA-WILD1.GIF:
+    mimetype: image/gif
+  BA-WILD2.GIF:
+    mimetype: image/gif
+  BA-WILD3.GIF:
+    mimetype: image/gif
+  CRI-APP.EXE:
+    mimetype: application/x-msdos-program
+  CRI-INFO.CRI:
+    mimetype: text/plain
+  CRI-MEM.CRI:
+    mimetype: text/plain
+  CRI-PACK.CRI:
+    mimetype: text/plain
+  CRISISVU.CFG:
+    mimetype: text/plain
+  CRISISVU.EXE:
+    mimetype: application/x-msdos-program
+  CRISISVU.NFO:
+    mimetype: text/plain
+  CV-G1.DAT:
+    mimetype: text/plain
+  DL-EROOM.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FS-EUPH1.CRI:
+    mimetype: text/plain
+  G0.EXE:
+    mimetype: application/x-msdos-program
+  HB-CHAIN.CRI:
+    mimetype: text/plain
+  HB-DEMEN.CRI:
+    mimetype: text/plain
+  HB-SA.EXE:
+    mimetype: application/x-msdos-program
+  HB-TURB.CRI:
+    mimetype: text/plain
+  LQ-BSUN.CRI:
+    mimetype: text/plain
+  LQ-CRISI.CRI:
+    mimetype: text/plain
+  LQ-DOA.CRI:
+    mimetype: text/plain
+  LQ-TEMPD.CRI:
+    mimetype: text/plain
+  LQ-WICKE.CRI:
+    mimetype: text/plain
+  MX-CLOWN.CRI:
+    mimetype: text/plain
+  MX-HELL.CRI:
+    mimetype: text/plain
+  NV-GENO.CRI:
+    mimetype: text/plain
+  NV-LOGOW.CRI:
+    mimetype: text/plain
+  NV-PURP.CRI:
+    mimetype: text/plain
+  NV-TROLL.CRI:
+    mimetype: text/plain
+  NV-UCFG.CRI:
+    mimetype: text/plain
+  NV-WM.CRI:
+    mimetype: text/plain
+  PB-CRI.CRI:
+    mimetype: text/plain
+  PB-ROT.CRI:
+    mimetype: text/plain
+  PB-ROT2.CRI:
+    mimetype: text/plain
+  PB-SKULL.CRI:
+    mimetype: text/plain
+  SL-DEMEN.CRI:
+    mimetype: text/plain
+  SL-DETRI.MOD:
+    mimetype: audio/x-mod
+  SL-MENU1.ZIP:
+    mimetype: application/zip
+  SL-SITE.CRI:
+    mimetype: text/plain
+  SL-STATS.CRI:
+    mimetype: text/plain
+  SL-THA.CRI:
+    mimetype: text/plain
+  SL-ZONE5.CRI:
+    mimetype: text/plain

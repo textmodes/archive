@@ -1,0 +1,62 @@
+name: thc-9502.zip
+hash: f8b27ea7cfffd3f6efbada064c339396
+year: 1995
+file:
+  BC-GD01.THC:
+    mimetype: text/plain
+  BC-ICE01.THC:
+    mimetype: text/plain
+  CALL.ME!:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  IK-THTP.RIP:
+    mimetype: image/x-rip
+  IK-VN1.RIP:
+    mimetype: image/x-rip
+  IK-VN2.RIP:
+    mimetype: image/x-rip
+  INF-9502.THC:
+    mimetype: text/plain
+  JT-THC.RIP:
+    mimetype: image/x-rip
+  MB-NRL95.S3M:
+    mimetype: audio/x-mod
+  MB-PDIOT.S3M:
+    mimetype: audio/x-mod
+  MEM-9502.THC:
+    mimetype: text/plain
+  MH-CO3.RIP:
+    mimetype: image/x-rip
+  MH-THC1.RIP:
+    mimetype: image/x-rip
+  MH-THC3.RIP:
+    mimetype: image/x-rip
+  MH-TRB5.RIP:
+    mimetype: image/x-rip
+  SD-AFRD.LIT:
+    mimetype: text/plain
+  SD-GRANY.LIT:
+    mimetype: text/plain
+  SP-PPHRY.MTM:
+    mimetype: application/octet-stream
+  SP-THCAP.MTM:
+    mimetype: application/octet-stream
+  SPIRAL.NFO:
+    mimetype: text/plain
+  TE-BOM.THC:
+    mimetype: text/plain
+  TE-DF.MOD:
+    mimetype: audio/x-mod
+  THCAPP.EXE:
+    mimetype: application/x-msdos-program
+  WA-CO3.THC:
+    mimetype: text/plain
+  WA-IMAG2.THC:
+    mimetype: text/plain
+  WS-AMTUR.LIT:
+    mimetype: text/plain
+  WS-BIWAY.LIT:
+    mimetype: text/plain
+  WY-NDRTW.THC:
+    mimetype: text/plain

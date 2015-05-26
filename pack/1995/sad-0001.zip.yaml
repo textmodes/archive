@@ -1,0 +1,72 @@
+name: sad-0001.zip
+hash: 5da7573696222f8188e04ab703cbb1df
+year: 1995
+file:
+  0430-SAD.APP:
+    mimetype: text/plain
+  0430-SAD.NFO:
+    mimetype: text/plain
+  0430MEMB.LST:
+    mimetype: text/plain
+  0430SITE.LST:
+    mimetype: text/plain
+  FASTCASH.TXT:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  KF-NEXUS.SAD:
+    mimetype: text/plain
+  LOD-EC2.SAD:
+    mimetype: text/plain
+  LOD-EVIL.SAD:
+    mimetype: text/plain
+  LOD-JAIL.LIT:
+    mimetype: text/plain
+  LOD-MAIN.MNU:
+    mimetype: text/plain
+  LOD-MSG.MNU:
+    mimetype: text/plain
+  LOD-MYST.S3M:
+    mimetype: audio/x-mod
+  LOD-PASS.LIT:
+    mimetype: text/plain
+  LOD-RAGE.S3M:
+    mimetype: audio/x-mod
+  LOD-SOLI.LIT:
+    mimetype: text/plain
+  LOD-WOD.SAD:
+    mimetype: text/plain
+  LOGOS-01.SAD:
+    mimetype: text/plain
+  LOGOS-02.SAD:
+    mimetype: text/plain
+  MG-DREAM.S3M:
+    mimetype: audio/x-mod
+  PN-PERF.LIT:
+    mimetype: text/plain
+  PN-PRISN.LIT:
+    mimetype: text/plain
+  PN-VOICE.LIT:
+    mimetype: text/plain
+  PN-YOU.LIT:
+    mimetype: text/plain
+  PT-ANAPL.LIT:
+    mimetype: text/plain
+  PT-DRUNK.LIT:
+    mimetype: text/plain
+  PT-TRIP.LIT:
+    mimetype: text/plain
+  PT-TRUTH.LIT:
+    mimetype: text/plain
+  SA-LORD.RIP:
+    mimetype: image/x-rip
+  SA-SNC5.SAD:
+    mimetype: text/plain
+  SG-SPAWN.RIP:
+    mimetype: image/x-rip
+  SG-SPAWN.SAD:
+    mimetype: text/plain
+  WEB-FLK2.RIP:
+    mimetype: image/x-rip
+  WEB-SAD1.RIP:
+    mimetype: image/x-rip

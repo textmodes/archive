@@ -1,0 +1,48 @@
+name: moz9601b.zip
+hash: b8cc692618aad24634a3f98f7c6650f6
+year: 1996
+file:
+  19362738.EXE:
+    mimetype: application/x-msdos-program
+  CBC-BONS.XM:
+    mimetype: audio/x-mod
+  CBC-POP.XM:
+    mimetype: audio/x-mod
+  CBC-WHO.XM:
+    mimetype: audio/x-mod
+  DRZ-SLEE.XM:
+    mimetype: audio/x-mod
+  FASTMOVE.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GBT-CHEM.S3M:
+    mimetype: audio/x-mod
+  K3O3NDIS.XM:
+    mimetype: audio/x-mod
+  MOULDY.NFO:
+    mimetype: text/plain
+  MOZ9601B.DIZ:
+    mimetype: text/plain
+  MOZICART.ANS:
+    mimetype: text/plain
+  MOZICART.ASC:
+    mimetype: text/plain
+  MOZICART.NFO:
+    mimetype: text/plain
+  REDBULL.COM:
+    mimetype: application/x-msdos-program
+  RELEASES.MOZ:
+    mimetype: application/octet-stream
+  TRANCENT.RAL:
+    mimetype: text/plain
+  ULTRAMAX.NFO:
+    mimetype: text/plain
+  XTC.EXE:
+    mimetype: application/x-msdos-program
+  XXX-MOZ.APP:
+    mimetype: text/plain
+  XXX-MOZ.REQ:
+    mimetype: text/plain

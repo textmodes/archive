@@ -1,0 +1,82 @@
+name: srg-0994.zip
+hash: a15be5fd18db94c57e1c9a5e02d79fc6
+year: 1994
+file:
+  BOOYAKA!.NFO:
+    mimetype: text/plain
+  CARTEL.ASC:
+    mimetype: text/plain
+  CH-FOD1.SRG:
+    mimetype: text/plain
+  CH-RTHM1.SRG:
+    mimetype: text/plain
+  CH-SCKT1.SRG:
+    mimetype: text/plain
+  CH-SRG1.SRG:
+    mimetype: text/plain
+  DYS-AXK.MOD:
+    mimetype: audio/x-mod
+  DYS-MS.MTM:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FRSYB.EXE:
+    mimetype: application/x-msdos-program
+  HARDCORE.COM:
+    mimetype: application/x-msdos-program
+  HY-HAVOK.SRG:
+    mimetype: text/plain
+  HY-NAM1.SRG:
+    mimetype: text/plain
+  HY-RGMNU.ZIP:
+    mimetype: application/zip
+  HY-TLLOG.SRG:
+    mimetype: text/plain
+  IV-CHEM.SRG:
+    mimetype: text/plain
+  MK-ACID.SRG:
+    mimetype: text/plain
+  MK-ADEN1.SRG:
+    mimetype: text/plain
+  MK-NAM1.SRG:
+    mimetype: text/plain
+  MK-NAM2.SRG:
+    mimetype: text/plain
+  MK-OBV2.SRG:
+    mimetype: text/plain
+  MK-OBV2.ZIP:
+    mimetype: application/zip
+  MK-UTERO.SRG:
+    mimetype: text/plain
+  MYSTICAL.EXE:
+    mimetype: application/x-msdos-program
+  NC-CAGE.SRG:
+    mimetype: text/plain
+  NC-DWI.SRG:
+    mimetype: text/plain
+  NC-PANIC.SRG:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  SI-ADEN1.RIP:
+    mimetype: image/x-rip
+  SI-ADEN2.RIP:
+    mimetype: image/x-rip
+  SI-CARD.RIP:
+    mimetype: image/x-rip
+  SI-MSRL.SRG:
+    mimetype: text/plain
+  SI-OXINT.SRG:
+    mimetype: text/plain
+  SI-SRG.RIP:
+    mimetype: image/x-rip
+  SI-XFLE.RIP:
+    mimetype: image/x-rip
+  SRG-0994.NWS:
+    mimetype: text/plain
+  SRG-0994.SRG:
+    mimetype: text/plain
+  SV.ZIP:
+    mimetype: application/zip
+  TTT.AD!:
+    mimetype: text/plain

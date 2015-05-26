@@ -1,0 +1,12 @@
+name: soia-ba1.lha
+hash: d7c2a2fdc444ec55056007a46400be35
+year: 1997
+file:
+  acid01.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  release.nfo:
+    mimetype: text/plain
+  soia.nfo:
+    mimetype: text/plain

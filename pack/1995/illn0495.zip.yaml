@@ -1,0 +1,32 @@
+name: illn0495.zip
+hash: f29d3fe835dca5f52e0d48342dc47514
+year: 1995
+file:
+  CB-ANSIV.ZIP:
+    mimetype: application/zip
+  DAPLAYAZ.CLB:
+    mimetype: text/plain
+  DM-ILLN.ANS:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FL-LBYE.ZIP:
+    mimetype: application/zip
+  ILL-APP.EXE:
+    mimetype: application/x-msdos-program
+  ILLNESS.NFO:
+    mimetype: text/plain
+  ILLNESS4.ANS:
+    mimetype: text/plain
+  LD-FSCAN.ZIP:
+    mimetype: application/zip
+  LD-ILL3.ANS:
+    mimetype: text/plain
+  SL-QUOTE.ZIP:
+    mimetype: application/zip
+  ST-DISC.ZIP:
+    mimetype: application/zip
+  TERMINAL.ILL:
+    mimetype: text/plain
+  UG-FILEP.ZIP:
+    mimetype: application/zip

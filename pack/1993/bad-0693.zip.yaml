@@ -1,0 +1,34 @@
+name: bad-0693.zip
+hash: ce967f8405a9dc14877b41d451f75a96
+year: 1993
+file:
+  BAD-0693.MEM:
+    mimetype: text/plain
+  BAD-0693.NFO:
+    mimetype: text/plain
+  BK-BAD.BAD:
+    mimetype: text/plain
+  BK-INFDK.BAD:
+    mimetype: text/plain
+  BK-PHEL2.BAD:
+    mimetype: text/plain
+  BK-TCOD.BAD:
+    mimetype: text/plain
+  BK-VIS2.ZIP:
+    mimetype: application/zip
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  IMPORT.NFO:
+    mimetype: text/plain
+  NC-CCI.BAD:
+    mimetype: text/plain
+  NC-DYST.BAD:
+    mimetype: text/plain
+  NC-SLAK.BAD:
+    mimetype: text/plain
+  NC-UCA.BAD:
+    mimetype: text/plain
+  TRIANGLE.NFO:
+    mimetype: text/plain

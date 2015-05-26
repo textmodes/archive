@@ -1,0 +1,50 @@
+name: bad-1193.zip
+hash: 45f1cea6111015cc6d123273c540ca26
+year: 1993
+file:
+  BAD-1193.MEM:
+    mimetype: text/plain
+  BAD-1193.NFO:
+    mimetype: text/plain
+  BAD-1193.SIT:
+    mimetype: text/plain
+  BADAPP.EXE:
+    mimetype: application/x-msdos-program
+  BADVIEW.EXE:
+    mimetype: application/x-msdos-program
+  BK-DEADL.BAD:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FUN!.COM:
+    mimetype: application/x-msdos-program
+  LD-FBR.BAD:
+    mimetype: text/plain
+  LD-UNDER.BAD:
+    mimetype: text/plain
+  MS-COD.BAD:
+    mimetype: text/plain
+  POINT.EXE:
+    mimetype: application/x-msdos-program
+  PR-BAD.BAD:
+    mimetype: text/plain
+  REQUEST.ZIP:
+    mimetype: application/zip
+  RV-ACE1.GIF:
+    mimetype: image/gif
+  RV-ACE2.GIF:
+    mimetype: image/gif
+  RV-NEXUS.GIF:
+    mimetype: image/gif
+  RV-PE.BAD:
+    mimetype: text/plain
+  RV-PWA.BAD:
+    mimetype: text/plain
+  RV-WS.BAD:
+    mimetype: text/plain
+  SS-BAD.BAD:
+    mimetype: text/plain
+  SS-BAD.GIF:
+    mimetype: image/gif
+  SS-SKL2.BAD:
+    mimetype: text/plain

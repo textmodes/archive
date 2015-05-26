@@ -1,0 +1,72 @@
+name: lqd-0594.zip
+hash: 8ba2e3b30fbc060da4a5e078e62b5d8c
+year: 1994
+file:
+  APPLIK.EXE:
+    mimetype: application/x-msdos-program
+  BNY-AWAR.MTM:
+    mimetype: application/octet-stream
+  BNY-HYST.MTM:
+    mimetype: application/octet-stream
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LIQUID#2.NFO:
+    mimetype: text/plain
+  LQD-AV.EXE:
+    mimetype: application/x-msdos-program
+  MA-LQD.LQD:
+    mimetype: text/plain
+  MS-HFIRE.ZIP:
+    mimetype: application/zip
+  MS-REALM.ZIP:
+    mimetype: application/zip
+  MS-REBEL.ZIP:
+    mimetype: application/zip
+  MU-FRFI2.LQD:
+    mimetype: text/plain
+  MU-HOT.MTM:
+    mimetype: application/octet-stream
+  MU-MABYS.LQD:
+    mimetype: text/plain
+  MU-REALM.LQD:
+    mimetype: text/plain
+  MU-RHA.MTM:
+    mimetype: application/octet-stream
+  NETWORK.NFO:
+    mimetype: text/plain
+  OV-ATION.MTM:
+    mimetype: application/octet-stream
+  OV-TWIST.MTM:
+    mimetype: application/octet-stream
+  RW-FFEND.GIF:
+    mimetype: image/gif
+  SR-DKNS3.LQD:
+    mimetype: text/plain
+  SR-FOTD.LQD:
+    mimetype: text/plain
+  SR-FOTDM.ZIP:
+    mimetype: application/zip
+  SR-HWM.ZIP:
+    mimetype: application/zip
+  SR-IL.LQD:
+    mimetype: text/plain
+  SR-MK.LQD:
+    mimetype: text/plain
+  SR-MRTLH.LQD:
+    mimetype: text/plain
+  SR-REALM.GIF:
+    mimetype: image/gif
+  SR-RIVE2.GIF:
+    mimetype: image/gif
+  SR-RIVER.GIF:
+    mimetype: image/gif
+  SR-SOD.LQD:
+    mimetype: text/plain
+  SR-SSNET.LQD:
+    mimetype: text/plain
+  SR-TBR.LQD:
+    mimetype: text/plain
+  SR-TBR2.LQD:
+    mimetype: text/plain
+  SR-TBRM.ZIP:
+    mimetype: application/zip

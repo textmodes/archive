@@ -1,0 +1,32 @@
+name: ice9908a.zip
+hash: 1ced00acd76c55fad202548ea4182640
+year: 1999
+file:
+  C0-KUNG.ICE:
+    mimetype: text/plain
+  C0-L0899.ICE:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  ICE-9908.DSC:
+    mimetype: text/plain
+  ICE-9908.MEM:
+    mimetype: text/plain
+  ICE-9908.NFO:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MI-PCREW.ICE:
+    mimetype: text/plain
+  PV.EXE:
+    mimetype: application/x-msdos-program
+  TI-0899.ICE:
+    mimetype: text/plain
+  TI-SHS2.ICE:
+    mimetype: text/plain
+  TI-SHS3.ICE:
+    mimetype: text/plain

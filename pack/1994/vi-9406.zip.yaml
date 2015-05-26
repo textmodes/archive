@@ -1,0 +1,76 @@
+name: vi-9406.zip
+hash: b1bd38fc3cbc1f9535c73d373adf33f3
+year: 1994
+file:
+  25-D2.LGO:
+    mimetype: text/plain
+  25-KTJ.LGO:
+    mimetype: text/plain
+  25-MOON1.ANS:
+    mimetype: text/plain
+  25-PRM1.PRM:
+    mimetype: text/plain
+  25-PRM3.PRM:
+    mimetype: text/plain
+  25-PRM4.PRM:
+    mimetype: text/plain
+  25-SR1.ANS:
+    mimetype: text/plain
+  25-THC.LGO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GS-PH.LGO:
+    mimetype: text/plain
+  GS-THA.LGO:
+    mimetype: text/plain
+  KJ-FITS1.ANS:
+    mimetype: text/plain
+  LV-RISE.MTM:
+    mimetype: application/octet-stream
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PK-AWEA1.GIF:
+    mimetype: image/gif
+  PK-THC.GIF:
+    mimetype: image/gif
+  PK-VI1.GIF:
+    mimetype: image/gif
+  PR-KRONC.ASC:
+    mimetype: text/plain
+  PR-SX01.ANS:
+    mimetype: text/plain
+  PV-D202.ANS:
+    mimetype: text/plain
+  PV-FITS0.ANS:
+    mimetype: text/plain
+  TH-HTC.ANS:
+    mimetype: text/plain
+  TH-THC.ASC:
+    mimetype: text/plain
+  TH-VI.ANS:
+    mimetype: text/plain
+  TP-DSPR1.ANS:
+    mimetype: text/plain
+  TP-SV01.ANS:
+    mimetype: text/plain
+  TP-TC01.ANS:
+    mimetype: text/plain
+  TP-VI01.ANS:
+    mimetype: text/plain
+  TP-VI01.LGO:
+    mimetype: text/plain
+  USL-FITS.LIT:
+    mimetype: text/plain
+  VI-9406.MEM:
+    mimetype: text/plain
+  VI-9406.NFO:
+    mimetype: text/plain
+  VI-9406.SIT:
+    mimetype: text/plain
+  VI-APP.EXE:
+    mimetype: application/x-msdos-program
+  VI-REQST.EXE:
+    mimetype: application/x-msdos-program
+  VIVIEW.EXE:
+    mimetype: application/x-msdos-program

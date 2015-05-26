@@ -1,0 +1,14 @@
+name: dkb_odb.lzh
+hash: 412ad2e0e87de3d4795a4ca1f5f6e11c
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  odb1_2.jpg:
+    mimetype: image/jpeg
+  odb2_2.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain

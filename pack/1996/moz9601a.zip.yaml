@@ -1,0 +1,62 @@
+name: moz9601a.zip
+hash: abb224706e6b8f9a700001beb6e7c48d
+year: 1996
+file:
+  FILE_ID.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GUARANA.EXE:
+    mimetype: application/x-msdos-program
+  LOC-9601.ASC:
+    mimetype: text/plain
+  LOC-MOZ1.ANS:
+    mimetype: text/plain
+  MJT-9601.ASC:
+    mimetype: text/plain
+  MOZ9601A.DIZ:
+    mimetype: text/plain
+  MOZICART.ANS:
+    mimetype: text/plain
+  MOZICART.ASC:
+    mimetype: text/plain
+  MOZICART.NFO:
+    mimetype: text/plain
+  MTE-9601.ANS:
+    mimetype: text/plain
+  MTE-SU.GIF:
+    mimetype: image/gif
+  RAY-COL3.ANS:
+    mimetype: text/plain
+  RAY-UND2.ANS:
+    mimetype: text/plain
+  RAY-WOLV.ANS:
+    mimetype: text/plain
+  RBK-9601.LIT:
+    mimetype: text/plain
+  READIT.EXE:
+    mimetype: application/x-msdos-program
+  RELEASES.MOZ:
+    mimetype: application/octet-stream
+  SMA1HDO1.ANS:
+    mimetype: text/plain
+  SMA1HDO2.ANS:
+    mimetype: text/plain
+  SMA1KLF1.ANS:
+    mimetype: text/plain
+  SMA1KLF2.ANS:
+    mimetype: text/plain
+  START!.EXE:
+    mimetype: application/x-msdos-program
+  TRSITE.TSH:
+    mimetype: text/plain
+  WAV-MAM.JPG:
+    mimetype: image/jpeg
+  WAV-MOZ1.ASC:
+    mimetype: text/plain
+  XPL-HZM.JPG:
+    mimetype: image/jpeg
+  XXX-MOZ.APP:
+    mimetype: text/plain
+  XXX-MOZ.REQ:
+    mimetype: text/plain

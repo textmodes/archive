@@ -1,0 +1,36 @@
+name: ecl-0794.zip
+hash: 696653f3ed8d1d047219dde57b6237b2
+year: 1994
+file:
+  BLM-0.ZIP:
+    mimetype: application/zip
+  DN-MOSH.ECP:
+    mimetype: text/plain
+  DRK-WEED.ECP:
+    mimetype: text/plain
+  ECP-APP.ZIP:
+    mimetype: application/zip
+  ECP-NEWS.LET:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  MEMBERS.ECP:
+    mimetype: text/plain
+  MTY-HORN.ECP:
+    mimetype: text/plain
+  MTY-MAIN.ECP:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  SLA-RIFF.MOD:
+    mimetype: audio/x-mod
+  SLA-SOUL.MOD:
+    mimetype: audio/x-mod
+  TB-PHISH.PCX:
+    mimetype: image/pcx
+  VTI-ECP.PCX:
+    mimetype: image/pcx
+  VTI-MOSH.PCX:
+    mimetype: image/pcx
+  VTI-TRT.PCX:
+    mimetype: image/pcx

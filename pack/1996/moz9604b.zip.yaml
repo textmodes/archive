@@ -1,0 +1,56 @@
+name: moz9604b.zip
+hash: 89cba5b46e0a8f895f0b701e60f79670
+year: 1996
+file:
+  BB-ALLEY.S3M:
+    mimetype: audio/x-mod
+  BB-PBLUE.MOD:
+    mimetype: audio/x-mod
+  CAPTAIN.COM:
+    mimetype: application/x-msdos-program
+  CBC-BUBB.XM:
+    mimetype: audio/x-mod
+  CBC-DRM.XM:
+    mimetype: audio/x-mod
+  DRZ-HIDE.XM:
+    mimetype: audio/x-mod
+  DRZ-INFO.NFO:
+    mimetype: text/plain
+  DRZ-ISTH.XM:
+    mimetype: audio/x-mod
+  DRZ-RECY.XM:
+    mimetype: audio/x-mod
+  EOD.DOX:
+    mimetype: text/plain
+  EXN-NOGD.XM:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GREETINX.MOZ:
+    mimetype: application/octet-stream
+  HISTORY.MOZ:
+    mimetype: application/octet-stream
+  HYH-BLUE.MID:
+    mimetype: audio/midi
+  HYH-CHRO.MID:
+    mimetype: audio/midi
+  HYH-UHU.MID:
+    mimetype: audio/midi
+  MOZ9604B.DIZ:
+    mimetype: text/plain
+  MOZICART.ANS:
+    mimetype: text/plain
+  MOZICART.ASC:
+    mimetype: text/plain
+  MOZICART.NFO:
+    mimetype: text/plain
+  RELEASES.MOZ:
+    mimetype: application/octet-stream
+  SNT. SU:
+    mimetype: text/plain
+  SNT.NFO:
+    mimetype: text/plain
+  XXX-MOZ.APP:
+    mimetype: text/plain
+  XXX-MOZ.REQ:
+    mimetype: text/plain

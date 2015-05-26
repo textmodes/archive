@@ -1,0 +1,44 @@
+name: mtp-bye.zip
+hash: e9589696a3f331e61cf76a9c916dbc05
+year: 1995
+file:
+  '{!LIFE!}.DOC':
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HIDE-IT.EXE:
+    mimetype: application/x-msdos-program
+  MICK.NFO:
+    mimetype: text/plain
+  MTP-BGAT.BYE:
+    mimetype: text/plain
+  MTP-BLUE.BYE:
+    mimetype: text/plain
+  MTP-GNOR.BYE:
+    mimetype: text/plain
+  MTP-GRAC.BYE:
+    mimetype: text/plain
+  MTP-HELL.BYE:
+    mimetype: text/plain
+  MTP-INFI.BYE:
+    mimetype: text/plain
+  MTP-JAIL.BYE:
+    mimetype: text/plain
+  MTP-PAIN.BYE:
+    mimetype: text/plain
+  MTP-PYAD.BYE:
+    mimetype: text/plain
+  MTP-PYRA.BYE:
+    mimetype: text/plain
+  MTP-QUAR.BYE:
+    mimetype: text/plain
+  MTP-SHEL.BYE:
+    mimetype: text/plain
+  MTP-UAD.BYE:
+    mimetype: text/plain
+  MTP-UNDE.BYE:
+    mimetype: text/plain
+  MTP-WOND.BYE:
+    mimetype: text/plain
+  NEO.COM:
+    mimetype: application/x-msdos-program

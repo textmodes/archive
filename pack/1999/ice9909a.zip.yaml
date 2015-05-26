@@ -1,0 +1,38 @@
+name: ice9909a.zip
+hash: 8891251672a603e15ffec52ea3aa7bb5
+year: 1999
+file:
+  09-7thse.ice:
+    mimetype: text/plain
+  09-blk1.ice:
+    mimetype: text/plain
+  file_id.diz:
+    mimetype: text/plain
+  ice-9909.dsc:
+    mimetype: application/octet-stream
+  ice-9909.mem:
+    mimetype: text/plain
+  ice-9909.nfo:
+    mimetype: text/plain
+  ice-9909.sit:
+    mimetype: text/plain
+  iceview.cnf:
+    mimetype: text/plain
+  iceview.doc:
+    mimetype: text/plain
+  iceview.exe:
+    mimetype: application/x-msdos-program
+  kt-poke.ice:
+    mimetype: text/plain
+  ti-cms1.ice:
+    mimetype: text/plain
+  ti-id02.ice:
+    mimetype: text/plain
+  ti-shs5.ice:
+    mimetype: text/plain
+  ti-shs6.ice:
+    mimetype: text/plain
+  us-fc1.ice:
+    mimetype: text/plain
+  us-ice.ice:
+    mimetype: text/plain

@@ -1,0 +1,48 @@
+name: fat-0994.zip
+hash: 5e243a369eaff2bdb7b14301953e74bd
+year: 1994
+file:
+  AD-FAT.FAT:
+    mimetype: text/plain
+  BB-PH.S3M:
+    mimetype: audio/x-mod
+  BB-VIS1.FAT:
+    mimetype: text/plain
+  CD-BYTME.FAT:
+    mimetype: text/plain
+  CD-LEPER.FAT:
+    mimetype: text/plain
+  CD-SCRFC.LIT:
+    mimetype: text/plain
+  DGNPNCH2.MOD:
+    mimetype: audio/x-mod
+  DP-GM.FAT:
+    mimetype: text/plain
+  DRGNPNCH.MOD:
+    mimetype: audio/x-mod
+  DY-HG.FAT:
+    mimetype: text/plain
+  DY-HYP.FAT:
+    mimetype: text/plain
+  DY-NT.FAT:
+    mimetype: text/plain
+  DY-TAP.FAT:
+    mimetype: text/plain
+  DY-UI.FAT:
+    mimetype: text/plain
+  FAT-0994.NFO:
+    mimetype: text/plain
+  FAT-APP.EXE:
+    mimetype: application/x-msdos-program
+  FAT-NEWS.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FV.EXE:
+    mimetype: application/x-msdos-program
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  TAL-FAT.FAT:
+    mimetype: text/plain
+  TKBRUTAL.MOD:
+    mimetype: audio/x-mod

@@ -1,0 +1,34 @@
+name: sf09.zip
+hash: d0252fe396b262af67a5e17799fd8bae
+year: 2003
+file:
+  hi-rez/leap - refuse bin.png:
+    mimetype: image/png
+  info/afterword.txt:
+    mimetype: text/plain
+  info/foreword.txt:
+    mimetype: text/plain
+  info/members.txt:
+    mimetype: text/plain
+  litz/leap - cat.txt:
+    mimetype: text/plain
+  litz/leap - king of sorrow and of great mind.txt:
+    mimetype: text/plain
+  litz/leap - stupid, real dream.png:
+    mimetype: image/png
+  litz/leap - stupid, real dream.txt:
+    mimetype: text/plain
+  litz/leap - they are like we are.txt:
+    mimetype: text/plain
+  lo-rez/leap - as a blind.png:
+    mimetype: image/png
+  lo-rez/leap - mutation.asc:
+    mimetype: text/plain
+  lo-rez/leap - the morning of life.asc:
+    mimetype: text/plain
+  lo-rez/leap - time machine.asc:
+    mimetype: text/plain
+  lo-rez/md - victim.ans:
+    mimetype: text/plain
+  'somnolent flower #09.nfo':
+    mimetype: text/plain

@@ -1,0 +1,66 @@
+name: fi-0495.zip
+hash: 6c91ee9e5e951f4e66c9e4c2c9242a56
+year: 1995
+file:
+  CN-ANNA.LIT:
+    mimetype: text/plain
+  CN-CNUDR.LIT:
+    mimetype: text/plain
+  CN-LOFP.LIT:
+    mimetype: text/plain
+  CN-LONG.LIT:
+    mimetype: text/plain
+  EG-GUN.MOD:
+    mimetype: audio/x-mod
+  EG-MIX.MOD:
+    mimetype: audio/x-mod
+  EG-ROCK2.MOD:
+    mimetype: audio/x-mod
+  FI-APP.EXE:
+    mimetype: application/x-msdos-program
+  FI-FILES.NFO:
+    mimetype: text/plain
+  FI-NEWS.NFO:
+    mimetype: text/plain
+  FI-SITES.NFO:
+    mimetype: text/plain
+  FI-STAFF.NFO:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LC-VV.LIT:
+    mimetype: text/plain
+  MM-ALTER.MOD:
+    mimetype: audio/x-mod
+  NEO.COM:
+    mimetype: application/x-msdos-program
+  NV-CRYPT.ANS:
+    mimetype: text/plain
+  NV-DEADL.ANS:
+    mimetype: text/plain
+  PA-NT1.LIT:
+    mimetype: text/plain
+  PA-TR.LIT:
+    mimetype: text/plain
+  SC-FILOG.ANS:
+    mimetype: text/plain
+  TN-PRIML.GIF:
+    mimetype: image/gif
+  UN-AL.ANS:
+    mimetype: text/plain
+  UN-LOZ.ANS:
+    mimetype: text/plain
+  UN-UTC.ANS:
+    mimetype: text/plain
+  VN-CYBER.ANS:
+    mimetype: text/plain
+  VN-FIDLS.ANS:
+    mimetype: text/plain
+  VN-FILGO.ANS:
+    mimetype: text/plain
+  VN-PRMAL.ANS:
+    mimetype: text/plain
+  VN-TNW.ANS:
+    mimetype: text/plain
+  VN-VERSD.ANS:
+    mimetype: text/plain

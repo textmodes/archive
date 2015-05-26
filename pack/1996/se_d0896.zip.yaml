@@ -1,0 +1,38 @@
+name: se_d0896.zip
+hash: 0db0c0debfc6348d57a931bf6d121061
+year: 1996
+file:
+  ALALALA.S3M:
+    mimetype: audio/x-mod
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  LI-TSF.S3M:
+    mimetype: audio/x-mod
+  ONX-AUGN.S3M:
+    mimetype: audio/x-mod
+  ONX_AEON.S3M:
+    mimetype: audio/x-mod
+  ONX_BLSK.S3M:
+    mimetype: audio/x-mod
+  ONX_ELST.S3M:
+    mimetype: audio/x-mod
+  ONX_GOL.S3M:
+    mimetype: audio/x-mod
+  ONX_HOCH.S3M:
+    mimetype: audio/x-mod
+  ONX_ICBD.S3M:
+    mimetype: audio/x-mod
+  ONX_MOSK.S3M:
+    mimetype: audio/x-mod
+  ONX_TEWO.S3M:
+    mimetype: audio/x-mod
+  Q.IT:
+    mimetype: audio/x-mod
+  SE_INFO.EXE:
+    mimetype: application/x-msdos-program
+  SEP.BAT:
+    mimetype: application/x-msdos-program
+  SEPLAY.EXE:
+    mimetype: application/x-msdos-program
+  se_d0896.frm:
+    mimetype: text/plain

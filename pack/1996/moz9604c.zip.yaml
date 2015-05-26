@@ -1,0 +1,42 @@
+name: moz9604c.zip
+hash: fae184f52765f83fdcd690ad0a47a3ae
+year: 1996
+file:
+  CAPTAIN.COM:
+    mimetype: application/x-msdos-program
+  EOD.DOX:
+    mimetype: text/plain
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  GREETINX.MOZ:
+    mimetype: application/octet-stream
+  HISTORY.MOZ:
+    mimetype: application/octet-stream
+  K3O3LOST.XM:
+    mimetype: audio/x-mod
+  LEM-ETER.S3M:
+    mimetype: audio/x-mod
+  MOZ9604C.DIZ:
+    mimetype: text/plain
+  MOZICART.ANS:
+    mimetype: text/plain
+  MOZICART.ASC:
+    mimetype: text/plain
+  MOZICART.NFO:
+    mimetype: text/plain
+  OMG-CHCH.XM:
+    mimetype: audio/x-mod
+  OMG-ENIG.XM:
+    mimetype: audio/x-mod
+  OMG-STBS.XM:
+    mimetype: audio/x-mod
+  RELEASES.MOZ:
+    mimetype: application/octet-stream
+  SNT. SU:
+    mimetype: text/plain
+  SNT.NFO:
+    mimetype: text/plain
+  XXX-MOZ.APP:
+    mimetype: text/plain
+  XXX-MOZ.REQ:
+    mimetype: text/plain

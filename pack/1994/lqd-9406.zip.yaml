@@ -1,0 +1,88 @@
+name: lqd-9406.zip
+hash: 67237479d243b86a456fd41621e025e4
+year: 1994
+file:
+  APPLIK.EXE:
+    mimetype: application/x-msdos-program
+  BA-VECT.EXE:
+    mimetype: application/x-msdos-program
+  BNY-ALRT.MTM:
+    mimetype: audio/x-mod
+  DI-BR1.LQD:
+    mimetype: text/plain
+  DI-MA1.LQD:
+    mimetype: text/plain
+  DI-NM1.LQD:
+    mimetype: text/plain
+  DI-RM1.LQD:
+    mimetype: text/plain
+  DI-SITE1.LQD:
+    mimetype: text/plain
+  DI-SITE2.LQD:
+    mimetype: text/plain
+  DI-TCC21.LQD:
+    mimetype: text/plain
+  EO-COUNT.GIF:
+    mimetype: image/gif
+  EO-DARKS.GIF:
+    mimetype: image/gif
+  EO-LOGO1.GIF:
+    mimetype: image/gif
+  EO-LOGO2.GIF:
+    mimetype: image/gif
+  EO-REALM.GIF:
+    mimetype: image/gif
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  FILELIST.NFO:
+    mimetype: text/plain
+  FS-SOD.GIF:
+    mimetype: image/gif
+  GALXY999.MTM:
+    mimetype: audio/x-mod
+  LQDVIEW.EXE:
+    mimetype: application/x-msdos-program
+  MEMBERS.NFO:
+    mimetype: text/plain
+  MEMBOARD.NFO:
+    mimetype: text/plain
+  MU-GHBL.MTM:
+    mimetype: audio/x-mod
+  MU-REALM.MTM:
+    mimetype: audio/x-mod
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  OG-ARMAG.LQD:
+    mimetype: text/plain
+  OG-BREAL.LQD:
+    mimetype: text/plain
+  OG-LOS.LQD:
+    mimetype: text/plain
+  PW-ANGEL.GIF:
+    mimetype: image/gif
+  RW-SPACE.GIF:
+    mimetype: image/gif
+  SR-SCOPE.GIF:
+    mimetype: image/gif
+  TE-AAMN1.LQD:
+    mimetype: text/plain
+  TE-AAMSG.LQD:
+    mimetype: text/plain
+  TE-DIST.LQD:
+    mimetype: text/plain
+  TE-OXYGN.LQD:
+    mimetype: text/plain
+  TE-SC.LQD:
+    mimetype: text/plain
+  TE-SPACE.LQD:
+    mimetype: text/plain
+  TE-TMP.LQD:
+    mimetype: text/plain
+  TE-TMPM1.LQD:
+    mimetype: text/plain
+  TETNT-SC.LQD:
+    mimetype: text/plain
+  VDO-CROS.GIF:
+    mimetype: image/gif
+  VDO-SOD.GIF:
+    mimetype: image/gif

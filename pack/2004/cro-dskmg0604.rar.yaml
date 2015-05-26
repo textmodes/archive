@@ -1,0 +1,480 @@
+name: cro-dskmg0604.rar
+hash: 0c504b5ed4b5efb8480adf6a67db2c93
+year: 2004
+file:
+  cro-dskmg0604/MAG/data/Ascii/aylien/AyL-DR.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/AyL-TAD2.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/AyL-TVS.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-1-804.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-AB2.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-APC.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-APG.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-BR.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-CCCP.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-COLA.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-DVISO.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-GTI.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-GZ-PAT.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-I.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-IMDB.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-MTC.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-MYSTDVDR.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-NENDI.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-NW.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-PROTECT.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-SPACE.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-SPONG.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-SQC.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-SWC.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-TSN.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-UNIT.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-W3D.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-XZX.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/aylien/ayl-valio.NFO:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-doctrine.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-gem.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-ignorants.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-mc.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-pandora_new.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-phoenix.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-rov.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-sio2.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-submarine.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-tbe.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-traffic.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-ulla.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-victory_b.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/cpn/cpn-weed_world.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/m0lo-/m0lo-asp.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/m0lo-/m0lo-blingbling.ans:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/m0lo-/m0lo-bunny.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/m0lo-/m0lo-butt.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/m0lo-/m0lo-fti.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/m0lo-/m0lo-gasface.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/m0lo-/m0lo-poise.asc:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/shane54/S54-BITCH.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/shane54/S54-KHZ.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/shane54/S54-SCD.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/sx/SX-DEV1.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/sx/SX-LLP3.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/sx/SX-LZO1.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/sx/SX-SH.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Ascii/sx/SX-XTDRS.ASC:
+    mimetype: text/plain
+  cro-dskmg0604/MAG/data/Hirez/aylien/AyL-RAF.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/aylien/AyL-Snowman.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/aylien/robo3.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/aylien/ship1.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-EXit.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-acid.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-bmw.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-bptr.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-cro.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-crubes.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-dcc.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-haze.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-icyrose.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-lom-logo.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-lone.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-lucid_keygen_template.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-orion.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-plexx.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-rockwilder-logo.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-spikedheart.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-storm_installer_gui.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/scorpi/scr-undead.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/splash.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/sx/sx-bmk.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/sx/sx-sd.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/targon/t!-monster.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/data/Hirez/targon/t!-moon.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/data/Hirez/targon/t!-poorguy.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-Lz0.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-d2D.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-dcn.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-dev.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-dfs.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-e.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-exp.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-g4a.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-gnv.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-lc1.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-lc2.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-lcd.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-mr.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-pnc.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-pou.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-sc1.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-sc2.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-sc3.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-sc4.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-tnl.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Hirez/viruz666/vRz!-woc.jpg:
+    mimetype: image/jpeg
+  cro-dskmg0604/MAG/data/Music/APANAKA.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DT_8BIT.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DT_AGAIN.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DT_CRACK.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DT_CRO1.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DT_DAY.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DT_KEYG.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DT_ORN7.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/DTBZL_WH.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/VHI-GOEY.IT:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/VHI-KAZO.IT:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/VHI-REMI.IT:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/Vhiiula_-_Sunwards.mp3:
+    mimetype: audio/mpeg
+  cro-dskmg0604/MAG/data/Music/Vhiiula_OneHourCompo_JOINT.IT:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/Vhiiula_RayonDuSoleil_(highqualityversion).mp3:
+    mimetype: audio/mpeg
+  cro-dskmg0604/MAG/data/Music/bzl-ecco.xm:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/bzl-fnke.xm:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/bzl-outl.xm:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/bzl-stuf.xm:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/dd_chip-concert.IT:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/dd_lemmings.IT:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/minnox_-_blackfog.mp3:
+    mimetype: audio/mpeg
+  cro-dskmg0604/MAG/data/Music/minnox_-_comprend.mp3:
+    mimetype: audio/mpeg
+  cro-dskmg0604/MAG/data/Music/minnox_-_fbreak.mp3:
+    mimetype: audio/mpeg
+  cro-dskmg0604/MAG/data/Music/minnox_-_ukut.mp3:
+    mimetype: audio/mpeg
+  cro-dskmg0604/MAG/data/Music/minnox_-_vetigo.mp3:
+    mimetype: audio/mpeg
+  cro-dskmg0604/MAG/data/Music/s-rubygreen.XM:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Music/vhiiula_OneHourCOmpo_stoners.it:
+    mimetype: audio/x-mod
+  cro-dskmg0604/MAG/data/Sys/LCD.ttf:
+    mimetype: application/x-font-ttf
+  cro-dskmg0604/MAG/data/Sys/Pixel.ttf:
+    mimetype: application/x-font-ttf
+  cro-dskmg0604/MAG/data/Sys/download.exe:
+    mimetype: application/x-msdos-program
+  cro-dskmg0604/MAG/data/Sys/gte437.FON:
+    mimetype: application/x-dosexec
+  cro-dskmg0604/MAG/html/Ascii/ascii.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_AyL-DR.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_AyL-TAD2.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_AyL-TVS.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-1-804.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-AB2.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-APC.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-APG.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-BR.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-CCCP.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-COLA.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-DVISO.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-GTI.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-GZ-PAT.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-I.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-IMDB.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-MTC.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-MYSTDVDR.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-NENDI.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-NW.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-PROTECT.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-SPACE.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-SPONG.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-SQC.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-SWC.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-TSN.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-UNIT.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-W3D.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-XZX.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_aylien_ayl-valio.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_content.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-doctrine.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-gem.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-ignorants.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-mc.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-pandora.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-pandora_new.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-phoenix.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-rov.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-sio2.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-submarine.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-tbe.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-traffic.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-ulla.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-victory_b.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_cpn_cpn-weed_world.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_m0lo-.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_m0lo-_m0lo-asp.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_m0lo-_m0lo-bunny.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_m0lo-_m0lo-butt.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_m0lo-_m0lo-fti.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_m0lo-_m0lo-gasface.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_m0lo-_m0lo-poise.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_select.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_shane54.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_shane54_S54-BITCH.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_shane54_S54-KHZ.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_shane54_S54-SCD.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_sx.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_sx_SX-DEV1.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_sx_SX-LLP3.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_sx_SX-LZO1.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_sx_SX-SH.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/ascii_sx_SX-XTDRS.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Ascii/style.css:
+    mimetype: text/css
+  cro-dskmg0604/MAG/html/Bonus/bonus.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Bonus/style.css:
+    mimetype: text/css
+  cro-dskmg0604/MAG/html/Hirez/hirez.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/hirez_aylien.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/hirez_content.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/hirez_scorpi.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/hirez_select.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/hirez_sx.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/hirez_targon.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/hirez_viruz666.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Hirez/style.css:
+    mimetype: text/css
+  cro-dskmg0604/MAG/html/Info/info.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_bizzo.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_bzl.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_content.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_dualtrax.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_dusodril.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_minnox.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_myssy.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_select.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_sinny.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/music_vhiiula.html:
+    mimetype: text/html
+  cro-dskmg0604/MAG/html/Music/style.css:
+    mimetype: text/css
+  cro-dskmg0604/MAG/html/Music/track.gif:
+    mimetype: image/gif
+  cro-dskmg0604/MAG/html/style.css:
+    mimetype: text/css
+  cro-dskmg0604/bass.dll:
+    mimetype: application/x-dosexec
+  cro-dskmg0604/cro.nfo:
+    mimetype: text/plain
+  cro-dskmg0604/discmag.exe:
+    mimetype: application/x-msdos-program
+  cro-dskmg0604/discmag.log:
+    mimetype: text/plain
+  cro-dskmg0604/diskmag.ini:
+    mimetype: text/plain
+  cro.nfo:
+    mimetype: text/plain

@@ -1,0 +1,20 @@
+name: l0p_mrok.rar
+hash: b764c7b3ef66967ddb609568413c2179
+year: 1999
+file:
+  EDIT.COM:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  L0P_MROK.ASC:
+    mimetype: text/plain
+  L0P_MROK.BAT:
+    mimetype: application/x-msdos-program
+  SK!FILL.ASC:
+    mimetype: text/plain
+  THELO0P.APP:
+    mimetype: application/octet-stream
+  THELO0P.NFO:
+    mimetype: text/plain
+  THELO0P.ORG:
+    mimetype: text/plain

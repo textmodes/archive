@@ -1,0 +1,38 @@
+name: dkb_bb1.lzh
+hash: 65ee90bba721b7e5b313d48f7cbe2977
+year: 1998
+file:
+  dkb.nfo:
+    mimetype: text/plain
+  fiat.jpg:
+    mimetype: image/jpeg
+  file_id.diz:
+    mimetype: text/plain
+  hotgraff.txt:
+    mimetype: text/plain
+  jims.jpg:
+    mimetype: image/jpeg
+  kunz.jpg:
+    mimetype: image/jpeg
+  mone187.jpg:
+    mimetype: image/jpeg
+  pare.jpg:
+    mimetype: image/jpeg
+  rask.jpg:
+    mimetype: image/jpeg
+  releases.lst:
+    mimetype: text/plain
+  sane2.jpg:
+    mimetype: image/jpeg
+  saok.jpg:
+    mimetype: image/jpeg
+  sirco.jpg:
+    mimetype: image/jpeg
+  spak.jpg:
+    mimetype: image/jpeg
+  wreck.jpg:
+    mimetype: image/jpeg
+  zake.jpg:
+    mimetype: image/jpeg
+  zank.jpg:
+    mimetype: image/jpeg

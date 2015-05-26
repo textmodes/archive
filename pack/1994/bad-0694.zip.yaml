@@ -1,0 +1,44 @@
+name: bad-0694.zip
+hash: faea9970daf98af27d41abb80930d7c6
+year: 1994
+file:
+  BAD-0694.EXE:
+    mimetype: application/x-msdos-program
+  BAD-0694.MEM:
+    mimetype: text/plain
+  BAD-0694.NFO:
+    mimetype: text/plain
+  BAD-0694.SIT:
+    mimetype: text/plain
+  BADAPPS.EXE:
+    mimetype: application/x-msdos-program
+  BK-MYST.BAD:
+    mimetype: text/plain
+  BK-PARK.BAD:
+    mimetype: text/plain
+  BK-POWER.BAD:
+    mimetype: text/plain
+  BV.EXE:
+    mimetype: application/x-msdos-program
+  FILE_ID.DIZ:
+    mimetype: text/plain
+  HR-BAD2.BAD:
+    mimetype: text/plain
+  HR-BADVI.BAD:
+    mimetype: text/plain
+  HR-BLACK.BAD:
+    mimetype: text/plain
+  HR-FLATU.BAD:
+    mimetype: text/plain
+  KG-LEGN.BAD:
+    mimetype: text/plain
+  KG-LOGO1.BAD:
+    mimetype: text/plain
+  KG-SUM.BAD:
+    mimetype: text/plain
+  LD-SR1.BAD:
+    mimetype: text/plain
+  NEOTOKYO.ANS:
+    mimetype: text/plain
+  PCM.NFO:
+    mimetype: text/plain

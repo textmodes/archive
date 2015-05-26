@@ -1,0 +1,30 @@
+name: ice0003a.zip
+hash: 364e391ced0a8976316d75adb3a8ee73
+year: 2000
+file:
+  DM-BG.JPG:
+    mimetype: image/jpeg
+  ICE-0003.DSC:
+    mimetype: text/plain
+  ICE-0003.MEM:
+    mimetype: text/plain
+  ICE-0003.NFO:
+    mimetype: text/plain
+  ICE-0003.SIT:
+    mimetype: text/plain
+  ICEVIEW.CNF:
+    mimetype: text/plain
+  ICEVIEW.DOC:
+    mimetype: text/plain
+  ICEVIEW.EXE:
+    mimetype: application/x-msdos-program
+  ID-ALICE.JPG:
+    mimetype: image/jpeg
+  JA-BRIDG.JPG:
+    mimetype: image/jpeg
+  LO-DRAC.JPG:
+    mimetype: image/jpeg
+  TI-POM.ICE:
+    mimetype: text/plain
+  US-SWIM.BIN:
+    mimetype: text/x-binary
